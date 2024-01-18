@@ -1,0 +1,56 @@
+---
+title: "Sang-Il Lee"
+subtitle: "Spatial Data Science, GIS, Cartography, Population Geography"
+image: me.png
+about:
+  template: trestles
+  links:
+    - text: Email
+      icon: envelope
+      url: "mailto:si_lee@snu.ac.kr"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/sangillee66"
+---
+
+::: column-page
+## Current Position
+
+Professor, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+## Education
+
+-   B.A., 1989, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   M.A., 1991, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   Ph.D., 2001, [Department of Geography](https://geography.osu.edu/), [The Ohio State University](https://www.osu.edu/)
+
+## Careers
+
+-   September, 2003 - now: Full-time lecturer, Assistant professor, Associate professor, Full professor at [Seoul National University](https://www.snu.ac.kr/)
+
+-   March, 2002 - August, 2003: Full-time lecturer, [Kangwon National University](https://wwwk.kangwon.ac.kr/)
+
+-   January, 2021 - December, 2022: President, [The Association of Korean Geographers](http://www.koreangeography.or.kr/)
+
+-   January, 2015 - December, 2016: President, [The Korean Cartographic Association](http://www.cartography.or.kr/)
+
+## Awards and Honors
+
+-   2023, Excellence Teaching Award, [Seoul National University](https://www.snu.ac.kr/)
+
+-   2021, Commendation for 20-Year-Long Service, [Seoul National University](https://www.snu.ac.kr/)
+
+-   2013, Excellent Science and Technology Paper Award, [The Korean Federation of Science and Technology Societies](https://www.kofst.or.kr/)
+
+-   2012, Excellence Teaching Award, [College of Education](https://edu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   2008, Commendation of The Ministry of Land, Infrastructure and Transport
+
+-   2007, Outstanding Young Professor Award, College of Education, [Seoul National University](https://www.snu.ac.kr/)
+
+-   2002, E. Williard and Ruby S. Miller Fellow Award, [Department of Geography](https://geography.osu.edu/), [The Ohio State University](https://www.osu.edu/)
+
+-   2001, Award of Best Student Paper, [Spatial Analysis and Modeling (SAM) Specialty Group](http://sam-aag.org/) of [American Association of Geographers](https://www.aag.org/), The 97th Annual Meeting, New York
+:::

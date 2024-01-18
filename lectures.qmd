@@ -1,0 +1,28 @@
+---
+title: "List of Classes"
+title-block-banner: true
+---
+
+## 2024/1 Introduction to Cartography
+
+### Basic Info
+
+-   Instructor: Sang-Il Lee (Professor, Seoul National University)
+
+-   Place: TBD
+
+-   Time: 11:00 - 12:15, Mondays & Wednesdays
+
+### [Syllabus](classes/2024_1_Cartography.qmd)
+
+## 2023/2 Spatial Analysis and Geography Education
+
+### Basic Info
+
+-   Instructor: Sang-Il Lee (Professor, Seoul National University)
+
+-   TA: Sechang Kim (Graduate Student, Seoul National University)
+
+-   Place: Room #107, Building #10-1
+
+-   Time: 11:00 - 12:15, Mondays & Wednesdays

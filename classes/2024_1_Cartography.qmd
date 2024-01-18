@@ -1,0 +1,19 @@
+---
+title: "2024/1 Introduction to Cartography"
+title-block-banner: true
+number-sections: true
+---
+
+## 수업의 주안점
+
+### 지식 측면
+
+-   지도학의 기본 개념 이해: I. 지도학과 지도학적 의사소통
+
+-   지도 투영의 원리 이해: II. 지도 투영
+
+-   주제도 제작의 원리 이해: III. 주제도 제작
+
+### 기능 측면: GIS를 이용한 지도 제작
+
+## 수업 게시판 및 강의 진행 방식

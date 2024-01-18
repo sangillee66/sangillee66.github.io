@@ -1,0 +1,9 @@
+---
+title: "My first post"
+author: "Sang-Il Lee"
+date: 01-01-2024
+---
+
+I am making my homepage for the first time in my life. I hope it will go well. @fig-birth2023 below was taken in the my birthday part at Pudagi in November 24, 2023.
+
+![My birthday part at Pudagi in 2023](image1.jpg){#fig-birth2023}

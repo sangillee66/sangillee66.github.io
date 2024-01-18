@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Home for SANG-IL LEE"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Academic Works"
+        href: works.qmd
+      - text: "Classes"
+        href: lectures.qmd
+      - text: "Blog"
+        href: blog.qmd
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+  
+editor: visual
+

@@ -1,0 +1,9 @@
+---
+title: "My second post"
+author: "Sang-Il Lee"
+date: 01-02-2024
+---
+
+I am making my homepage for the first time in my life. I hope it will go well.
+
+![](image2.jpg)
