@@ -51,3 +51,11 @@ bibliography: references.bib
 -   김현미ㆍ이상일, 2021, “이성분트렌드매핑 기법을 이용한 우리나라 인구 변화의 시공간적 역동성 시각화,” 한국사진지리학회지, 31(3), 51-68. [https://doi.org/10.35149/jakpg.2021.31.3.004](#0). [{{< bi file-pdf-fill >}}](papers/2021_02_한국사진지리학회지_김현미_이상일.pdf)
 
 -   김현미ㆍ이상일, 2021, “우리나라 디지털 행정구역 경계 파일의 일반화에 관한 연구: 주제도 제작용 기본도를 중심으로,” 한국지도학회지, 21(2), 29-44. <https://doi.org/10.16879/jkca.2021.21.2.029>. [{{< bi file-pdf-fill >}}](papers/2021_01_한국지도학회지_김현미_이상일.pdf)
+
+### 2020
+
+-   이상일ㆍ조대헌, 2020, “우리나라 소지역 인구 추계를 위한 방법론 연구: 추세외삽법을 중심으로,” 지리교육논집, 64, 1-19. <https://papersearch.net/thesis/article.asp?key=3935192>. [{{< bi file-pdf-fill >}}](papers/2020_03_지리교육논집_이상일_조대헌.pdf)
+
+-   이상일ㆍ이몽현, 2020, “무작위합역 절차의 다양성에 대한 시뮬레이션 연구,” 한국지도학회지, 20(3), 93-107. <https://doi.org/10.16879/jkca.2020.20.3.093>. [{{< bi file-pdf-fill >}}](papers/2020_02_한국지도학회지_이상일_이몽현.pdf)
+
+-   Lee, Sang-Il, 2020, “Neighborhood effects,” In Kobayashi, A., ed., *International Encyclopedia of Human Geography*, 2nd edition, Volume 9, Oxford: Elsevier, 335–339. <https://doi.org/10.1016/B978-0-08-102295-5.10409-3>. [{{< bi file-pdf-fill >}}](papers/2020_01_IEHG_Lee.pdf)
