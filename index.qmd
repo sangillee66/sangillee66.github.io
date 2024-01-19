@@ -1,6 +1,10 @@
 ---
 title: "Sang-Il Lee"
-subtitle: "Spatial Data Science, GIS, Cartography, Population Geography"
+subtitle: |
+  | Spatial Data Science
+  | Geographic Information Systems
+  | Cartography
+  | Population Geography
 image: me.png
 about:
   template: trestles

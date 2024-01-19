@@ -1,5 +1,6 @@
 ---
 title: "Academic Works"
+subtitle: "Books and Papers"
 title-block-banner: images/banner_works.jpg
 bibliography: references.bib
 ---
