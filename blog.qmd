@@ -6,5 +6,5 @@ listing:
   type: default
   categories: true
 page-layout: full
-title-block-banner: true
+title-block-banner: images/banner_blog.jpg
 ---

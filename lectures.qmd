@@ -1,6 +1,6 @@
 ---
 title: "List of Classes"
-title-block-banner: true
+title-block-banner: images/banner_lectures.jpg
 ---
 
 ## 2024/1 Introduction to Cartography

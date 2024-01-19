@@ -1,26 +1,26 @@
 ---
 title: "Academic Works"
-title-block-banner: true
+title-block-banner: images/banner_works.jpg
 bibliography: references.bib
 ---
 
 ## Books
 
--   정대홍 외 20인, 2022, 인공지능 시대 교사가 만드는 미래학교, 교육과학사, 파주.
+-   정대홍 외 20인, 2022, [인공지능 시대 교사가 만드는 미래학교](http://www.kyoyookbook.co.kr/shop/item.php?it_id=1661472925), 교육과학사, 파주.
 
--   이상일ㆍ손일 옮김, 2021, 지도와 거짓말, 서울: 푸른길. (Monmonier, Mark S, 2018, *How to Lie with Maps,* Third edition, Chicago, IL: The University of Chicago Press.)
+-   이상일ㆍ손일 옮김, 2021, [지도와 거짓말](http://www.purungil.co.kr/books/books_show.php?seq=617&mode=category&category_seq=_1_), 서울: 푸른길. (Monmonier, Mark S, 2018, [*How to Lie with Maps*](https://press.uchicago.edu/ucp/books/book/chicago/H/bo27400568.html)*,* Third edition, Chicago, IL: The University of Chicago Press.)
 
--   이건학ㆍ김감영ㆍ김영호ㆍ김영훈ㆍ신정엽ㆍ이상일 옮김, 2014, 지도학과 지리적 시각화, 서울: 시그마프레스. (Slocum, Terry A., Robert B. McMaster, Fritz C. Kessler, and Hugh H. Howard. 2009, *Thematic Cartography and Geovisualization*, 3rd ed., Upper Saddle River, NJ: Pearson Prentice Hall.)
+-   이건학ㆍ김감영ㆍ김영호ㆍ김영훈ㆍ신정엽ㆍ이상일 옮김, 2014, [지도학과 지리적 시각화](http://www.sigmapress.co.kr/shop/m_mall_detail.php?ps_ctid=01130000&ps_goid=1873&depth_2_display=none), 서울: 시그마프레스. (Slocum, Terry A., Robert B. McMaster, Fritz C. Kessler, and Hugh H. Howard. 2009, [*Thematic Cartography and Geovisualization*](https://www.amazon.com/Thematic-Cartography-Geovisualization-Terry-Slocum/dp/0132298341), 3rd ed., Upper Saddle River, NJ: Pearson Prentice Hall.)
 
--   이상일 옮김, 2014, 지구 끝까지: 세상을 바꾼 100장의 지도, 서울: 푸른길. (Harwood, Jeremy, 2011, *To the Ends of the Earth: 100 Maps that Changed the World*, New York, N.Y.: Chartwell Books.)
+-   이상일 옮김, 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](http://www.purungil.co.kr/books/books_show.php?seq=259&mode=category&category_seq=), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.)
 
--   이상일ㆍ김현미ㆍ조대헌 옮김, 2013, 짧은 지리학 개론 시리즈: GIS, 서울: 시그마프레스. (Schuurman, Nadine, 2004, *GIS: A Short Introduction*, Malden, MA: Blackwell.)
+-   이상일ㆍ김현미ㆍ조대헌 옮김, 2013, [짧은 지리학 개론 시리즈: GIS](http://www.sigmapress.co.kr/shop/m_mall_detail.php?ps_ctid=01130000&ps_goid=1878&depth_2_display=none), 서울: 시그마프레스. (Schuurman, Nadine, 2004, [*GIS: A Short Introduction*](https://blackwells.co.uk/bookshop/product/GIS-by-Nadine-Schuurman/9780631235330), Malden, MA: Blackwell.)
 
--   신정엽ㆍ이건학ㆍ김감영ㆍ전용완ㆍ이상일ㆍ조대헌ㆍ최은영ㆍ김현미ㆍ홍일영 옮김, 2011, 도시의 탐색: 도시공간이론과 GIS를 활용한 공간분석, 서울: 시그마프레스, 서울. (Greene, Richard P., and James B. Pick, 2006, *Exploring the Urban Community: A GIS Approach*, Upper Saddle River, NJ: Prentice Hall.)
+-   신정엽ㆍ이건학ㆍ김감영ㆍ전용완ㆍ이상일ㆍ조대헌ㆍ최은영ㆍ김현미ㆍ홍일영 옮김, 2011, [도시의 탐색: 도시공간이론과 GIS를 활용한 공간분석](http://www.sigmapress.co.kr/shop/m_mall_detail.php?ps_ctid=01130000&ps_goid=1888&depth_2_display=none), 서울: 시그마프레스, 서울. (Greene, Richard P., and James B. Pick, 2006, [*Exploring the Urban Community: A GIS Approach*](https://www.amazon.com/Exploring-Urban-Community-GIS-Approach/dp/0130175765/ref=sr_1_1?dib=eyJ2IjoiMSJ9.vZnc6WsGAk5LuI2Ebz1oAg.pAsPg8tfRznJTlpv9I35rWby2rNjm-Shv80TwmEyA8A&dib_tag=se&keywords=9780130175762&linkCode=qs&qid=1705647278&s=books&sr=1-1), Upper Saddle River, NJ: Prentice Hall.)
 
--   이상일ㆍ신정엽ㆍ김현미ㆍ홍일영ㆍ김감영ㆍ전용완ㆍ조대헌ㆍ김종근ㆍ이건학 옮김, 2009, 지리정보시스템과 지리정보과학, 서울: 시그마프레스. (Longley, Paul A., Michael F. Goodchild, David J. Maguire, and David W. Rhind, 2008, *Geographical Information Systems and Science,* 2nd. ed., reprinted, Chichester: Wiley.)
+-   이상일ㆍ신정엽ㆍ김현미ㆍ홍일영ㆍ김감영ㆍ전용완ㆍ조대헌ㆍ김종근ㆍ이건학 옮김, 2009, [지리정보시스템과 지리정보과학](http://www.sigmapress.co.kr/shop/m_mall_detail.php?ps_ctid=01130000&ps_goid=1895&depth_2_display=none), 서울: 시그마프레스. (Longley, Paul A., Michael F. Goodchild, David J. Maguire, and David W. Rhind, 2008, [*Geographical Information Systems and Science*](https://www.amazon.com/Geographic-Information-Systems-Science-Longley/dp/0470870001/ref=sr_1_4?crid=3I52LW8W5RTUH&dib=eyJ2IjoiMSJ9.ltOuoubUFKLqbIheQHxZt-TyzjyTL2GvTJkA-04mBm03zhqTvOZ8FABiWj9qbdwiCRwhYBUFjbG0pDfdbSQlvn81PiftMJcao1e4FqeVR6eog3b3qaKLR3JF_QpEfdZpN-HR6-Eu3wizMe0kOsZAR39-VBjBTVr5LGp6SbpdVDBst9U4rgdKeIuAfRRuQMy5tq2AcfUg6Go0o5vEJ5vqp6rXnS5nezxoU2X_QoM8Hbs.v2B3uuNCymQs7C0QrJk34_uck0u9J_dDLe5IQ2OPCWI&dib_tag=se&keywords=Geographical+Information+Systems+and+Science+goodchild&qid=1705647466&s=books&sprefix=geographical+information+systems+and+science+goodchil%2Cstripbooks-intl-ship%2C239&sr=1-4)*,* 2nd. ed., reprinted, Chichester: Wiley.)
 
--   신정엽ㆍ이상일, 2008, GIS의 개념과 원리, 서울: 다락방.
+-   신정엽ㆍ이상일, 2008, [GIS의 개념과 원리](https://snu-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?vid=82SNU&search_scope=ALL&docid=82SNU_INST21479053960002591&lang=ko_KR), 서울: 다락방.
 
 ## Papers
 
@@ -54,8 +54,16 @@ bibliography: references.bib
 
 ### 2020
 
--   이상일ㆍ조대헌, 2020, “우리나라 소지역 인구 추계를 위한 방법론 연구: 추세외삽법을 중심으로,” 지리교육논집, 64, 1-19. <https://papersearch.net/thesis/article.asp?key=3935192>. [{{< bi file-pdf-fill >}}](papers/2020_03_지리교육논집_이상일_조대헌.pdf)
+-   이상일ㆍ조대헌, 2020, “우리나라 소지역 인구 추계를 위한 방법론 연구: 추세외삽법을 중심으로,” 지리교육논집, 64, 1-19. <https://kiss.kstudy.com/Detail/Ar?key=3935192>. [{{< bi file-pdf-fill >}}](papers/2020_03_지리교육논집_이상일_조대헌.pdf)
 
 -   이상일ㆍ이몽현, 2020, “무작위합역 절차의 다양성에 대한 시뮬레이션 연구,” 한국지도학회지, 20(3), 93-107. <https://doi.org/10.16879/jkca.2020.20.3.093>. [{{< bi file-pdf-fill >}}](papers/2020_02_한국지도학회지_이상일_이몽현.pdf)
 
 -   Lee, Sang-Il, 2020, “Neighborhood effects,” In Kobayashi, A., ed., *International Encyclopedia of Human Geography*, 2nd edition, Volume 9, Oxford: Elsevier, 335–339. <https://doi.org/10.1016/B978-0-08-102295-5.10409-3>. [{{< bi file-pdf-fill >}}](papers/2020_01_IEHG_Lee.pdf)
+
+### 2019
+
+-   이상일ㆍ이소영, 2019, “우리나라 센서스 지리의 고도화를 위한 제언: 메조-스케일 공간단위의 다양화,” 지리교육논집, 63, 1-13. <https://kiss.kstudy.com/Detail/Ar?key=3935188>. [{{< bi file-pdf-fill >}}](papers/2019_03_지리교육논집_이상일_이소영.pdf)
+
+-   이상일, 2019, “고유벡터공간필터링 접근법에 기반한 피어슨 상관계수의 요소분해,” 대한지리학회지, 54(5), 545-560. <https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002522013>. [{{< bi file-pdf-fill >}}](papers/2019_02_대한지리학회지_이상일.pdf)
+
+-   Lee, Sang-Il, Monghyeon Lee, Yongwan Chun, and Daniel A. Griffith. 2019, “Uncertainty in the effects of the modifiable areal unit problem Under different levels of spatial autocorrelation: A simulation study,” *International Journal of Geographical Information Science,* 33(6), 1135–1154. <https://doi.org/10.1080/13658816.2018.1542699>. [{{< bi file-pdf-fill >}}](papers/2019_01_IJGIS_Lee_Lee_Chun_Griffith.pdf)
