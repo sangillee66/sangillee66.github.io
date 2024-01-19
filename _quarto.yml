@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Home for SANG-IL LEE"
+  title: "SANG-IL LEE"
   navbar:
     left:
       - text: "Home"

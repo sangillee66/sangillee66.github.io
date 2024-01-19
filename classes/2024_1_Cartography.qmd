@@ -1,6 +1,6 @@
 ---
 title: "2024/1 Introduction to Cartography"
-title-block-banner: true
+title-block-banner: ../images/banner_cartography.jpg
 number-sections: true
 ---
 
