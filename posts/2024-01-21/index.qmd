@@ -1,8 +1,8 @@
 ---
 title: "평생의 소원 중 하나를 이루다..."
 author: "Sang-Il Lee"
-date: "01-24-2024"
-date-modified: "01-24-2024"
+date: "01-21-2024"
+date-modified: "01-22-2024"
 categories:
   - news
 ---
