@@ -8,13 +8,19 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Academic Works"
+      - text: "Publications"
         href: works.qmd
       - text: "Classes"
         href: lectures.qmd
+      - text: "R Development"
+        href: r_dev.qmd
       - text: "Blog"
         href: blog.qmd
-  back-to-top-navigation: true      
+  back-to-top-navigation: true
+  page-navigation: true
+  page-footer: 
+    left: "Copyright 2024, Sang-Il Lee"
+    border: true
 
 format:
   html:
