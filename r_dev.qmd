@@ -1,0 +1,21 @@
+---
+title: "R Development"
+subtitle: "Apps and Packages"
+date: last-modified
+title-block-banner: images/banner_r_dev.jpg
+bibliography: references.bib
+---
+
+## R Shiny Applications
+
+### [Spatial Kernel Density Estimation](https://sangillee.shinyapps.io/SpatialKernelDensityEstimation/)
+
+-   This application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet.
+
+## R Packages
+
+## `salsa`
+
+-   `salsa` stands for [S]{.underline} [a]{.underline}nd [L]{.underline} for [s]{.underline}patial [a]{.underline}utocorrelation. This is basically an R implementation of *S* and *L* statistics developed by me [@lee2001; @lee2004; @lee2009a].
+-   It also includes other functions associated with spatial autocorrelation.
+-   It will be uploaded in a week.

@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-subtitle: "My Stories"
+subtitle: "A Small Window to the World"
 listing:
   contents: posts
   sort: "date desc"

@@ -1,29 +1,55 @@
 ---
 title: "Classes"
-subtitle: "A List of Classes by Year/Semester"
+subtitle: "A List of Classes by Semester/Year"
 title-block-banner: images/banner_lectures.jpg
 ---
 
-## 2024/1 Introduction to Cartography
+# Spring Semester in 2024
+
+## 700.231 Cartography
 
 ### Basic Info
 
--   Instructor: Sang-Il Lee (Professor, Seoul National University)
+-   Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
 
--   Place: TBD
+    -   [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
+
+-   TA: TBD
+
+-   Place: 10-1-107
 
 -   Time: 11:00 - 12:15, Mondays & Wednesdays
 
 ### [Syllabus](classes/2024_1_Cartography.qmd)
 
-## 2023/2 Spatial Analysis and Geography Education
+## M1862.000400 Topics in Cartography and Cartography Education
 
 ### Basic Info
 
--   Instructor: Sang-Il Lee (Professor, Seoul National University)
+-   Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
+
+    -   [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
+
+-   TA: TBD
+
+-   Place: TBD
+
+-   Time: 18:00 - 20:50, Thursdays
+
+### [Syllabus](classes/2024_1_Topics_in_Carto_Carto_Edu.qmd)
+
+## M3450.001400 Designing Human and Social Education Contents for AI Convergence Education
+
+### Basic Info
+
+-   Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
+
+    -   [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
 
 -   TA: Sechang Kim (Graduate Student, Seoul National University)
 
--   Place: Room #107, Building #10-1
+-   Place: 10-207
 
--   Time: 11:00 - 12:15, Mondays & Wednesdays
+-   Time: 18:30 - 21:20, Tuesdays
+
+### [Syllabus](classes/2024_1_AI_Edu.qmd)

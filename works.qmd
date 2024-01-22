@@ -1,5 +1,5 @@
 ---
-title: "Academic Works"
+title: "Publications"
 subtitle: "Books and Papers"
 title-block-banner: images/banner_works.jpg
 bibliography: references.bib
@@ -25,7 +25,7 @@ bibliography: references.bib
 
 ## Papers
 
-> Click on {{< bi file-pdf-fill size=1.5rem >}} to download each paper.
+> Click on [{{< bi file-pdf-fill size=1.5rem >}}](https://get.adobe.com/reader/) to download each paper.
 
 ### 2023
 
@@ -49,7 +49,7 @@ bibliography: references.bib
 
 -   이상일ㆍ김현미, 2021, “인구이동 플로의 연령-특수적 패턴 분석을 위한 방법론 연구-우리나라 시군구 단위 인구이동에의 적용,” 대한지리학회지, 56(5), 537–550. <https://doi.org/10.22776/kgs.2021.56.5.537>. [{{< bi file-pdf-fill >}}](papers/2021_03_대한지리학회지_이상일_김현미.pdf)
 
--   김현미ㆍ이상일, 2021, “이성분트렌드매핑 기법을 이용한 우리나라 인구 변화의 시공간적 역동성 시각화,” 한국사진지리학회지, 31(3), 51–68. [https://doi.org/10.35149/jakpg.2021.31.3.004](#0). [{{< bi file-pdf-fill >}}](papers/2021_02_한국사진지리학회지_김현미_이상일.pdf)
+-   김현미ㆍ이상일, 2021, “이성분트렌드매핑 기법을 이용한 우리나라 인구 변화의 시공간적 역동성 시각화,” 한국사진지리학회지, 31(3), 51–68. <https://doi.org/10.35149/jakpg.2021.31.3.004>. [{{< bi file-pdf-fill >}}](papers/2021_02_한국사진지리학회지_김현미_이상일.pdf)
 
 -   김현미ㆍ이상일, 2021, “우리나라 디지털 행정구역 경계 파일의 일반화에 관한 연구: 주제도 제작용 기본도를 중심으로,” 한국지도학회지, 21(2), 29–44. <https://doi.org/10.16879/jkca.2021.21.2.029>. [{{< bi file-pdf-fill >}}](papers/2021_01_한국지도학회지_김현미_이상일.pdf)
 
@@ -67,7 +67,7 @@ bibliography: references.bib
 
 -   이상일, 2019, “고유벡터공간필터링 접근법에 기반한 피어슨 상관계수의 요소분해,” 대한지리학회지, 54(5), 545–560. <https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002522013>. [{{< bi file-pdf-fill >}}](papers/2019_02_대한지리학회지_이상일.pdf)
 
--   Lee, Sang-Il, Monghyeon Lee, Yongwan Chun, and Daniel A. Griffith. 2019, “Uncertainty in the effects of the modifiable areal unit problem Under different levels of spatial autocorrelation: A simulation study,” *International Journal of Geographical Information Science,* 33(6), 1135–1154. <https://doi.org/10.1080/13658816.2018.1542699>. [{{< bi file-pdf-fill >}}](papers/2019_01_IJGIS_Lee_Lee_Chun_Griffith.pdf)
+-   Lee, Sang-Il, Monghyeon Lee, Yongwan Chun, and Daniel A. Griffith. 2019, “Uncertainty in the effects of the modifiable areal unit problem under different levels of spatial autocorrelation: A simulation study,” *International Journal of Geographical Information Science,* 33(6), 1135–1154. <https://doi.org/10.1080/13658816.2018.1542699>. [{{< bi file-pdf-fill >}}](papers/2019_01_IJGIS_Lee_Lee_Chun_Griffith.pdf)
 
 ### 2018
 
@@ -101,13 +101,13 @@ bibliography: references.bib
 
 -   조대헌ㆍ이상일, 2016, “국제지도학회 제16회 총회 및 제27회 학술대회 참석 보고: 브라질 리우데자네이루,” 한국지도학회지, 16(1), 79–90. [{{< bi file-pdf-fill >}}](papers/2016_02_한국지도학회지_조대헌_이상일.pdf)
 
--   Lee, Sang-Il. 2016, “Spatial Statistics and Geostatistics: Theory and Applications for Geographic Information Science and Technology, by Yongwan Chun and Daniel A. Griffith, Thousand Oaks, CA, SAGE Publications, 2013, 181 Pp., \$47.70/£24.29 (Paperback), ISBN 978-1-446-20174-9,” *International Journal of Geographical Information Science*, 30(6), 1250–1253. <https://doi.org/10.1080/13658816.2015.1107074>. [{{< bi file-pdf-fill >}}](papers/2016_01_IJGIS_Lee.pdf)
+-   Lee, Sang-Il, 2016, “Spatial Statistics and Geostatistics: Theory and Applications for Geographic Information Science and Technology, by Yongwan Chun and Daniel A. Griffith, Thousand Oaks, CA, SAGE Publications, 2013, 181 Pp., \$47.70/£24.29 (Paperback), ISBN 978-1-446-20174-9,” *International Journal of Geographical Information Science*, 30(6), 1250–1253. <https://doi.org/10.1080/13658816.2015.1107074>. [{{< bi file-pdf-fill >}}](papers/2016_01_IJGIS_Lee.pdf)
 
 ### 2015
 
--   이상일ㆍ조대헌, 2015, “Imw의 지도학사적 의의와 유산,” 한국지도학회지, 15(3), 49–62. <https://doi.org/10.16879/jkca.2015.15.3.049>. [{{< bi file-pdf-fill >}}](papers/2015_03_한국지도학회지_이상일_조대헌.pdf)
+-   이상일ㆍ조대헌, 2015, “IMW의 지도학사적 의의와 유산,” 한국지도학회지, 15(3), 49–62. <https://doi.org/10.16879/jkca.2015.15.3.049>. [{{< bi file-pdf-fill >}}](papers/2015_03_한국지도학회지_이상일_조대헌.pdf)
 
--   조대헌ㆍ이상일ㆍ김진혁, 2015, “국가 지형도 도엽명 부여 원칙 설정 및 적용: 1: 50,000 지형도를 중심으로,” 한국지도학회지, 15(3), 23–38. [https://doi.org/10.16879/jkca.2015.15.3.023](#0). [{{< bi file-pdf-fill >}}](papers/2015_02_한국지도학회지_조대헌_이상일_김진혁.pdf)
+-   조대헌ㆍ이상일ㆍ김진혁, 2015, “국가 지형도 도엽명 부여 원칙 설정 및 적용: 1: 50,000 지형도를 중심으로,” 한국지도학회지, 15(3), 23–38. <https://doi.org/10.16879/jkca.2015.15.3.023>. [{{< bi file-pdf-fill >}}](papers/2015_02_한국지도학회지_조대헌_이상일_김진혁.pdf)
 
 -   이상일ㆍ조대헌ㆍ이민파, 2015, “일변량 공간연관성통계량에 대한 비교 연구 (I): 전역적 *S* 통계량을 중심으로,” 한국지리학회지, 4(2), 329–345. [G704-SER000004171.2015.4.2.008](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002065246). [{{< bi file-pdf-fill >}}](papers/2015_01_한국지리학회지_이상일_조대헌_이민파.pdf)
 
@@ -131,17 +131,17 @@ bibliography: references.bib
 
 ### 2012
 
--   이상일, 2012, “우리나라 시도별 장래 가구 추계: 시론적 연구,” 지리교육논집, 56, 1–16. [I410-ECN-0102-2014-300-001629258](I410-ECN-0102-2014-300-001629258). [{{< bi file-pdf-fill >}}](papers/2012_13_지리교육논집_이상일.pdf)
+-   이상일, 2012, “우리나라 시도별 장래 가구 추계: 시론적 연구,” 지리교육논집, 56, 1–16. [I410-ECN-0102-2014-300-001629258](https://kiss.kstudy.com/Detail/Ar?key=3213773). [{{< bi file-pdf-fill >}}](papers/2012_13_지리교육논집_이상일.pdf)
 
 -   이상일ㆍ조대헌, 2012, “대한민국 주변도 제작을 위한 최적의 지도 투영법 선정: GIS-기반 투영 왜곡 분석,” 한국지도학회지, 12(3), 1–16. [G704-SER000008969.2012.12.3.001](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001734586). [{{< bi file-pdf-fill >}}](papers/2012_12_한국지도학회지_이상일_조대헌.pdf)
 
 -   이상일ㆍ김감영ㆍ제갈영, 2012, “지오컴퓨테이션 접근에 의한 주택시장지역의 설정: 우리나라 수도권에의 적용,” 한국도시지리학회지, 15(3), 59–75. [G704-001360.2012.15.3.002](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001725737). [{{< bi file-pdf-fill >}}](papers/2012_11_한국도시지리학회지_이상일_김감영_제갈영.pdf)
 
--   이상일ㆍ조대헌, 2012, “비선호 시설의 인구분포 관련 입지기준 평가를 위한 GIS-기반 방법론 연구: 원자력 발전소의 경우,” 대한지리학회지, 47(5), 755–774. [G704-000550.2012.47.5.002](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001710759). [{{< bi file-pdf-fill >}}](papers/2012_12_한국지도학회지_이상일_조대헌.pdf)
+-   이상일ㆍ조대헌, 2012, “비선호 시설의 인구분포 관련 입지기준 평가를 위한 GIS-기반 방법론 연구: 원자력 발전소의 경우,” 대한지리학회지, 47(5), 755–774. [G704-000550.2012.47.5.002](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001710759). [{{< bi file-pdf-fill >}}](papers/2012_10_대한지리학회지_이상일_조대헌.pdf)
 
 -   이상일, 2012, “공간적 상호작용론의 본질과 연구 영역: 인문지리학에 대한 통섭적 접근,” 한국지리학회지, 1(1), 137–151. [G704-SER000004171.2012.1.1.011](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002075758). [{{< bi file-pdf-fill >}}](papers/2012_09_한국지리학회지_이상일.pdf)
 
--   Lee, Sang-Il, and Kam-Young Kim, 2012, “Geospatial analysis and modeling in Korea: A literature review,” *Journal of the Korean Geographical Society*, 47(4), 606–624. [G704-000550.2012.47.4.007](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001692622). [{{< bi file-pdf-fill >}}](papers/2012_08_대한지리학회지_Lee_Kim.pdf)
+-   Lee, Sang-Il, and Kamyoung Kim, 2012, “Geospatial analysis and modeling in Korea: A literature review,” *Journal of the Korean Geographical Society*, 47(4), 606–624. [G704-000550.2012.47.4.007](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001692622). [{{< bi file-pdf-fill >}}](papers/2012_08_대한지리학회지_Lee_Kim.pdf)
 
 -   Kim, Kamyoung, Sang-Il Lee, Jungyeop Shin, and Eunyoung Choi, 2012, “Developing a flow mapping module in a GIS environment,” *The Cartographic Journal*, 49(2), 164–175. <https://doi.org/10.1179/174327711X13166800242356>. [{{< bi file-pdf-fill >}}](papers/2012_07_CJ_Kim_Lee_Shin_Choi.pdf)
 
@@ -153,13 +153,13 @@ bibliography: references.bib
 
 -   이상일ㆍ조대헌, 2012, “지역간 인구이동의 예측을 통한 우리나라 시도별 장래 인구 추계: 다지역 코호트-요인법의 적용,” 대한지리학회지, 47(1), 98–120. [G704-000550.2012.47.1.001](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001641302). [{{< bi file-pdf-fill >}}](papers/2012_03_대한지리학회지_이상일_조대헌.pdf)
 
--   김감영ㆍ신정엽ㆍ이상일, 2012, “에너지 산업에서 장기예보의 사회·경제적 가치 평가 방법론 고찰,” 기후연구, 7(1), 98–118. [G704-SER000001084.2012.7.1.001](G704-SER000001084.2012.7.1.001). [{{< bi file-pdf-fill >}}](papers/2012_02_기후연구_김감영_신정엽_이상일.pdf)
+-   김감영ㆍ신정엽ㆍ이상일, 2012, “에너지 산업에서 장기예보의 사회·경제적 가치 평가 방법론 고찰,” 기후연구, 7(1), 98–118. [G704-SER000001084.2012.7.1.001](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001641350). [{{< bi file-pdf-fill >}}](papers/2012_02_기후연구_김감영_신정엽_이상일.pdf)
 
 -   Kim, Minsung, and Sang-Il Lee, 2012, “South Korea: GIS implementation profiles among secondary geography teachers,” In Andrew J. Milson, Ali Demirci, and Joseph J. Kerski, eds., *International Perspectives on Teaching and Learning with GIS in Secondary Schools*, Dordrecht: Springer Netherlands, 233–241.  <https://doi.org/10.1007/978-94-007-2120-3_26>. [{{< bi file-pdf-fill >}}](papers/2012_01_IPTLGISSS_Kim_Lee.pdf)
 
 ### 2011
 
--   조대헌ㆍ신정엽ㆍ이상일ㆍ정준석ㆍ김현경, 2011, “GIS-기반 장기 기상 예보 활용 시스템 개발: 에너지 산업을 사례로 한 프로토타입 시스템,” 한국지도학회지, 11(3), 89–104. [G704-SER000008969.2011.11.3.008](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001641350). [{{< bi file-pdf-fill >}}](papers/2011_03_한국지도학회지_조대헌_신정엽_이상일_정준석_김현경.pdf)
+-   조대헌ㆍ신정엽ㆍ이상일ㆍ정준석ㆍ김현경, 2011, “GIS-기반 장기 기상 예보 활용 시스템 개발: 에너지 산업을 사례로 한 프로토타입 시스템,” 한국지도학회지, 11(3), 89–104. [G704-SER000008969.2011.11.3.008](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001622064). [{{< bi file-pdf-fill >}}](papers/2011_03_한국지도학회지_조대헌_신정엽_이상일_정준석_김현경.pdf)
 
 -   Kim, Min-Sung, Robert Bednarz, and Sang-Il Lee, 2011, “GIS education for teachers in South Korea: Who participates and why?,” *Journal of the Korean Geographical Society,* 46(3), 382–395. [G704-000550.2011.46.3.004](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001576076). [{{< bi file-pdf-fill >}}](papers/2011_02_대한지리학회지_Kim_Bednarz_Lee.pdf)
 
@@ -167,13 +167,13 @@ bibliography: references.bib
 
 ### 2010
 
--   신정엽ㆍ이건학ㆍ이상일, 2010, “지도학적 원리에 기반한 국가지도도식규정의 효율적인 개선 및 유지발전 방안 수립 연구,” 한국지도학회지, 10(2), 59–77. [G704-SER000008969.2010.10.2.009](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001515917). [{{< bi file-pdf-fill >}}](papers/2010_01_대한지리학회지_이상일_조대헌_손학기_채미옥.pdf)
+-   신정엽ㆍ이건학ㆍ이상일, 2010, “지도학적 원리에 기반한 국가지도도식규정의 효율적인 개선 및 유지발전 방안 수립 연구,” 한국지도학회지, 10(2), 59–77. [G704-SER000008969.2010.10.2.009](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001515917). [{{< bi file-pdf-fill >}}](papers/2010_02_한국지도학회지_신정엽_이건학_이상일.pdf)
 
--   이상일ㆍ조대헌ㆍ손학기ㆍ채미옥, 2010, “공간 클러스터의 범역 설정을 위한 GIS-기반 방법론 연구: 수정 AMOEBA 기법,” 대한지리학회지, 45(4), 502–520. [G704-000550.2010.45.4.002](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001474925). [{{< bi file-pdf-fill >}}](papers/2010_02_한국지도학회지_신정엽_이건학_이상일.pdf)
+-   이상일ㆍ조대헌ㆍ손학기ㆍ채미옥, 2010, “공간 클러스터의 범역 설정을 위한 GIS-기반 방법론 연구: 수정 AMOEBA 기법,” 대한지리학회지, 45(4), 502–520. [G704-000550.2010.45.4.002](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001474925). [{{< bi file-pdf-fill >}}](papers/2010_01_대한지리학회지_이상일_조대헌_손학기_채미옥.pdf)
 
 ### 2009
 
--   신정엽ㆍ이상일ㆍ김감영ㆍ최은영, 2009, “Web Gis를 기반으로 한 효율적인 인구이동 통계 제공 방안 수립 연구,” 한국지도학회지, 9(2), 59–71. [G704-SER000008969.2009.9.2.005](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001404745). [{{< bi file-pdf-fill >}}](papers/2009_03_한국지도학회지_신정엽_이상일_김감영_최은영.pdf)
+-   신정엽ㆍ이상일ㆍ김감영ㆍ최은영, 2009, “Web GIS를 기반으로 한 효율적인 인구이동 통계 제공 방안 수립 연구,” 한국지도학회지, 9(2), 59–71. [G704-SER000008969.2009.9.2.005](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001404745). [{{< bi file-pdf-fill >}}](papers/2009_03_한국지도학회지_신정엽_이상일_김감영_최은영.pdf)
 
 -   Lee, Sang-Il, 2009, “Neighborhood effects,” In Rob Kitchin and Nigel Thrift, eds., *International Encyclopedia of Human Geography*, Vol.7, Oxford: Elsevier, 349–353. <https://doi.org/10.1016/B978-008044910-4.00480-6>. [{{< bi file-pdf-fill >}}](papers/2009_02_IEHG_Lee.pdf)
 
@@ -211,7 +211,7 @@ bibliography: references.bib
 
 -   Lee, Sang-Il, 2004, “A generalized significance testing method for global measures of spatial association: An extension of the Mantel test,” *Environment and Planning A: Economy and Space*, 36(9), 1687–1703. <https://doi.org/10.1068/a34143>. [{{< bi file-pdf-fill >}}](papers/2004_03_EPA_Lee.pdf)
 
--   Lee, Sang-Il, 2004. “Spatial data analysis for the US regional income convergence, 1969-1999: A critical appraisal of β-convergence,” *Journal of the Korean Geographical Society,* 39(2), 212–228. [G704-000550.2004.39.2.005](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART000929820). [{{< bi file-pdf-fill >}}](papers/2004_02_대한지리학회지_Lee.pdf)
+-   Lee, Sang-Il, 2004. “Spatial data analysis for the U.S. regional income convergence, 1969-1999: A critical appraisal of β-convergence,” *Journal of the Korean Geographical Society,* 39(2), 212–228. [G704-000550.2004.39.2.005](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART000929820). [{{< bi file-pdf-fill >}}](papers/2004_02_대한지리학회지_Lee.pdf)
 
 -   Lee, Sang-Il, 2004, “Exploratory spatial data analysis of σ-convergence in the U.S. regional income distribution, 1969-1999,” *Journal of the Korean Urban Geographical Society,* 7(1), 79–95. [G704-001360.2004.7.1.004](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART000936518). [{{< bi file-pdf-fill >}}](papers/2004_01_한국도시지리학회지_Lee.pdf)
 
@@ -221,18 +221,18 @@ bibliography: references.bib
 
 ### 2001
 
--   Lee, Sang-Il, 2001, “Spatial association measures for an ESDA-GIS framework: Developments, significance tests, and applications to spatio-temporal income dynamics of United States labor market areas, 1969–1999,” PhD dissertation, Department of Geography, The Ohio State University. [{{< bi file-pdf-fill >}}](papers/2001_03_Dissertation_Lee.pdf)
-
 -   Lee, Sang-Il, 2001, “Developing a bivariate spatial association measure: An integration of Pearson’s *r* and Moran’s *I*,” *Journal of Geographical Systems,* 3(4), 369–385. <https://doi.org/10.1007/s101090100064>. [{{< bi file-pdf-fill >}}](papers/2001_02_JGS_Lee.pdf)
 
--   Lee, Sang-Il, 2001, “A spatial statistical approach to migration studies: Exploring the spatial heterogeneity in place-specific distance parameters,” *Journal of the Korean Association of Regional Geographers,* 7(3), 107–120. [{{< bi file-pdf-fill >}}](papers/2001_01_한국지역지리학회지_이상일.pdf)
+-   Lee, Sang-Il, 2001, “A spatial statistical approach to migration studies: Exploring the spatial heterogeneity in place-specific distance parameters,” *Journal of the Korean Association of Regional Geographers,* 7(3), 107–120. <https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02494458>. [{{< bi file-pdf-fill >}}](papers/2001_01_한국지역지리학회지_이상일.pdf)
 
-### 1990–1999
+### 1999
 
 -   이상일, 1999, “기능지역의 설정과 ‘공간단위 수정가능성의 문제 (MAUP)’,” 한국지리환경교육학회지, 7(2), 757–783. <https://kiss.kstudy.com/Detail/Ar?key=1822932>. [{{< bi file-pdf-fill >}}](papers/1999_01_지리환경교육_이상일.pdf)
 
--   이상일, 1995, “삐에르 부르디외의 사회지리학: 문화와 소비의 사회지리학을 지향하며,” 응용지리, 18, 57–101. [{{< bi file-pdf-fill >}}](papers/1995_01_응용지리_이상일.pdf)
+### 1990–1995
 
--   이상일, 1993, “포스트모더니즘과 지리학: 지리학의 해체인가 재구성인가?,” 지리교육논집, 30, 51–79. [I410-ECN-0102-2009-370-008160844](https://kiss.kstudy.com/Detail/Ar?key=410352). [{{< bi file-pdf-fill >}}](papers/2001_02_JGS_Lee.pdf)
+-   이상일, 1995, “삐에르 부르디외의 사회지리학: 문화와 소비의 사회지리학을 지향하며,” 응용지리, 18, 57–101. <https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02115592>. [{{< bi file-pdf-fill >}}](papers/1995_01_응용지리_이상일.pdf)
+
+-   이상일, 1993, “포스트모더니즘과 지리학: 지리학의 해체인가 재구성인가?,” 지리교육논집, 30, 51–79. [I410-ECN-0102-2009-370-008160844](https://kiss.kstudy.com/Detail/Ar?key=410352). [{{< bi file-pdf-fill >}}](papers/1993_01_지리교육논집_이상일.pdf)
 
 -   이상일, 1990, “실재론의 지리학적 함의와 공간의 상대적 자율성에 관한 연구,” 지리교육논집, 24, 1–24. [I410-ECN-0102-2009-370-008161265](https://kiss.kstudy.com/Detail/Ar?key=410310). [{{< bi file-pdf-fill >}}](papers/1990_01_지리교육논집_이상일.pdf)

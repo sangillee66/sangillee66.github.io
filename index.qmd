@@ -2,6 +2,7 @@
 title: "Sang-Il Lee"
 subtitle: |
   | Spatial Data Science
+  | Spatial Statistics
   | Geographic Information Systems
   | Cartography
   | Population Geography
@@ -20,7 +21,9 @@ about:
 ::: column-page
 ## Current Position
 
-Professor, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+-   Professor, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   Adjunct Professor, [Department of AI-Integrated Education](https://aied.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
 
 ## Education
 
@@ -29,6 +32,10 @@ Professor, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seou
 -   M.A., 1991, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
 
 -   Ph.D., 2001, [Department of Geography](https://geography.osu.edu/), [The Ohio State University](https://www.osu.edu/)
+
+    -   Advisor: [Lawrence Alan Brown](https://u.osu.edu/larryslegacy/2014/12/08/hello-world/) (Novermber 22, 1935 – April 6, 2014)
+
+    -   Dissertation: Spatial Association Measures for an ESDA-GIS Framework: Developments, Significance Tests, and Applications to Spatio-Temporal Income Dynamics of U.S. Labor Market Areas, 1969–1999. [{{< bi file-pdf-fill >}}](papers/2001_03_Dissertation_Lee.pdf)
 
 ## Careers
 
