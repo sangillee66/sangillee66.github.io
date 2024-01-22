@@ -285,5 +285,12 @@
     "title": "R Development",
     "section": "salsa",
     "text": "salsa\n\nsalsa stands for S and L for spatial autocorrelation. This is basically an R implementation of S and L statistics developed by me (Lee 2001, 2004, 2009).\nIt also includes other functions associated with spatial autocorrelation.\nIt will be uploaded in a week."
+  },
+  {
+    "objectID": "r_dev.html#r-shiny-web-applications",
+    "href": "r_dev.html#r-shiny-web-applications",
+    "title": "R Development",
+    "section": "",
+    "text": "This application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet."
   }
 ]

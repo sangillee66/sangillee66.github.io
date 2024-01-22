@@ -6,7 +6,7 @@ title-block-banner: images/banner_r_dev.jpg
 bibliography: references.bib
 ---
 
-## R Shiny Applications
+## R Shiny Web Applications
 
 ### [Spatial Kernel Density Estimation](https://sangillee.shinyapps.io/SpatialKernelDensityEstimation/)
 
