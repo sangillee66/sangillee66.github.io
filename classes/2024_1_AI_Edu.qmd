@@ -79,13 +79,15 @@ bibliography: references.bib
 
 ## References
 
-### Data Science 
+### Data Science
 
 -   Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund, 2023, [*R for Data Science: Import, Tidy, Transform, Visualize, and Model Data*](https://r4ds.hadley.nz/)*,* 2nd edition, Boston: O’Reilly. (김설기ㆍ최혜민 옮김, 2019, [R을 활용한 데이터 과학: 데이터 불러오기, 정리하기, 변형하기, 시각화하기, 모델링하기](https://www.yes24.com/Product/Goods/67856488), 1판, 서울: 인사이트.)
 -   차영준ㆍ박진표, 2022, [데이터과학 입문을 위한 R과 타이디버스](https://www.yes24.com/Product/Goods/111420341), 파주: 자유아카데미.
 -   양윤석ㆍ오일석ㆍ강래형, 2019, [R로 배우는 데이터 과학: 분석에서 예측을 위한 모델링까지](https://www.yes24.com/Product/Goods/73049003), 서울: 한빛아카데미.
 
 ### Data Visualization
+
+-   Kabacoff, Robert, 2024, [*Modern Data Visualization with R*](https://rkabacoff.github.io/datavis/index.html), Boca Raton: CRC Press.
 
 -   Dougherty, Jack, and Ilya Ilyankou, 2021, [*Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code*](https://handsondataviz.org/), Boston: O’Reilly. (김태헌 옮김, 2022, [핸즈온 데이터 시각화: 효과적인 데이터 시각화 전략부터 20가지 시각화 도구 사용법까지](https://www.yes24.com/Product/Goods/110225484), 한빛미디어)
 
