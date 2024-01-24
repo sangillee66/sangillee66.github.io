@@ -2,7 +2,7 @@
 title: "Publications"
 subtitle: "Books and Papers"
 date: last-modified
-title-block-banner: images/banner_works.jpg
+title-block-banner: images/banner_works_new.jpg
 bibliography: references.bib
 ---
 

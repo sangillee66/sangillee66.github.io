@@ -1,7 +1,7 @@
 ---
 title: "Spring/2024 Topics in Cartography and Cartography Education: Maps and Civilization"
 subtitle: "지도학 및 지도교육 특강: 지도와 문명"
-title-block-banner: ../images/banner_old_map.jpg
+title-block-banner: ../images/banner_old_map_new.jpg
 author: "Sang-Il Lee"
 date: last-modified
 number-sections: false
