@@ -2,7 +2,7 @@
 title: "호머 헐버트를 아시나요?"
 author: "Sang-Il Lee"
 date: "01/23/2024"
-date-modified: "01/23/2024"
+date-modified: "01/24/2024"
 categories:
   - news
   - geography
