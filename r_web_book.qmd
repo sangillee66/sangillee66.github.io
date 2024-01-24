@@ -1,0 +1,37 @@
+---
+title: "R Web Books"
+subtitle: "A List of R Web Books by Subject"
+date: last-modified
+title-block-banner: images/banner_lectures.jpg
+bibliography: references.bib
+---
+
+## Spatial Data Science: General
+
+-   Pebesma, Edzer, and Roger Bivand. 2023. [*Spatial Data Science: With Applications in R*](https://r.geocompx.org/index.html). 1st edition. Boca Raton, FL: Chapman; Hall/CRC.
+
+-   Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2020. [*Geocomputation with R*](https://r.geocompx.org/index.html). 1st edition. Boca Raton London New York: Chapman; Hall/CRC.
+
+-   Moraga, Paula. 2023. [*Spatial Statistics for Data Science: Theory and Practice with R*](https://www.paulamoraga.com/book-spatial/). 1st edition. Boca Raton, FL: Chapman; Hall/CRC.
+
+-   Wimberly, Michael C. 2023. [*Geographic Data Science with R: Visualizing and Analyzing Environmental Change*](https://bookdown.org/mcwimberly/gdswr-book/). 1st edition. Boca Raton London New York: Chapman; Hall/CRC.
+
+-   Rey, Sergio, Dani Arribas-Bel, and Levi John Wolf. 2023. [*Geographic Data Science with Python*](https://geographicdata.science/book/intro.html). 1st edition. Boca Raton London New York: Chapman; Hall/CRC.
+
+-   Acosta, Luc Anselin, Grant Morrison, Angela Li, Karina. 2023. *Hands-on Spatial Data Science with R*. [https://spatialanalysis.github.io/handsonspatialdata/index.html](https://spatialanalysis.github.io/handsonspatialdata/).
+
+## Spatial Data Analysis and Spatial Statistics
+
+-   Paez, Antonio. 2024. *An Introduction to Spatial Data Analysis and Statistics: A Course in r*. <https://paezha.github.io/spatial-analysis-r/>.
+
+## Mapping and GeoVisualization
+
+-   Tennekes, Martijn, and Jakub Nowosad. 2021. *Elegant and Informative Maps with Tmap*. <https://r-tmap.github.io/tmap-book/>.
+
+-   Protić, Milan Kilibarda i Dragutin. 2019. *Introduction to Geovisualization and Web Cartography*. <https://osgl.grf.bg.ac.rs/books/gvvk-en/>.
+
+-   Fidan, Emine. *Guide to Creating Interactive Maps in R*. <https://bookdown.org/eneminef/DRR_Bookdown/>.
+
+## GIS
+
+-   Slingsby, Jasper. 2023. *A Minimal Introduction to GIS (in R)*. <https://www.ecologi.st/spatial-r/>.

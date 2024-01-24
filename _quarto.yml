@@ -14,6 +14,8 @@ website:
         href: lectures.qmd
       - text: "R Development"
         href: r_dev.qmd
+      - text: "R Web Books"
+        href: r_web_book.qmd
       - text: "Blog"
         href: blog.qmd
   back-to-top-navigation: true

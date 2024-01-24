@@ -299,5 +299,47 @@
     "title": "호머 헐버트를 아시나요?",
     "section": "",
     "text": "호머 헐버트(Homer Bezaleel Hulbert, 1863년 1월 26일 ~ 1949년 8월 5일)에 대해 내가 알고 있는 것은 두 가지 였다. 하나는 구한말의 선교사로 한국에 대단히 애정이 많았던 사람이라는 것과 『사민필지(士民必知)』라는 우리나라 최초의 한글 교과서(실질적으로는 세계지리서)를 집필했다는 사실이다. 후자는 특히 나의 은사이신 이기석 교수님(서울대학교 명예교수, 학술원회원)께서 사민필지에 대한 논문을 1969년에 발간한 적이 있기 때문에 좀 더 각별한 기억으로 남아 있었다. 그러나 그 정도였다.\n그랬던 그가 작년 말 갑자기 훅 다가왔다. 두 가지 사건이 있어 여기에 소개한다. 하나는 (사)헐버트박사기념사업회가 서거 74주년 추모대회를 2023년 8월 31일에 개최하면서, 호머 헐버트에 대한 최초의 논문을 발표한 이기석 교수님께 감사패를 전달했다는 사실이다. 이것을 작년 11월 23일, 이기석 교수님과 최원회 교수님(공주대 명예교수)를 뵀을 때 들었다. 이기석 교수님의 그 1969년 논문이 헐버트에 대한 최초의 논문이었다는 것이다. 매우 놀랍다.\n\n\n\n이 사진은 이기석 교수님께서 직접 제공하신 것이다.\n\n\n\n그리고, 또 하나는, 2023년 12월 23일, KBS가 다큐온이라는 프로그램에서 크리스마스 특집으로 헐버트에 대한 다큐멘터리를 방영했다는 것이다. 잘 몰랐던 많은 내용을 알 수 있었다. 꼭 한번 보기를 권한다.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "r_web_book.html",
+    "href": "r_web_book.html",
+    "title": "R Web Books",
+    "section": "",
+    "text": "Pebesma, Edzer, and Roger Bivand. 2023. Spatial Data Science: With Applications in R. 1st edition. Boca Raton, FL: Chapman; Hall/CRC.\nLovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2020. Geocomputation with R. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nMoraga, Paula. 2023. Spatial Statistics for Data Science: Theory and Practice with R. 1st edition. Boca Raton, FL: Chapman; Hall/CRC.\nWimberly, Michael C. 2023. Geographic Data Science with R: Visualizing and Analyzing Environmental Change. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nRey, Sergio, Dani Arribas-Bel, and Levi John Wolf. 2023. Geographic Data Science with Python. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nAcosta, Luc Anselin, Grant Morrison, Angela Li, Karina. 2023. Hands-on Spatial Data Science with R. https://spatialanalysis.github.io/handsonspatialdata/index.html."
+  },
+  {
+    "objectID": "r_web_book.html#spatial-data-science-general",
+    "href": "r_web_book.html#spatial-data-science-general",
+    "title": "R Web Books",
+    "section": "",
+    "text": "Pebesma, Edzer, and Roger Bivand. 2023. Spatial Data Science: With Applications in R. 1st edition. Boca Raton, FL: Chapman; Hall/CRC.\nLovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2020. Geocomputation with R. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nMoraga, Paula. 2023. Spatial Statistics for Data Science: Theory and Practice with R. 1st edition. Boca Raton, FL: Chapman; Hall/CRC.\nWimberly, Michael C. 2023. Geographic Data Science with R: Visualizing and Analyzing Environmental Change. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nRey, Sergio, Dani Arribas-Bel, and Levi John Wolf. 2023. Geographic Data Science with Python. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nAcosta, Luc Anselin, Grant Morrison, Angela Li, Karina. 2023. Hands-on Spatial Data Science with R. https://spatialanalysis.github.io/handsonspatialdata/index.html."
+  },
+  {
+    "objectID": "r_web_book.html#mapping",
+    "href": "r_web_book.html#mapping",
+    "title": "R Web Books",
+    "section": "Mapping",
+    "text": "Mapping\n\nTennekes, Martijn, and Jakub Nowosad. 2021. Elegant and Informative Maps with Tmap. https://r-tmap.github.io/tmap-book/.\nProtić, Milan Kilibarda i Dragutin. 2019. Introduction to Geovisualization and Web Cartography. https://osgl.grf.bg.ac.rs/books/gvvk-en/.\nFidan, Emine. Guide to Creating Interactive Maps in r. https://bookdown.org/eneminef/DRR_Bookdown/."
+  },
+  {
+    "objectID": "r_web_book.html#gis",
+    "href": "r_web_book.html#gis",
+    "title": "R Web Books",
+    "section": "GIS",
+    "text": "GIS\n\nSlingsby, Jasper. 2023. A Minimal Introduction to GIS (in r). https://www.ecologi.st/spatial-r/."
+  },
+  {
+    "objectID": "r_web_book.html#spatial-data-analysis-and-spatial-statistics",
+    "href": "r_web_book.html#spatial-data-analysis-and-spatial-statistics",
+    "title": "R Web Books",
+    "section": "Spatial Data Analysis and Spatial Statistics",
+    "text": "Spatial Data Analysis and Spatial Statistics\n\nPaez, Antonio. 2024. An Introduction to Spatial Data Analysis and Statistics: A Course in r. https://paezha.github.io/spatial-analysis-r/."
+  },
+  {
+    "objectID": "r_web_book.html#mapping-and-geovisualization",
+    "href": "r_web_book.html#mapping-and-geovisualization",
+    "title": "R Web Books",
+    "section": "Mapping and GeoVisualization",
+    "text": "Mapping and GeoVisualization\n\nTennekes, Martijn, and Jakub Nowosad. 2021. Elegant and Informative Maps with Tmap. https://r-tmap.github.io/tmap-book/.\nProtić, Milan Kilibarda i Dragutin. 2019. Introduction to Geovisualization and Web Cartography. https://osgl.grf.bg.ac.rs/books/gvvk-en/.\nFidan, Emine. Guide to Creating Interactive Maps in r. https://bookdown.org/eneminef/DRR_Bookdown/."
   }
 ]
