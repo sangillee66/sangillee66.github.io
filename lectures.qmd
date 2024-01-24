@@ -1,6 +1,7 @@
 ---
 title: "Classes"
 subtitle: "A List of Classes by Semester/Year"
+date: last-modified
 title-block-banner: images/banner_lectures.jpg
 ---
 
