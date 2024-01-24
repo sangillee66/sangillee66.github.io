@@ -2,13 +2,13 @@
 title: "R Web Books"
 subtitle: "A List of R Web Books by Subject"
 date: last-modified
-title-block-banner: images/banner_lectures.jpg
+title-block-banner: images/banner_web_books.jpg
 bibliography: references.bib
 ---
 
 ## Spatial Data Science: General
 
--   Pebesma, Edzer, and Roger Bivand. 2023. [*Spatial Data Science: With Applications in R*](https://r.geocompx.org/index.html). 1st edition. Boca Raton, FL: Chapman; Hall/CRC.
+-   Pebesma, Edzer, and Roger Bivand. 2023. [*Spatial Data Science: With Applications in R*](https://r-spatial.org/book/). 1st edition. Boca Raton, FL: Chapman; Hall/CRC.
 
 -   Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2020. [*Geocomputation with R*](https://r.geocompx.org/index.html). 1st edition. Boca Raton London New York: Chapman; Hall/CRC.
 

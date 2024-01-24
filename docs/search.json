@@ -326,7 +326,7 @@
     "href": "r_web_book.html#gis",
     "title": "R Web Books",
     "section": "GIS",
-    "text": "GIS\n\nSlingsby, Jasper. 2023. A Minimal Introduction to GIS (in r). https://www.ecologi.st/spatial-r/."
+    "text": "GIS\n\nSlingsby, Jasper. 2023. A Minimal Introduction to GIS (in R). https://www.ecologi.st/spatial-r/."
   },
   {
     "objectID": "r_web_book.html#spatial-data-analysis-and-spatial-statistics",
@@ -340,6 +340,6 @@
     "href": "r_web_book.html#mapping-and-geovisualization",
     "title": "R Web Books",
     "section": "Mapping and GeoVisualization",
-    "text": "Mapping and GeoVisualization\n\nTennekes, Martijn, and Jakub Nowosad. 2021. Elegant and Informative Maps with Tmap. https://r-tmap.github.io/tmap-book/.\nProtić, Milan Kilibarda i Dragutin. 2019. Introduction to Geovisualization and Web Cartography. https://osgl.grf.bg.ac.rs/books/gvvk-en/.\nFidan, Emine. Guide to Creating Interactive Maps in r. https://bookdown.org/eneminef/DRR_Bookdown/."
+    "text": "Mapping and GeoVisualization\n\nTennekes, Martijn, and Jakub Nowosad. 2021. Elegant and Informative Maps with Tmap. https://r-tmap.github.io/tmap-book/.\nProtić, Milan Kilibarda i Dragutin. 2019. Introduction to Geovisualization and Web Cartography. https://osgl.grf.bg.ac.rs/books/gvvk-en/.\nFidan, Emine. Guide to Creating Interactive Maps in R. https://bookdown.org/eneminef/DRR_Bookdown/."
   }
 ]
