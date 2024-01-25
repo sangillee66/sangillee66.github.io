@@ -1,7 +1,7 @@
 ---
 title: "R Development"
 subtitle: "Apps and Packages"
-date: last-modified
+date-modified: last-modified
 title-block-banner: images/banner_r_dev_new.jpg
 bibliography: references.bib
 ---
