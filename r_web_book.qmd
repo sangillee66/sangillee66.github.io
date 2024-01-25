@@ -20,6 +20,8 @@ bibliography: references.bib
 
 -   Acosta, Luc Anselin, Grant Morrison, Angela Li, Karina. 2023. *Hands-on Spatial Data Science with R*. [https://spatialanalysis.github.io/handsonspatialdata/index.html](https://spatialanalysis.github.io/handsonspatialdata/).
 
+-   Sabbata, Stefano De. 2024. *R for Geographic Data Science*. <https://sdesabbata.github.io/r-for-geographic-data-science/>.
+
 ## Spatial Data Analysis and Spatial Statistics
 
 -   Paez, Antonio. 2024. *An Introduction to Spatial Data Analysis and Statistics: A Course in r*. <https://paezha.github.io/spatial-analysis-r/>.

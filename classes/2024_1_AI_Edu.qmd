@@ -82,6 +82,7 @@ bibliography: references.bib
 ### Data Science
 
 -   Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund, 2023, [*R for Data Science: Import, Tidy, Transform, Visualize, and Model Data*](https://r4ds.hadley.nz/)*,* 2nd edition, Boston: O’Reilly. (김설기ㆍ최혜민 옮김, 2019, [R을 활용한 데이터 과학: 데이터 불러오기, 정리하기, 변형하기, 시각화하기, 모델링하기](https://www.yes24.com/Product/Goods/67856488), 1판, 서울: 인사이트.)
+-   Bonnell, Jerry, and Mitsunori Ogihara. 2023. [*Exploring Data Science with R and the Tidyverse*](https://ds4world.cs.miami.edu/). 1st edition. Chapman; Hall/CRC.
 -   차영준ㆍ박진표, 2022, [데이터과학 입문을 위한 R과 타이디버스](https://www.yes24.com/Product/Goods/111420341), 파주: 자유아카데미.
 -   양윤석ㆍ오일석ㆍ강래형, 2019, [R로 배우는 데이터 과학: 분석에서 예측을 위한 모델링까지](https://www.yes24.com/Product/Goods/73049003), 서울: 한빛아카데미.
 
@@ -93,7 +94,11 @@ bibliography: references.bib
 
 -   Wilke, C., 2019, [*Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures*](https://clauswilke.com/dataviz/), Sebastopol, CA: O’Reilly. (권혜정, 2020, [데이터 시각화 교과서: 데이터 분석의 본질을 살리는 그래프와 차트 제작의 기본 원리와 응용](https://www.yes24.com/Product/Goods/87631760), 의왕: 책만.)
 
+-   Wickham, Hadley. 2016. [*ggplot2: Elegant Graphics for Data Analysis*](https://ggplot2-book.org/). 2nd ed. Switzerland: Springer. (박진수 옮김, 2017. [R로 분석한 데이터를 멋진 그래픽으로](https://www.yes24.com/Product/Goods/57248968) ggplot2. 부천: 프리렉.)
+
 ### Statistical Foundation
+
+-   Ismay, Chester, and Albert Y. Kim. 2019. [*Statistical Inference via Data Science: A ModernDive into R and the Tidyverse: A ModernDive into R and the Tidyverse*](https://moderndive.com/). 1st edition. Boca Raton: Chapman; Hall/CRC.
 
 -   Bruce, Peter C., Andrew Bruce, and Peter Gedeck, 2020, [*Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python*](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?crid=98UZEABX2F4Q&dib=eyJ2IjoiMSJ9.F4tO6GMw72DFF7NQRdwBqEC0yTH5VyuO-miwDjnFTNNLSKmqumN48VZFUwWeUH0ZKSyXucoF7sIL-okC6RXJToNl542GnCLV8tS5OlrQtsC7Rugp1EyMYEaTuTW_8gAgJ7SK_kYPuHHydz8XI11WmcNjN_2CUigbo2cfwqIMXD6oY8AwVg2fwkvn__e2Yk1CsPQyGQot0RJRezwz4GlKBgQMe83M9dJ18dua-luUl2k.Dg0hpdMezDfpXwGPn9nIwPAz7WNs5uGwh2lPtgsoWKs&dib_tag=se&keywords=practical+statistics+for+data+scientists&qid=1705832562&s=books&sprefix=practical+statistics+for+data+scientist%2Cstripbooks-intl-ship%2C261&sr=1-1)*,* Second edition, Sebastopol, CA: O’Reilly. (이준용 옮김, 2021, [데이터 과학을 위한 통계](https://www.yes24.com/Product/Goods/99942893), 서울: 한빛미디어.)
 
@@ -131,7 +136,13 @@ bibliography: references.bib
 
 -   장용식ㆍ최진호, 2020, [머신러닝을 활용한 R 데이터 분석](https://www.yes24.com/Product/Goods/89605827), 파주: 생능출판.
 
+-   Kuhn, Max, and Julia Silge. 2022. [*Tidy Modeling with R: A Framework for Modeling in the Tidyverse*](https://www.tmwr.org/). 1st edition. Sebastopol, CA: O’Reilly Media.
+
+-   Boehmke, Brad, and Brandon M. Greenwell. 2019. [*Hands-on Machine Learning with R*](https://bradleyboehmke.github.io/HOML/). 1st edition. Boca Raton London New York: Chapman; Hall/CRC.
+
 ### Introduction to R
+
+-   RStudio Education Team, [Finding Your Way To R](https://education.rstudio.com/learn/).
 
 -   곽기영, 2022, [R 기초와 활용](https://www.yes24.com/Product/Goods/108044525), 서울: 청람.
 
