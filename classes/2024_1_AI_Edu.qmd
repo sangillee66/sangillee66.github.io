@@ -112,6 +112,8 @@ bibliography: references.bib
 
 -   Hvitfeldt, Emil, and Julia Sigle, 2022, [*Supervised Machine Learning for Text Analysis in R*](https://smltar.com/)*,* Boca Raton: CRC Press.
 
+-   Silge, Julia, and David Robinson. 2017. [*Text Mining with R: A Tidy Approach*](https://www.tidytextmining.com/). 1st edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+
 -   한국R사용자회ㆍ안도현, 2022, [R 텍스트마이닝](https://r2bit.com/book_tm/index.html), 오픈전자책.
 
 -   김영우, 2021, [쉽게 배우는 R 텍스트 마이닝](https://www.yes24.com/Product/Goods/43868089), 서울: 이지스퍼블리싱.
