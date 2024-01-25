@@ -20,7 +20,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -175,6 +194,7 @@ background-size: cover;
 <li><p>Acosta, Luc Anselin, Grant Morrison, Angela Li, Karina. 2023.&nbsp;<em>Hands-on Spatial Data Science with R</em>.&nbsp;<a href="https://spatialanalysis.github.io/handsonspatialdata/">https://spatialanalysis.github.io/handsonspatialdata/index.html</a>.</p></li>
 <li><p>Sabbata, Stefano De. 2024.&nbsp;<em>R for Geographic Data Science</em>.&nbsp;<a href="https://sdesabbata.github.io/r-for-geographic-data-science/" class="uri">https://sdesabbata.github.io/r-for-geographic-data-science/</a>.</p></li>
 </ul>
+<p><span class="citation" data-cites="comber2023">(<a href="#ref-comber2023" role="doc-biblioref">Comber 2023</a>)</span></p>
 </section>
 <section id="spatial-data-analysis-and-spatial-statistics" class="level2">
 <h2 class="anchored" data-anchor-id="spatial-data-analysis-and-spatial-statistics">Spatial Data Analysis and Spatial Statistics</h2>
@@ -197,9 +217,14 @@ background-size: cover;
 </ul>
 
 
+
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-comber2023" class="csl-entry" role="listitem">
+Comber, Lex. 2023. <em>GeoComputation and Spatial Analysis Practicals</em>. <a href="https://bookdown.org/lexcomber/GEOG3195/">https://bookdown.org/lexcomber/GEOG3195/</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -22,6 +22,8 @@ bibliography: references.bib
 
 -   Sabbata, Stefano De. 2024. *R for Geographic Data Science*. <https://sdesabbata.github.io/r-for-geographic-data-science/>.
 
+[@comber2023]
+
 ## Spatial Data Analysis and Spatial Statistics
 
 -   Paez, Antonio. 2024. *An Introduction to Spatial Data Analysis and Statistics: A Course in r*. <https://paezha.github.io/spatial-analysis-r/>.
