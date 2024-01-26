@@ -22,7 +22,7 @@ bibliography: references.bib
 
 -   Sabbata, Stefano De. 2024. *R for Geographic Data Science*. <https://sdesabbata.github.io/r-for-geographic-data-science/>.
 
-[@comber2023]
+-   Comber, Lex. 2023. *GeoComputation and Spatial Analysis Practicals*. <https://bookdown.org/lexcomber/GEOG3195/>.
 
 ## Spatial Data Analysis and Spatial Statistics
 
