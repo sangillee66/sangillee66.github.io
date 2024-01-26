@@ -263,7 +263,7 @@
     "href": "r_dev.html",
     "title": "R Development",
     "section": "",
-    "text": "This application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet."
+    "text": "This application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet.\nIt utilizes an R package, SpatialKDE, which is based on QGIS Heatmap tool.\nLink: https://sangillee.shinyapps.io/SpatialKernelDensityEstimation/"
   },
   {
     "objectID": "r_dev.html#r-shiny-applications",
@@ -291,7 +291,7 @@
     "href": "r_dev.html#r-shiny-web-applications",
     "title": "R Development",
     "section": "",
-    "text": "This application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet."
+    "text": "This application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet.\nIt utilizes an R package, SpatialKDE, which is based on QGIS Heatmap tool.\nLink: https://sangillee.shinyapps.io/SpatialKernelDensityEstimation/"
   },
   {
     "objectID": "posts/2024-01-23/index.html",
