@@ -8,7 +8,7 @@ bibliography: references.bib
 
 ## R Shiny Web Applications
 
-### Spatial Kernel Density Estimation
+### Spatial Kernel Density Estimation 
 
 -   This application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet.
 -   It utilizes an R package, [`SpatialKDE`](https://cran.r-project.org/web/packages/SpatialKDE/vignettes/SpatialKDE.html), which is based on [QGIS Heatmap tool](https://grindgis.com/software/heat-map-using-qgis).
