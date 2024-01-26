@@ -10,4 +10,5 @@ listing:
   filter-ui: true
 page-layout: full
 title-block-banner: images/banner_blog_new.jpg
+lightbox: true
 ---
