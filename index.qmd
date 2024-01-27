@@ -2,10 +2,13 @@
 title: "Sang-Il Lee"
 subtitle: |
   | Spatial Data Science
-  | Spatial Statistics
+  |
+  | Spatial Data Analysis and Spatial Statistics
   | Geographic Information Systems
-  | Cartography
+  | Cartography and Geovisualization
+  |
   | Population Geography
+  | Geography of Education
 image: me.png
 about:
   template: trestles
