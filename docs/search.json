@@ -95,7 +95,7 @@
     "href": "classes/2024_1_Cartography.html#교재-및-참고서",
     "title": "Spring/2024 Cartography",
     "section": "교재 및 참고서",
-    "text": "교재 및 참고서\n\n\n\n\n\n\nNote\n\n\n\n본 수업은 특별한 교재가 없습니다. 교수자가 제공하는 강의노트로 충분합니다. 하지만 아래의 책들은 참고도서로서 충분한 가치가 있습니다.\n\n\n\n지도학 관련 참고도서\n\n이건학ㆍ김감영ㆍ김영호ㆍ김영훈ㆍ신정엽ㆍ이상일 옮김, 2014, 지도학과 지리적 시각화, 서울: 시그마프레스. (Slocum, Terry A., Robert B. McMaster, Fritz C. Kessler, and Hugh H. Howard. 2009, Thematic Cartography and Geovisualization, 3rd ed., Upper Saddle River, NJ: Pearson Prentice Hall.)\n이상일ㆍ손일 옮김, 2021, 지도와 거짓말, 서울: 푸른길. (Monmonier, Mark S, 2018, How to Lie with Maps, Third edition, Chicago, IL: The University of Chicago Press.)\n이상일 옮김, 2014, 지구 끝까지: 세상을 바꾼 100장의 지도, 서울: 푸른길. (Harwood, Jeremy, 2011, To the Ends of the Earth: 100 Maps that Changed the World, New York, N.Y.: Chartwell Books.)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGIS 실습 관련 참고 도서\n\n윤동근ㆍ구교준ㆍ추미진ㆍ안승연ㆍ이희철, 2023, QGIS를 활용한 공간분석 입문, 고려대학교출판부.\n이준호ㆍ유병혁ㆍ김태훈, 2023, QGIS Cookbook with 3.x, 구미서관.\n문승주, 2022, 스마트한 QGIS 활용서, 예문사.\n염윤호ㆍ최재훈, 2022, 사회과학을 위한 QGIS 활용과 지리공간분석, 윤성사.\n김남신, 2021, 오픈소스 활용 QGIS 자연과학 데이터 분석, 한울엠플러스."
+    "text": "교재 및 참고서\n\n\n\n\n\n\nNote\n\n\n\n본 수업은 특별한 교재가 없습니다. 교수자가 제공하는 강의노트로 충분합니다. 하지만 아래의 책들은 참고도서로서 충분한 가치가 있습니다.\n\n\n\n지도학 관련 참고도서\n\n이건학ㆍ김감영ㆍ김영호ㆍ김영훈ㆍ신정엽ㆍ이상일 옮김, 2014, 지도학과 지리적 시각화, 서울: 시그마프레스. (Slocum, Terry A., Robert B. McMaster, Fritz C. Kessler, and Hugh H. Howard. 2009, Thematic Cartography and Geovisualization, 3rd ed., Upper Saddle River, NJ: Pearson Prentice Hall.)\n이상일ㆍ손일 옮김, 2021, 지도와 거짓말, 서울: 푸른길. (Monmonier, Mark S, 2018, How to Lie with Maps, Third edition, Chicago, IL: The University of Chicago Press.)\n이상일 옮김, 2014, 지구 끝까지: 세상을 바꾼 100장의 지도, 서울: 푸른길. (Harwood, Jeremy, 2011, To the Ends of the Earth: 100 Maps that Changed the World, New York, N.Y.: Chartwell Books.)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGIS 실습 관련 참고 도서\n\n윤동근ㆍ구교준ㆍ추미진ㆍ안승연ㆍ이희철, 2023, QGIS를 활용한 공간분석 입문, 고려대학교출판부.\n이준호ㆍ유병혁ㆍ김태훈, 2023, QGIS Cookbook with 3.x, 구미서관.\n문승주, 2022, 스마트한 QGIS 활용서, 예문사.\n염윤호ㆍ최재훈, 2022, 사회과학을 위한 QGIS 활용과 지리공간분석, 윤성사.\n김남신, 2021, 오픈소스 활용 QGIS 자연과학 데이터 분석, 한울엠플러스."
   },
   {
     "objectID": "classes/2024_1_Cartography.html#평가-기준",
@@ -228,28 +228,28 @@
     "href": "lectures.html",
     "title": "Classes",
     "section": "",
-    "text": "Instructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: 10-1-107\nTime: 11:00 - 12:15, Mondays & Wednesdays\n\n\n\n\n\n\n\n\n\n\n\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: TBD\nTime: 18:00 - 20:50, Thursdays\n\n\n\n\n\nLink: https://sangillee.snu.ac.kr/class_2024_1_history_cartography/\n\n\n\n\n\n\n\n\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: Sechang Kim (Graduate Student, Seoul National University)\nPlace: 10-207\nTime: 18:30 - 21:20, Tuesdays"
+    "text": "Instructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: 10-1-107\nTime: 11:00 - 12:15, Mondays & Wednesdays\nSyllabus\n\n\n\n\n\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: TBD\nTime: 18:00 - 20:50, Thursdays\nSyllabus\n\n\n\n\n\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: Sechang Kim (Graduate Student, Seoul National University)\nPlace: 10-207\nTime: 18:30 - 21:20, Tuesdays\nSyllabus"
   },
   {
     "objectID": "lectures.html#cartography",
     "href": "lectures.html#cartography",
     "title": "Classes",
     "section": "",
-    "text": "Instructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: 10-1-107\nTime: 11:00 - 12:15, Mondays & Wednesdays"
+    "text": "Instructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: 10-1-107\nTime: 11:00 - 12:15, Mondays & Wednesdays\nSyllabus"
   },
   {
     "objectID": "lectures.html#m1862.000400-topics-in-cartography-and-cartography-education",
     "href": "lectures.html#m1862.000400-topics-in-cartography-and-cartography-education",
     "title": "Classes",
     "section": "",
-    "text": "Instructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: TBD\nTime: 18:00 - 20:50, Thursdays\n\n\n\n\n\nLink: https://sangillee.snu.ac.kr/class_2024_1_history_cartography/"
+    "text": "Instructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: TBD\nTime: 18:00 - 20:50, Thursdays\nSyllabus"
   },
   {
     "objectID": "lectures.html#m3450.001400-designing-human-and-social-education-contents-for-ai-convergence-education",
     "href": "lectures.html#m3450.001400-designing-human-and-social-education-contents-for-ai-convergence-education",
     "title": "Classes",
     "section": "",
-    "text": "Instructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: Sechang Kim (Graduate Student, Seoul National University)\nPlace: 10-207\nTime: 18:30 - 21:20, Tuesdays"
+    "text": "Instructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: Sechang Kim (Graduate Student, Seoul National University)\nPlace: 10-207\nTime: 18:30 - 21:20, Tuesdays\nSyllabus"
   },
   {
     "objectID": "papers/index.html#papers",

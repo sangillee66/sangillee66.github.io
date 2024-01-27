@@ -9,8 +9,6 @@ title-block-banner: images/banner_lectures_new.jpg
 
 ## 700.231 Cartography
 
-### Basic Info
-
 -   Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
 
     -   [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
@@ -21,11 +19,9 @@ title-block-banner: images/banner_lectures_new.jpg
 
 -   Time: 11:00 - 12:15, Mondays & Wednesdays
 
-### [Syllabus](classes/2024_1_Cartography.qmd)
+-   [Syllabus](classes/2024_1_Cartography.qmd)
 
 ## M1862.000400 Topics in Cartography and Cartography Education
-
-### Basic Info
 
 -   Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
 
@@ -37,13 +33,9 @@ title-block-banner: images/banner_lectures_new.jpg
 
 -   Time: 18:00 - 20:50, Thursdays
 
-### Class Website
-
--   Link: <https://sangillee.snu.ac.kr/class_2024_1_history_cartography/>
+-   [Syllabus](classes/2024_1_Topics_in_Carto_Carto_Edu.qmd)
 
 ## M3450.001400 Designing Human and Social Education Contents for AI Convergence Education
-
-### Basic Info
 
 -   Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
 
@@ -55,4 +47,4 @@ title-block-banner: images/banner_lectures_new.jpg
 
 -   Time: 18:30 - 21:20, Tuesdays
 
-### [Syllabus](classes/2024_1_AI_Edu.qmd)
+-   [Syllabus](classes/2024_1_AI_Edu.qmd)
