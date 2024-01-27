@@ -9,6 +9,7 @@ subtitle: |
   |
   | Population Geography and Spatial Demography
   | Geography of Education
+lightbox: true
 image: me.png
 about:
   template: trestles
