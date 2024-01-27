@@ -99,7 +99,7 @@ bibliography: references.bib
 
 ### Statistical Foundation
 
--   Ismay, Chester, and Albert Y. Kim. 2019. [*Statistical Inference via Data Science: A ModernDive into R and the Tidyverse: A ModernDive into R and the Tidyverse*](https://moderndive.com/). 1st edition. Boca Raton: Chapman; Hall/CRC.
+-   Ismay, Chester, and Albert Y. Kim. 2019. [*Statistical Inference via Data Science: A ModernDive into R and the Tidyverse: A ModernDive into R and the Tidyverse*](https://moderndive.com/). 1st edition. Boca Raton: Chapman; Hall/CRC. (양승훈 옮김, 2023, [데이터 과학을 활용한 통계](https://www.yes24.com/Product/Goods/122342018), 파주: 자유아카데미.)
 
 -   Bruce, Peter C., Andrew Bruce, and Peter Gedeck, 2020, [*Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python*](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X/ref=sr_1_1?crid=98UZEABX2F4Q&dib=eyJ2IjoiMSJ9.F4tO6GMw72DFF7NQRdwBqEC0yTH5VyuO-miwDjnFTNNLSKmqumN48VZFUwWeUH0ZKSyXucoF7sIL-okC6RXJToNl542GnCLV8tS5OlrQtsC7Rugp1EyMYEaTuTW_8gAgJ7SK_kYPuHHydz8XI11WmcNjN_2CUigbo2cfwqIMXD6oY8AwVg2fwkvn__e2Yk1CsPQyGQot0RJRezwz4GlKBgQMe83M9dJ18dua-luUl2k.Dg0hpdMezDfpXwGPn9nIwPAz7WNs5uGwh2lPtgsoWKs&dib_tag=se&keywords=practical+statistics+for+data+scientists&qid=1705832562&s=books&sprefix=practical+statistics+for+data+scientist%2Cstripbooks-intl-ship%2C261&sr=1-1)*,* Second edition, Sebastopol, CA: O’Reilly. (이준용 옮김, 2021, [데이터 과학을 위한 통계](https://www.yes24.com/Product/Goods/99942893), 서울: 한빛미디어.)
 
