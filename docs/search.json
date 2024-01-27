@@ -72,42 +72,42 @@
   {
     "objectID": "classes/2024_1_Cartography.html",
     "href": "classes/2024_1_Cartography.html",
-    "title": "Spring/2024 Cartography",
+    "title": "Cartography\n지도학",
     "section": "",
     "text": "지도학의 기본 개념 이해\n\nI. 지도학과 지도학적 의사소통\n\n지도 투영의 원리 이해\n\nII. 지도 투영\n\n주제도 제작의 원리 이해\n\nIII. 주제도 제작\n\n\n\n\n\n\n\n\nGIS를 활용한 지도 제작\n\nQGIS 실습"
   },
   {
     "objectID": "classes/2024_1_Cartography.html#수업의-주안점",
     "href": "classes/2024_1_Cartography.html#수업의-주안점",
-    "title": "Spring/2024 Cartography",
+    "title": "Cartography\n지도학",
     "section": "",
     "text": "지도학의 기본 개념 이해\n\nI. 지도학과 지도학적 의사소통\n\n지도 투영의 원리 이해\n\nII. 지도 투영\n\n주제도 제작의 원리 이해\n\nIII. 주제도 제작\n\n\n\n\n\n\n\n\nGIS를 활용한 지도 제작\n\nQGIS 실습"
   },
   {
     "objectID": "classes/2024_1_Cartography.html#수업-진행-관련-사항",
     "href": "classes/2024_1_Cartography.html#수업-진행-관련-사항",
-    "title": "Spring/2024 Cartography",
+    "title": "Cartography\n지도학",
     "section": "수업 진행 관련 사항",
     "text": "수업 진행 관련 사항\n\nLMS\n\n서울대학교 eTL (SNU eTL)\n강의노트, 강의 이미지, 참고자료 등\n\n\n\n교수자 홈페이지\n\nhttps://sangillee66.github.io/classes/2024_1_Cartography.html\n보완적으로 활용\n\n\n\n수업 진행 방식\n\n강의: 파워포인트 및 강의노트\n실습: QGIS(실습 조교: 김우형)"
   },
   {
     "objectID": "classes/2024_1_Cartography.html#교재-및-참고서",
     "href": "classes/2024_1_Cartography.html#교재-및-참고서",
-    "title": "Spring/2024 Cartography",
+    "title": "Cartography\n지도학",
     "section": "교재 및 참고서",
     "text": "교재 및 참고서\n\n\n\n\n\n\nNote\n\n\n\n본 수업은 특별한 교재가 없습니다. 교수자가 제공하는 강의노트로 충분합니다. 하지만 아래의 책들은 참고도서로서 충분한 가치가 있습니다.\n\n\n\n지도학 관련 참고도서\n\n이건학ㆍ김감영ㆍ김영호ㆍ김영훈ㆍ신정엽ㆍ이상일 옮김, 2014, 지도학과 지리적 시각화, 서울: 시그마프레스. (Slocum, Terry A., Robert B. McMaster, Fritz C. Kessler, and Hugh H. Howard. 2009, Thematic Cartography and Geovisualization, 3rd ed., Upper Saddle River, NJ: Pearson Prentice Hall.)\n이상일ㆍ손일 옮김, 2021, 지도와 거짓말, 서울: 푸른길. (Monmonier, Mark S, 2018, How to Lie with Maps, Third edition, Chicago, IL: The University of Chicago Press.)\n이상일 옮김, 2014, 지구 끝까지: 세상을 바꾼 100장의 지도, 서울: 푸른길. (Harwood, Jeremy, 2011, To the Ends of the Earth: 100 Maps that Changed the World, New York, N.Y.: Chartwell Books.)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGIS 실습 관련 참고 도서\n\n윤동근ㆍ구교준ㆍ추미진ㆍ안승연ㆍ이희철, 2023, QGIS를 활용한 공간분석 입문, 고려대학교출판부.\n이준호ㆍ유병혁ㆍ김태훈, 2023, QGIS Cookbook with 3.x, 구미서관.\n문승주, 2022, 스마트한 QGIS 활용서, 예문사.\n염윤호ㆍ최재훈, 2022, 사회과학을 위한 QGIS 활용과 지리공간분석, 윤성사.\n김남신, 2021, 오픈소스 활용 QGIS 자연과학 데이터 분석, 한울엠플러스."
   },
   {
     "objectID": "classes/2024_1_Cartography.html#평가-기준",
     "href": "classes/2024_1_Cartography.html#평가-기준",
-    "title": "Spring/2024 Cartography",
+    "title": "Cartography\n지도학",
     "section": "평가 기준",
     "text": "평가 기준\n\n출석(15%)\n\n벌점: 결석 1회당 -1.5점/ 지각 1회당 -0.3점\n\n\n\n\n\n\n\nWarning\n\n\n\n벌점 총점이 10점을 초과하는 경우 전체 학점 F\n\n\n\n\n시험(85%)\n\n중간 시험(40%): 4월 22일(월)\n기말 시험(45%): 6월 17일(월)\n\n\n\n\n\n\n\nWarning\n\n\n\n두 시험 중 하나라도 미응시인 경우 전체 학점 F"
   },
   {
     "objectID": "classes/2024_1_Cartography.html#수업-달력",
     "href": "classes/2024_1_Cartography.html#수업-달력",
-    "title": "Spring/2024 Cartography",
+    "title": "Cartography\n지도학",
     "section": "수업 달력",
     "text": "수업 달력\n\n\n\n\n\n\n\n\n\n\n\n주\n순번\n날짜\n요일\n수업 내용\n수업 방식\n\n\n\n\n1\n1-1\n3월 4일\n월\nI. 지도학과 지도학적 의사소통 1\n강의\n\n\n\n1-2\n3월 6일\n수\nI. 지도학과 지도학적 의사소통 2\n강의\n\n\n2\n2-1\n3월 11일\n월\nI. 지도학과 지도학적 의사소통 3\n강의\n\n\n\n2-2\n3월 13일\n수\nI. 지도학과 지도학적 의사소통 4\n강의\n\n\n3\n3-1\n3월 18일\n월\nI. 지도학과 지도학적 의사소통 5\n강의\n\n\n\n3-2\n3월 20일\n수\nII. 지도 투영 1\n강의\n\n\n4\n4-1\n3월 25일\n월\nII. 지도 투영 2\n강의\n\n\n\n4-2\n3월 27일\n수\n학과 답사(예정)\n휴강\n\n\n5\n5-1\n4월 1일\n월\nGIS 실습 1\n실습\n\n\n\n5-2\n4월 3일\n수\nII. 지도 투영 3\n강의\n\n\n6\n6-1\n4월 8일\n월\nII. 지도 투영 4\n강의\n\n\n\n6-2\n4월 10일\n수\n22대 국회위원 선거\n휴강\n\n\n7\n7-1\n4월 15일\n월\nII. 지도 투영 5\n강의\n\n\n\n7-2\n4월 17일\n수\nII. 지도 투영 6\n강의\n\n\n8\n8-1\n4월 22일\n월\n중간 시험\n시험\n\n\n\n8-2\n4월 24일\n수\nGIS 실습 2\n실습\n\n\n9\n9-1\n4월 29일\n월\nII. 지도 투영 7\n강의\n\n\n\n9-2\n5월 1일\n수\nII. 지도 투영 8\n강의\n\n\n10\n10-1\n5월 6일\n월\n대체 공휴일\n휴강\n\n\n\n10-2\n5월 8일\n수\nII. 지도 투영 9\n강의\n\n\n11\n11-1\n5월 13일\n월\nGIS 실습 3\n실습\n\n\n\n11-2\n5월 15일\n수\n부처님 오신 날\n휴강\n\n\n12\n12-1\n5월 20일\n월\nIII. 주제도 제작 1\n강의\n\n\n\n12-2\n5월 22일\n수\nIII. 주제도 제작 2\n강의\n\n\n13\n13-1\n5월 27일\n월\nIII. 주제도 제작 3\n강의\n\n\n\n13-2\n5월 29일\n수\nGIS 실습 4\n실습\n\n\n14\n14-1\n6월 3일\n월\nIII. 주제도 제작 4\n강의\n\n\n\n14-2\n6월 5일\n수\nIII. 주제도 제작 5\n강의\n\n\n15\n15-1\n6월 10일\n월\nIII. 주제도 제작 6\n강의\n\n\n\n15-2\n6월 12일\n수\nGIS 실습 5\n실습\n\n\n16\n16-1\n6월 17일\n월\n기말 시험\n시험"
   },
@@ -128,98 +128,98 @@
   {
     "objectID": "classes/2024_1_AI_Edu.html",
     "href": "classes/2024_1_AI_Edu.html",
-    "title": "Spring/2024 Designing Human and Social Education Contents for AI Convergence Education",
+    "title": "Designing Human and Social Education Contents for AI Convergence Education\nAI 융합교육을 위한 인문사회 컨텐츠 설계",
     "section": "",
     "text": "This course focuses on how technological advances associated with data science and artificial intelligence could enhance social studies education.\nStudents are expected:\n\nto understand possibilities and limitations of those technologies for social studies education,\nto develop their abilities to design teaching-learning contents by fusing the technologies and particular subject matters, and\nto get to possess an introductory level of computer programming for the technologies."
   },
   {
     "objectID": "classes/2024_1_AI_Edu.html#main-focus",
     "href": "classes/2024_1_AI_Edu.html#main-focus",
-    "title": "Spring/2024 Designing Human and Social Education Contents for AI Convergence Education",
+    "title": "Designing Human and Social Education Contents for AI Convergence Education\nAI 융합교육을 위한 인문사회 컨텐츠 설계",
     "section": "",
     "text": "This course focuses on how technological advances associated with data science and artificial intelligence could enhance social studies education.\nStudents are expected:\n\nto understand possibilities and limitations of those technologies for social studies education,\nto develop their abilities to design teaching-learning contents by fusing the technologies and particular subject matters, and\nto get to possess an introductory level of computer programming for the technologies."
   },
   {
     "objectID": "classes/2024_1_AI_Edu.html#class-setting",
     "href": "classes/2024_1_AI_Edu.html#class-setting",
-    "title": "Spring/2024 Designing Human and Social Education Contents for AI Convergence Education",
+    "title": "Designing Human and Social Education Contents for AI Convergence Education\nAI 융합교육을 위한 인문사회 컨텐츠 설계",
     "section": "Class Setting",
     "text": "Class Setting\n\nLMS (Learning Management System)\n\neTL at Seoul National University (SNU eTL)\nLecture notes, materials, references, and etc.\n\n\n\nClass Design\n\nClasses are conducted in a combination of lecture and lab exercise.\nLecure contents are composed of 8 topics: Concepts and Principles of Data Science, Data Science and Education, Population Topics for Contents Development, Data Collection by Webscraping, Analysis of Unstructured Data (Text Mining), Data Exploration and Visualization, Artificial Intelligence and Machine Learning, Development of Web Applications.\nEach lecture is accompanied by an R excercise.\nDuring the final two weeks, each student is expected to give a presentation about designing social studies class contents for AI-Integrated education."
   },
   {
     "objectID": "classes/2024_1_AI_Edu.html#student-responsibilities",
     "href": "classes/2024_1_AI_Edu.html#student-responsibilities",
-    "title": "Spring/2024 Designing Human and Social Education Contents for AI Convergence Education",
+    "title": "Designing Human and Social Education Contents for AI Convergence Education\nAI 융합교육을 위한 인문사회 컨텐츠 설계",
     "section": "Student Responsibilities",
     "text": "Student Responsibilities\n\nPresentation\n\nEach student should give a presentation on designing social studies class contents for AI-Integrated education.\n\nSubject: one or two population Issues (low birth rate, aging, population cliff, regional extinction, school-age population)\nData: KOSIS or World Population Prospects 2022\nForm: 20-minute-long powerpoint presentation\n\n\n\n\nTerm Paper\n\nEach student should submit a term paper about the presentation above at the end of the semester."
   },
   {
     "objectID": "classes/2024_1_AI_Edu.html#grading-method",
     "href": "classes/2024_1_AI_Edu.html#grading-method",
-    "title": "Spring/2024 Designing Human and Social Education Contents for AI Convergence Education",
+    "title": "Designing Human and Social Education Contents for AI Convergence Education\nAI 융합교육을 위한 인문사회 컨텐츠 설계",
     "section": "Grading Method",
     "text": "Grading Method\n\nAttendance (15%)\n\nPenalty will be given for each absence/lateness.\n\n\n\nPresentation (35%)\n\nOverall performance will be evaluated.\n\n\n\nTerm Paper (50%)\n\nThe format of the term paper can be freely chosen.\nDue date: 6/18/2024 (Thuesday)"
   },
   {
     "objectID": "classes/2024_1_AI_Edu.html#references",
     "href": "classes/2024_1_AI_Edu.html#references",
-    "title": "Spring/2024 Designing Human and Social Education Contents for AI Convergence Education",
+    "title": "Designing Human and Social Education Contents for AI Convergence Education\nAI 융합교육을 위한 인문사회 컨텐츠 설계",
     "section": "References",
     "text": "References\n\nData Science\n\nWickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund, 2023, R for Data Science: Import, Tidy, Transform, Visualize, and Model Data, 2nd edition, Boston: O’Reilly. (김설기ㆍ최혜민 옮김, 2019, R을 활용한 데이터 과학: 데이터 불러오기, 정리하기, 변형하기, 시각화하기, 모델링하기, 1판, 서울: 인사이트.)\nBonnell, Jerry, and Mitsunori Ogihara. 2023. Exploring Data Science with R and the Tidyverse. 1st edition. Chapman; Hall/CRC.\n차영준ㆍ박진표, 2022, 데이터과학 입문을 위한 R과 타이디버스, 파주: 자유아카데미.\n양윤석ㆍ오일석ㆍ강래형, 2019, R로 배우는 데이터 과학: 분석에서 예측을 위한 모델링까지, 서울: 한빛아카데미.\n\n\n\nData Visualization\n\nKabacoff, Robert, 2024, Modern Data Visualization with R, Boca Raton: CRC Press.\nDougherty, Jack, and Ilya Ilyankou, 2021, Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code, Boston: O’Reilly. (김태헌 옮김, 2022, 핸즈온 데이터 시각화: 효과적인 데이터 시각화 전략부터 20가지 시각화 도구 사용법까지, 한빛미디어)\nWilke, C., 2019, Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures, Sebastopol, CA: O’Reilly. (권혜정, 2020, 데이터 시각화 교과서: 데이터 분석의 본질을 살리는 그래프와 차트 제작의 기본 원리와 응용, 의왕: 책만.)\nWickham, Hadley. 2016. ggplot2: Elegant Graphics for Data Analysis. 2nd ed. Switzerland: Springer. (박진수 옮김, 2017. R로 분석한 데이터를 멋진 그래픽으로 ggplot2. 부천: 프리렉.)\n\n\n\nStatistical Foundation\n\nIsmay, Chester, and Albert Y. Kim. 2019. Statistical Inference via Data Science: A ModernDive into R and the Tidyverse: A ModernDive into R and the Tidyverse. 1st edition. Boca Raton: Chapman; Hall/CRC.\nBruce, Peter C., Andrew Bruce, and Peter Gedeck, 2020, Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python, Second edition, Sebastopol, CA: O’Reilly. (이준용 옮김, 2021, 데이터 과학을 위한 통계, 서울: 한빛미디어.)\n오진호, 2022, 기초통계학과 데이터 사이언스: R 활용, 파주: 자유아카데미.\n\n\n\nWeb Scraping\n\n곽기영, 2022, R을 이용한 웹스크레이핑과 데이터분석, 서울: 청람.\n\n\n\nText Analysis\n\nHvitfeldt, Emil, and Julia Sigle, 2022, Supervised Machine Learning for Text Analysis in R, Boca Raton: CRC Press.\nSilge, Julia, and David Robinson. 2017. Text Mining with R: A Tidy Approach. 1st edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.\n한국R사용자회ㆍ안도현, 2022, R 텍스트마이닝, 오픈전자책.\n김영우, 2021, 쉽게 배우는 R 텍스트 마이닝, 서울: 이지스퍼블리싱.\n백영민, 2020, R을 이용한 텍스트 마이닝, 파주: 한울엠플러스.\n\n\n\nWeb Application Development\n\nGranjon, David, 2022, Outstanding User Interfaces with Shiny, Boaca Raton: CRC Press.\nFay, Colin, Vincent Guyader, Sebastien Rochette, and Cervan Girard. 2022, Engineering Production-Grade Shiny Apps, Boca Raton: CRC Press.\nWickham, Hadley, 2021, Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Power by R, Sebastopol, CA: O’REILLY. (이영록 옮김, 2022, R 사용자를 위한 Shiny 마스터 가이드, 서울: 인사이트.)\n\n\n\nMachine Learning and Deep Learning\n\nLantz, Brett, 2023, Machine Learning with R: Learn Techniques for Building and Improving Machine Learning Models, from Data Preparation to Model Tuning, Evaluation, and Working with Big Data, Fourth edition, Birmingham Mumbai: Packt. (이병욱, 2024, R을 활용한 머신 러닝, 4판, 서울: 에이콘출판사.\nChollet, François, Tomasz Kalinowski, and J. J. Allaire, 2022, Deep Learning with R, Second edition, Shelter Island, NY: Manning. (박진수 옮김, 2019, 케라스 창시자의 딥러닝 with R, 1판, 파주: 제이펍.)\nLesmeister, Cory, 2019, Mastering Machine Learning with R: Advanced Machine Learning Techniques for Building Smart Applications with R, Third edition, Birmingham, UK: Packt Publishing. (김종원ㆍ김태영ㆍ류성희ㆍ이호. 2018, R로 마스터하는 머신 러닝: 업무에 활용할 수 있는 선형모델에서 딥러닝까지, 2판, 서울: 에이콘.)\n장용식ㆍ최진호, 2020, 머신러닝을 활용한 R 데이터 분석, 파주: 생능출판.\nKuhn, Max, and Julia Silge. 2022. Tidy Modeling with R: A Framework for Modeling in the Tidyverse. 1st edition. Sebastopol, CA: O’Reilly Media.\nBoehmke, Brad, and Brandon M. Greenwell. 2019. Hands-on Machine Learning with R. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\n\n\n\nIntroduction to R\n\nRStudio Education Team, Finding Your Way To R.\n곽기영, 2022, R 기초와 활용, 서울: 청람.\n강전희ㆍ엄동란, 2018, 처음 시작하는 R 데이터 분석, 서울: 한빛미디어.\n김영우, 2017, 쉽게 배우는 R 데이터 분석, 서울: 이지스퍼블리싱."
   },
   {
     "objectID": "classes/2024_1_AI_Edu.html#calendar",
     "href": "classes/2024_1_AI_Edu.html#calendar",
-    "title": "Spring/2024 Designing Human and Social Education Contents for AI Convergence Education",
+    "title": "Designing Human and Social Education Contents for AI Convergence Education\nAI 융합교육을 위한 인문사회 컨텐츠 설계",
     "section": "Calendar",
     "text": "Calendar\n\n\n\nWeek\nDate\nContent\n\n\n\n\n1\n3/5\nOrientation\n\n\n2\n3/12\nConcepts and Principles of Data Science\n\n\n3\n3/19\nData Science and Education\n\n\n4\n3/26\nPopulation Topics for Contents Development 1\n\n\n5\n4/2\nPopulation Topics for Contents Development 2\n\n\n6\n4/9\nData Collection by Web Scraping\n\n\n7\n4/16\nAnalysis of Unstructured Data: Text Mining\n\n\n8\n4/23\nData Exploration and Visualization 1\n\n\n9\n4/30\nData Exploration and Visualization 2\n\n\n10\n5/7\nData Exploration and Visualization 3\n\n\n11\n5/14\nArtificial Intelligence and Machine Learning 1\n\n\n12\n5/21\nArtificial Intelligence and Machine Learning 2\n\n\n13\n5/28\nDevelopment of Web Applications\n\n\n14\n6/4\nDesigning Class Contents for AI-Integrated Education 1\n\n\n15\n6/11\nDesigning Class Contents for AI-Integrated Education 2"
   },
   {
     "objectID": "classes/2024_1_Topics_in_Carto_Carto_Edu.html",
     "href": "classes/2024_1_Topics_in_Carto_Carto_Edu.html",
-    "title": "Spring/2024 Topics in Cartography and Cartography Education: Maps and Civilization",
+    "title": "Topics in Cartography and Cartography Education: Maps and Civilization\n지도학 및 지도교육 특강: 지도와 문명",
     "section": "",
     "text": "Lighting up the development of cartography from the perspective of the history of human civilization\nExploring the ten selected world maps\n\nEratosthenes’ World Map, Ptolemaios’ World Map, Hereford Mappa Mundi, Fra Mauro Map, al-Idirisi’s World Map, Kangnido of Korea, Waldseemüller’s World Map, Mercator’s World Map, John Colomb’s British Empire Map, and Peters’ World Map.\n\nDerivation of implications in education, geography education, and map education of the history of cartography"
   },
   {
     "objectID": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#main-focus",
     "href": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#main-focus",
-    "title": "Spring/2024 Topics in Cartography and Cartography Education: Maps and Civilization",
+    "title": "Topics in Cartography and Cartography Education: Maps and Civilization\n지도학 및 지도교육 특강: 지도와 문명",
     "section": "",
     "text": "Lighting up the development of cartography from the perspective of the history of human civilization\nExploring the ten selected world maps\n\nEratosthenes’ World Map, Ptolemaios’ World Map, Hereford Mappa Mundi, Fra Mauro Map, al-Idirisi’s World Map, Kangnido of Korea, Waldseemüller’s World Map, Mercator’s World Map, John Colomb’s British Empire Map, and Peters’ World Map.\n\nDerivation of implications in education, geography education, and map education of the history of cartography"
   },
   {
     "objectID": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#class-setting",
     "href": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#class-setting",
-    "title": "Spring/2024 Topics in Cartography and Cartography Education: Maps and Civilization",
+    "title": "Topics in Cartography and Cartography Education: Maps and Civilization\n지도학 및 지도교육 특강: 지도와 문명",
     "section": "Class Setting",
     "text": "Class Setting\n\nLMS (Learning Management System)\n\neTL at Seoul National University (SNU eTL)\nLecture notes, materials, references, and etc.\n\n\n\nClass Design\n\nClasses are conducted in a combination of seminar and lecture.\nEvery class, two students present and two students have a designated discussion. Other students also actively participate in the discussion. After that, the instructor’s lecture will be followed to wrap up the subject of the week."
   },
   {
     "objectID": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#student-responsibilities",
     "href": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#student-responsibilities",
-    "title": "Spring/2024 Topics in Cartography and Cartography Education: Maps and Civilization",
+    "title": "Topics in Cartography and Cartography Education: Maps and Civilization\n지도학 및 지도교육 특강: 지도와 문명",
     "section": "Student Responsibilities",
     "text": "Student Responsibilities\n\nPresentation and Discussion\n\nEach student should participate as a presenter at least twice and as a discussant at least four times throughout the course.\nThe student’s presentation may be a presentation on a specific article or a rough explanation of a specific map. The presenter should give a presentation on the relevant content within 30 minutes, and the debaters should discuss the presentation (complementation, opinion, question, etc.).\n\n\n\nTerm Paper\n\nEach student should submit a term paper at the end of the semester."
   },
   {
     "objectID": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#grading-method",
     "href": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#grading-method",
-    "title": "Spring/2024 Topics in Cartography and Cartography Education: Maps and Civilization",
+    "title": "Topics in Cartography and Cartography Education: Maps and Civilization\n지도학 및 지도교육 특강: 지도와 문명",
     "section": "Grading Method",
     "text": "Grading Method\n\nAttendance (15%)\n\nPenalty will be given for each absence/lateness.\n\n\n\nPresentation and Discussion (20%)\n\nOverall performance will be evaluated.\n\n\n\nTerm Paper (65%)\n\nA journal-article-type document should be submitted.\nDue date: 6/20/2024 (Thursday)"
   },
   {
     "objectID": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#references",
     "href": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#references",
-    "title": "Spring/2024 Topics in Cartography and Cartography Education: Maps and Civilization",
+    "title": "Topics in Cartography and Cartography Education: Maps and Civilization\n지도학 및 지도교육 특강: 지도와 문명",
     "section": "References",
     "text": "References\n\nThe History of Cartography\n\n이상일 옮김, 2014, 지구 끝까지: 세상을 바꾼 100장의 지도, 서울: 푸른길. (Harwood, Jeremy, 2011, To the Ends of the Earth: 100 Maps that Changed the World, New York, N.Y.: Chartwell Books.)\n이창신 옮김, 2014, 욕망하는 지도: 12개의 지도로 읽는 세계사, 서울: 알에이치코리아. (Brotton, Jerry, 2012, A History of the World in 12 Maps, New York: Viking.)\n김명남 옮김, 2015, 지도 위의 인문학: 지도 위에 그려진 인류 문명의 유쾌한 탐험, 파주: 다산북스. (Garfield, Simon. 2013. On the Map: A Mind-expanding Exploration of the Way the World Looks, New York, N.Y.: Gotham Books.)\n유나영 옮김, 2021, 지도의 역사: 지도로 그려진 최초의 발자취부터 인공지능까지, 서울: 소소의책. (Swanston, Malcolm, and Alexander Swanston, 2019, How to Draw a Map, London: HarperCollinsPublishers.)"
   },
   {
     "objectID": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#calendar",
     "href": "classes/2024_1_Topics_in_Carto_Carto_Edu.html#calendar",
-    "title": "Spring/2024 Topics in Cartography and Cartography Education: Maps and Civilization",
+    "title": "Topics in Cartography and Cartography Education: Maps and Civilization\n지도학 및 지도교육 특강: 지도와 문명",
     "section": "Calendar",
     "text": "Calendar\n\n\n\nWeek\nDate\nContent\n\n\n\n\n1\n3/7\nOrientation\n\n\n2\n3/14\nMaps and Civilization: Prologue\n\n\n3\n3/21\nMaps and Civilization: Prologue\n\n\n4\n3/28\nEratosthenes’ World Map\n\n\n5\n4/4\nPtolemaios’ World Map\n\n\n6\n4/11\nHereford Mappa Mundi\n\n\n7\n4/18\nFra Mauro Map\n\n\n8\n4/25\nal-Idirisi’s World Map\n\n\n9\n5/2\nKangnido of Korea\n\n\n10\n5/9\nWaldseemüller’s World Map\n\n\n11\n5/16\nMercator’s World Map\n\n\n12\n5/23\nJohn Colomb’s British Empire Map\n\n\n13\n5/30\nPeters’ World Map\n\n\n14\n6/6\nNational Holiday (현충일)\n\n\n15\n6/13\nMaps and Civilization: Epologue"
   },

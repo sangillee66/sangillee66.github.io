@@ -1,6 +1,7 @@
 ---
-title: "Spring/2024 Designing Human and Social Education Contents for AI Convergence Education"
-subtitle: "AI 융합교육을 위한 인문사회 컨텐츠 설계"
+title: |
+  | Designing Human and Social Education Contents for AI Convergence Education
+  | AI 융합교육을 위한 인문사회 컨텐츠 설계
 title-block-banner: ../images/banner_ai_edu.jpg
 author: "Sang-Il Lee"
 date-modified: last-modified
