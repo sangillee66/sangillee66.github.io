@@ -4,10 +4,10 @@ subtitle: |
   | Spatial Data Science
   |
   | Spatial Data Analysis and Spatial Statistics
-  | Geographic Information Systems
-  | Cartography and Geovisualization
+  | Cartography and GeoVisualization
+  | Geographic Information Systems (GIS)
   |
-  | Population Geography
+  | Population Geography and Spatial Demography
   | Geography of Education
 image: me.png
 about:

@@ -6,7 +6,7 @@ title-block-banner: images/banner_web_books_new.jpg
 bibliography: references.bib
 ---
 
-## Spatial Data Science: General
+## Spatial Data Science
 
 -   Pebesma, Edzer, and Roger Bivand. 2023. [*Spatial Data Science: With Applications in R*](https://r-spatial.org/book/). 1st edition. Boca Raton, FL: Chapman; Hall/CRC.
 
@@ -28,7 +28,7 @@ bibliography: references.bib
 
 -   Paez, Antonio. 2024. *An Introduction to Spatial Data Analysis and Statistics: A Course in r*. <https://paezha.github.io/spatial-analysis-r/>.
 
-## Mapping and GeoVisualization
+## Cartography and GeoVisualization
 
 -   Tennekes, Martijn, and Jakub Nowosad. 2021. *Elegant and Informative Maps with Tmap*. <https://r-tmap.github.io/tmap-book/>.
 
@@ -36,6 +36,6 @@ bibliography: references.bib
 
 -   Fidan, Emine. *Guide to Creating Interactive Maps in R*. <https://bookdown.org/eneminef/DRR_Bookdown/>.
 
-## GIS
+## Geographic Information Systems (GIS)
 
 -   Slingsby, Jasper. 2023. *A Minimal Introduction to GIS (in R)*. <https://www.ecologi.st/spatial-r/>.
