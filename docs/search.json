@@ -228,7 +228,7 @@
     "href": "lectures.html",
     "title": "Classes",
     "section": "",
-    "text": "Instructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: 10-1-107\nTime: 11:00 - 12:15, Mondays & Wednesdays\nSyllabus\n\n\n\n\n\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: TBD\nTime: 18:00 - 20:50, Thursdays\nSyllabus\n\n\n\n\n\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: Sechang Kim (Graduate Student, Seoul National University)\nPlace: 10-207\nTime: 18:30 - 21:20, Tuesdays\nSyllabus"
+    "text": "Course code: 700.231\nUndergraduate, offered by Department of Geography Education\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: 10-1-107\nTime: 11:00 - 12:15, Mondays & Wednesdays\nSyllabus\n\n\n\n\n\nCourse code: M1862.000400\nGraduate, offered by Department of Geography Education\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: TBD\nTime: 18:00 - 20:50, Thursdays\nSyllabus\n\n\n\n\n\nCourse code: M3450.001400\nGraduate, offered by Department of AI-Integrated Education (AI융합교육학과)\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: 10-207\nTime: 18:30 - 21:20, Tuesdays\nSyllabus"
   },
   {
     "objectID": "lectures.html#cartography",
@@ -369,5 +369,12 @@
     "title": "R Web Books",
     "section": "Geographic Information Systems (GIS)",
     "text": "Geographic Information Systems (GIS)\n\nSlingsby, Jasper. 2023. A Minimal Introduction to GIS (in R). https://www.ecologi.st/spatial-r/."
+  },
+  {
+    "objectID": "lectures.html#spring-semester-in-2024",
+    "href": "lectures.html#spring-semester-in-2024",
+    "title": "Classes",
+    "section": "",
+    "text": "Course code: 700.231\nUndergraduate, offered by Department of Geography Education\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: 10-1-107\nTime: 11:00 - 12:15, Mondays & Wednesdays\nSyllabus\n\n\n\n\n\nCourse code: M1862.000400\nGraduate, offered by Department of Geography Education\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: TBD\nTime: 18:00 - 20:50, Thursdays\nSyllabus\n\n\n\n\n\nCourse code: M3450.001400\nGraduate, offered by Department of AI-Integrated Education (AI융합교육학과)\nInstructor: Sang-Il Lee (Professor in Seoul National University)\n\nsi_lee@snu.ac.kr, 02-880-9028, 10-319\n\nTA: TBD\nPlace: 10-207\nTime: 18:30 - 21:20, Tuesdays\nSyllabus"
   }
 ]
