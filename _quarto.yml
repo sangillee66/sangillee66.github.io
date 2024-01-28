@@ -4,6 +4,8 @@ project:
 
 website:
   title: "SANG-IL LEE"
+  favicon: me.png
+  google-analytics: "G-SVCM6WKTWH"
   navbar:
     left:
       - text: "Home"
