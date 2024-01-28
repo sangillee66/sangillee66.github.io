@@ -30,7 +30,9 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 
