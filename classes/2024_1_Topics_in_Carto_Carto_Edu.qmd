@@ -27,7 +27,9 @@ bibliography: references.bib
 
 -   eTL at Seoul National University ([SNU eTL](http://etl.snu.ac.kr/))
 
--   Lecture notes, materials, references, and etc.
+    -   Lecture notes, materials, references, and etc.
+
+-   Class homepage: <https://sangillee.snu.ac.kr/classes/2024_1_Topics_in_Carto_Carto_Edu.html>
 
 ### Class Design
 

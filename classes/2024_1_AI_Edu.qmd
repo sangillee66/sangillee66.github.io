@@ -29,7 +29,9 @@ bibliography: references.bib
 
 -   eTL at Seoul National University ([SNU eTL](http://etl.snu.ac.kr/))
 
--   Lecture notes, materials, references, and etc.
+    -   Lecture notes, materials, references, and etc.
+
+-   Class homepage: <https://sangillee.snu.ac.kr/classes/2024_1_AI_Edu.html>
 
 ### Class Design
 
@@ -84,6 +86,8 @@ bibliography: references.bib
 
 -   Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund, 2023, [*R for Data Science: Import, Tidy, Transform, Visualize, and Model Data*](https://r4ds.hadley.nz/)*,* 2nd edition, Boston: O’Reilly. (김설기ㆍ최혜민 옮김, 2019, [R을 활용한 데이터 과학: 데이터 불러오기, 정리하기, 변형하기, 시각화하기, 모델링하기](https://www.yes24.com/Product/Goods/67856488), 1판, 서울: 인사이트.)
 -   Bonnell, Jerry, and Mitsunori Ogihara. 2023. [*Exploring Data Science with R and the Tidyverse*](https://ds4world.cs.miami.edu/). 1st edition. Chapman; Hall/CRC.
+-   Irizarry, Rafael A. 2020. [*Introduction to Data Science: Data Analysis and Prediction Algorithms with R*](https://rafalab.dfci.harvard.edu/dsbook-part-1/). Boca Raton: CRC Press, Taylor & Francis Group.
+-   Sarafian, Ron.  *Introduction to Data Science*. <https://bookdown.org/ronsarafian/IntrotoDS/>.
 -   차영준ㆍ박진표, 2022, [데이터과학 입문을 위한 R과 타이디버스](https://www.yes24.com/Product/Goods/111420341), 파주: 자유아카데미.
 -   양윤석ㆍ오일석ㆍ강래형, 2019, [R로 배우는 데이터 과학: 분석에서 예측을 위한 모델링까지](https://www.yes24.com/Product/Goods/73049003), 서울: 한빛아카데미.
 

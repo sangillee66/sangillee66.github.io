@@ -35,6 +35,10 @@ about:
 
 -   M.A., 1991, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
 
+    -   Advisor: [Ki-Suk Lee](https://www.nas.go.kr/page/3a27a6a3-d008-46cf-8ce2-c1789be74dd8?mber_key=10000053&view=Y&view_url=%2Fmember%2Fview%2Flist&redirect_url=%2Fpage%2F3a27a6a3-d008-46cf-8ce2-c1789be74dd8) (Emeritus Professor, [Seoul National University](https://www.snu.ac.kr/) \| A Member of [The National Academy of Sciences](https://www.nas.go.kr/))
+
+    -   Thesis: Geographical Implications of Realism and Relative Autonomy of Space [{{< bi file-pdf-fill >}}](papers/1990_01_지리교육논집_이상일.pdf)
+
 -   Ph.D., 2001, [Department of Geography](https://geography.osu.edu/), [The Ohio State University](https://www.osu.edu/)
 
     -   Advisor: [Lawrence Alan Brown](https://u.osu.edu/larryslegacy/2014/12/08/hello-world/) (Novermber 22, 1935 – April 6, 2014)
