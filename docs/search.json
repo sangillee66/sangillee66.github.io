@@ -305,7 +305,7 @@
     "href": "r_web_book.html",
     "title": "R Web Books",
     "section": "",
-    "text": "Pebesma, Edzer, and Roger Bivand. 2023. Spatial Data Science: With Applications in R. 1st edition. Boca Raton, FL: Chapman; Hall/CRC.\nLovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2020. Geocomputation with R. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nMoraga, Paula. 2023. Spatial Statistics for Data Science: Theory and Practice with R. 1st edition. Boca Raton, FL: Chapman; Hall/CRC.\nWimberly, Michael C. 2023. Geographic Data Science with R: Visualizing and Analyzing Environmental Change. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nRey, Sergio, Dani Arribas-Bel, and Levi John Wolf. 2023. Geographic Data Science with Python. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nAcosta, Luc Anselin, Grant Morrison, Angela Li, Karina. 2023. Hands-on Spatial Data Science with R. https://spatialanalysis.github.io/handsonspatialdata/index.html.\nSabbata, Stefano De. 2024. R for Geographic Data Science. https://sdesabbata.github.io/r-for-geographic-data-science/.\nComber, Lex. 2023. GeoComputation and Spatial Analysis Practicals. https://bookdown.org/lexcomber/GEOG3195/."
+    "text": "Pebesma, Edzer, and Roger Bivand. 2023. Spatial Data Science: With Applications in R. 1st edition. Boca Raton: CRC.\nLovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2020. Geocomputation with R. 1st edition. Boca Raton: CRC.\nWimberly, Michael C. 2023. Geographic Data Science with R: Visualizing and Analyzing Environmental Change. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nRey, Sergio, Dani Arribas-Bel, and Levi John Wolf. 2023. Geographic Data Science with Python. 1st edition. Boca Raton: CRC.\nAcosta, Luc Anselin, Grant Morrison, Angela Li, Karina. 2023. Hands-on Spatial Data Science with R. https://spatialanalysis.github.io/handsonspatialdata/index.html.\nSabbata, Stefano De. 2024. R for Geographic Data Science. https://sdesabbata.github.io/r-for-geographic-data-science/.\nComber, Lex. 2023. GeoComputation and Spatial Analysis Practicals. https://bookdown.org/lexcomber/GEOG3195/.\nDavis, Jerry, and SFSU Institute for Geographic Information Science. 2024. Introduction to Environmental Data Science. https://bookdown.org/igisc/EnvDataSci/.\nDorman, Michael. 2023. Introduction to Spatial Data Programming with R. https://geobgu.xyz/r/."
   },
   {
     "objectID": "r_web_book.html#spatial-data-science-general",
@@ -333,7 +333,7 @@
     "href": "r_web_book.html#spatial-data-analysis-and-spatial-statistics",
     "title": "R Web Books",
     "section": "Spatial Data Analysis and Spatial Statistics",
-    "text": "Spatial Data Analysis and Spatial Statistics\n\nPaez, Antonio. 2024. An Introduction to Spatial Data Analysis and Statistics: A Course in r. https://paezha.github.io/spatial-analysis-r/."
+    "text": "Spatial Data Analysis and Spatial Statistics\n\nPaez, Antonio. 2024. An Introduction to Spatial Data Analysis and Statistics: A Course in R. https://paezha.github.io/spatial-analysis-r/.\nMoraga, Paula. 2023. Spatial Statistics for Data Science: Theory and Practice with R. 1st edition. Boca Raton: CRC.\nGeomatics for Environmental Management: An Open Textbook for Students and Practitioners.  https://www.opengeomatics.ca/.\nArribas-Bel, Francisco Rowe, Dani. 2023. Spatial Modelling for Data Scientists. https://gdsl-ul.github.io/san/."
   },
   {
     "objectID": "r_web_book.html#mapping-and-geovisualization",
@@ -347,14 +347,14 @@
     "href": "r_web_book.html#spatial-data-science",
     "title": "R Web Books",
     "section": "",
-    "text": "Pebesma, Edzer, and Roger Bivand. 2023. Spatial Data Science: With Applications in R. 1st edition. Boca Raton, FL: Chapman; Hall/CRC.\nLovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2020. Geocomputation with R. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nMoraga, Paula. 2023. Spatial Statistics for Data Science: Theory and Practice with R. 1st edition. Boca Raton, FL: Chapman; Hall/CRC.\nWimberly, Michael C. 2023. Geographic Data Science with R: Visualizing and Analyzing Environmental Change. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nRey, Sergio, Dani Arribas-Bel, and Levi John Wolf. 2023. Geographic Data Science with Python. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nAcosta, Luc Anselin, Grant Morrison, Angela Li, Karina. 2023. Hands-on Spatial Data Science with R. https://spatialanalysis.github.io/handsonspatialdata/index.html.\nSabbata, Stefano De. 2024. R for Geographic Data Science. https://sdesabbata.github.io/r-for-geographic-data-science/.\nComber, Lex. 2023. GeoComputation and Spatial Analysis Practicals. https://bookdown.org/lexcomber/GEOG3195/."
+    "text": "Pebesma, Edzer, and Roger Bivand. 2023. Spatial Data Science: With Applications in R. 1st edition. Boca Raton: CRC.\nLovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2020. Geocomputation with R. 1st edition. Boca Raton: CRC.\nWimberly, Michael C. 2023. Geographic Data Science with R: Visualizing and Analyzing Environmental Change. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nRey, Sergio, Dani Arribas-Bel, and Levi John Wolf. 2023. Geographic Data Science with Python. 1st edition. Boca Raton: CRC.\nAcosta, Luc Anselin, Grant Morrison, Angela Li, Karina. 2023. Hands-on Spatial Data Science with R. https://spatialanalysis.github.io/handsonspatialdata/index.html.\nSabbata, Stefano De. 2024. R for Geographic Data Science. https://sdesabbata.github.io/r-for-geographic-data-science/.\nComber, Lex. 2023. GeoComputation and Spatial Analysis Practicals. https://bookdown.org/lexcomber/GEOG3195/.\nDavis, Jerry, and SFSU Institute for Geographic Information Science. 2024. Introduction to Environmental Data Science. https://bookdown.org/igisc/EnvDataSci/.\nDorman, Michael. 2023. Introduction to Spatial Data Programming with R. https://geobgu.xyz/r/."
   },
   {
     "objectID": "r_web_book.html#cartography-and-geovisualization",
     "href": "r_web_book.html#cartography-and-geovisualization",
     "title": "R Web Books",
     "section": "Cartography and GeoVisualization",
-    "text": "Cartography and GeoVisualization\n\nTennekes, Martijn, and Jakub Nowosad. 2021. Elegant and Informative Maps with Tmap. https://r-tmap.github.io/tmap-book/.\nProtić, Milan Kilibarda i Dragutin. 2019. Introduction to Geovisualization and Web Cartography. https://osgl.grf.bg.ac.rs/books/gvvk-en/.\nFidan, Emine. Guide to Creating Interactive Maps in R. https://bookdown.org/eneminef/DRR_Bookdown/."
+    "text": "Cartography and GeoVisualization\n\nSievert, Carson. 2020. Interactive Web-Based Data Visualization with R, Plotly, and Shiny. Boca Raton: CRC..\nTennekes, Martijn, and Jakub Nowosad. 2021. Elegant and Informative Maps with Tmap. https://r-tmap.github.io/tmap-book/.\nProtić, Milan Kilibarda i Dragutin. 2019. Introduction to Geovisualization and Web Cartography. https://osgl.grf.bg.ac.rs/books/gvvk-en/.\nFidan, Emine. Guide to Creating Interactive Maps in R. https://bookdown.org/eneminef/DRR_Bookdown/.\nDorman, Michael. 2024. Introduction to Web Mapping. https://geobgu.xyz/web-mapping2/index.html.\nHahn, Nico. 2020. Making Maps with R. https://bookdown.org/nicohahn/making_maps_with_r5/docs/introduction.html."
   },
   {
     "objectID": "r_web_book.html#geographic-information-systems",
@@ -368,7 +368,7 @@
     "href": "r_web_book.html#geographic-information-systems-gis",
     "title": "R Web Books",
     "section": "Geographic Information Systems (GIS)",
-    "text": "Geographic Information Systems (GIS)\n\nSlingsby, Jasper. 2023. A Minimal Introduction to GIS (in R). https://www.ecologi.st/spatial-r/."
+    "text": "Geographic Information Systems (GIS)\n\nSlingsby, Jasper. 2023. A Minimal Introduction to GIS (in R). https://www.ecologi.st/spatial-r/.\nGimond, Manuel. 2023. Intro to GIS and Spatial Analysis. https://mgimond.github.io/Spatial/index.html.\nMieno, Taro.  R as GIS for Economists. https://tmieno2.github.io/R-as-GIS-for-Economists/index.html.\nBranion-Calles, Michael. 2021. A Crash Course in Geographic Information Systems (GIS) Using R. https://bookdown.org/michael_bcalles/gis-crash-course-in-r/.\nGeomatics for Environmental Management: An Open Textbook for Students and Practitioners.  https://www.opengeomatics.ca/."
   },
   {
     "objectID": "lectures.html#spring-semester-in-2024",
