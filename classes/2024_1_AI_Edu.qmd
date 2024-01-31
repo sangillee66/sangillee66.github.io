@@ -111,6 +111,8 @@ bibliography: references.bib
 
 ### Web Scraping
 
+-   Pittard, Steve. 2022. *Web Scraping with r*. <https://steviep42.github.io/webscraping/book/>.
+
 -   곽기영, 2022, [R을 이용한 웹스크레이핑과 데이터분석](https://www.yes24.com/Product/Goods/109005331), 서울: 청람.
 
 ### Text Analysis
