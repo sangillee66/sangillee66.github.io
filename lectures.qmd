@@ -27,7 +27,7 @@ title-block-banner: images/banner_lectures_new.jpg
 -   TA: TBD
 -   Place: TBD
 -   Time: 18:00 - 20:50, Thursdays
--   [Syllabus](classes/2024_1_Topics_in_Carto_Carto_Edu.qmd)
+-   [Syllabus](classes/2024_1_Topics_in_Carto.qmd)
 
 ### Designing Human and Social Education Contents for AI Convergence Education <br />AI 융합교육을 위한 인문사회 컨텐츠 설계
 
