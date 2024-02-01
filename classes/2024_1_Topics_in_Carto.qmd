@@ -84,6 +84,10 @@ bibliography: references.bib
 
 -   김성은 옮김, 2007, [지도박물관: 역사상 가장 주목할 만한 지도 100가지](https://www.yes24.com/Product/Goods/2664217), 서울: 웅진씽크빅.(Clark, John Owen Edward, and Jeremy Black, eds. 2005. [*Remarkable Maps: 100 Examples of How Cartography Defined, Changed and Stole the World*](https://www.amazon.com/Remarkable-Maps-Examples-Cartography-Throughout/dp/1844860272/ref=sr_1_1?crid=3JY8TK5RZQYPM&keywords=Remarkable+maps&qid=1706772087&s=books&sprefix=remarkable+maps+100+examples+of+how+cartography%2Cstripbooks-intl-ship%2C262&sr=1-1). London: Conway Maritime Press.)
 
+-   박홍경 옮김, 2016, [세상의 모든 지도](https://www.yes24.com/Product/Goods/23991719) the MAP, 고양: 생각의집(Rooney, Anne. 2015. [*The Story of Maps: Putting the World in Perspective*](https://www.amazon.com/Story-Maps-Anne-Rooney/dp/1784048267/ref=sr_1_1?crid=1LVHN6W4NTHK6&keywords=The+Story+of+Maps%3A+Putting+the+World+in+Perspective&qid=1706782533&s=books&sprefix=the+story+of+maps+putting+the+world+in+perspective%2Cstripbooks-intl-ship%2C521&sr=1-1). London: Arcturus.)
+
+-   송태욱 옮김, 2010, [세계 지도의 탄생](https://www.yes24.com/Product/Goods/3969693), 파주: 알마(応地利明, 2007, [「世界地圖」の誕生](https://www.amazon.com/Sekai-chizu-tanjo%C3%8C-kataru/dp/4532165830), 東京: 日本経済新聞出版社).
+
 ::: {layout="[50, -10, 50]" layout-valign="bottom"}
 ![](images/clipboard-1073289357.png){width="250"}
 
