@@ -79,7 +79,7 @@ bibliography: references.bib
 -   김명남 옮김, 2015, [지도 위의 인문학](https://www.yes24.com/Product/Goods/23544580): 지도 위에 그려진 인류 문명의 유쾌한 탐험, 파주: 다산북스. (Garfield, Simon. 2013. [*On the Map: A Mind-expanding Exploration of the Way the World Looks*](https://www.amazon.com/Map-Mind-Expanding-Exploration-Notable-Adults/dp/1592407803/ref=sr_1_1?crid=3BJW1GMAX4YZ5&dib=eyJ2IjoiMSJ9.lQGK5iKst9YJ8yMba6Ck0TRUHjQNFMzmbWXLYoV6jo4Jk4J7_nKqqf7F2C6id3nHQltlEDYPQ39oLfK4oLqViqP1LTrmA66wA6jVbBRQOuQGWWx0Oxc72aDNdtS3WoQYNFIXZ-uyCrWncYV83Q2QjQ.FdwJlG7VbG8FpX75S9mLb0ynmr8fBli71VRD27DKD9U&dib_tag=se&keywords=On+the+Map%3A+A+Mind-expanding&qid=1705823976&s=books&sprefix=on+the+map+a+mind-expanding%2Cstripbooks-intl-ship%2C227&sr=1-1), New York, N.Y.: Gotham Books.)
 -   유나영 옮김, 2021, [지도의 역사: 지도로 그려진 최초의 발자취부터 인공지능까지](https://www.yes24.com/Product/Goods/104227876), 서울: 소소의책. (Swanston, Malcolm, and Alexander Swanston, 2019, [*How to Draw a Map*](https://www.amazon.com/How-to-Draw-a-Map/dp/0008275793/ref=sr_1_2?crid=215Q9RNBMV48J&dib=eyJ2IjoiMSJ9.DnuLacSDTLpZaYAPmIRSfz7vy-o7UERC3fTszoV0jhEEr8FXT1cDbT--r7xxnZmYB4jZ9jM5FXcvOnYk7dr27Vdwek5pU12DGGcykFuM2X_j6nAY4mw-MTRjhnWhUhlFmwwhI1_wYiFLxTOKjNPgDir8_GI4bKClkI3i1X1VB7zrj-noPbUOtGDMQ6feMKFvkoQ__K7T43W7D6vm6qU_rIVRdw96W-Gf0G09zFuMPk0.Lev427xXvPEXInx4RTCdzXCKrE_a4wiR7-ffvepb5xA&dib_tag=se&keywords=How+to+Draw+a+Map&qid=1705824019&s=books&sprefix=how+to+draw+a+map%2Cstripbooks-intl-ship%2C223&sr=1-2), London: HarperCollinsPublishers.)
 
-::: {layout="[40, -10, 40]" layout-valign="bottom"}
+::: {layout="[50, -10, 50]" layout-valign="bottom"}
 ![](images/clipboard-1073289357.png){width="250"}
 
 ![](images/clipboard-284730669.jpeg){width="250"}
