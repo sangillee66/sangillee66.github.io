@@ -72,6 +72,8 @@ bibliography: references.bib
 
 ## References
 
+### Books Translated into Korean
+
 -   이상일 옮김, 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.)
 
 -   이창신 옮김, 2014, [욕망하는 지도: 12개의 지도로 읽는 세계사](https://www.yes24.com/Product/goods/12192777), 서울: 알에이치코리아. (Brotton, Jerry, 2012, [*A History of the World in 12 Maps*](https://www.amazon.com/History-World-12-Maps/dp/0143126024/ref=sr_1_1?crid=9UJLJ246IYSS&dib=eyJ2IjoiMSJ9.FY-MmIMOaa_OhpIKA0R7CHSpbeqP3wOtOFs1sSfDjxeQ8INh1JiJ-KQljiGWcA25hxz874-gObNXP3X5ux2xio52rPEJBPyZ7ZvLFDY0DDy8yLVU9scI67gu_NYK-0eK0EXvGAmeM6n4j8Vlbb5scmVYm88eBN25OVoCVQ_OnJwXaIQhrTFJBx88eP5I5jEQC0fdviI7qwn7JuLEicvdF9YVmfvRWbYyWu7okUNlW0A._mvJs7KogkSTGtuBdXenODFkqSV87AzIcwZwWisz9to&dib_tag=se&keywords=A+History+of+the+World+in+12+Maps&qid=1705823939&s=books&sprefix=a+history+of+the+world+in+12+maps%2Cstripbooks-intl-ship%2C217&sr=1-1), New York: Viking.)
@@ -88,10 +90,32 @@ bibliography: references.bib
 
 -   송태욱 옮김, 2010, [세계 지도의 탄생](https://www.yes24.com/Product/Goods/3969693), 파주: 알마(応地利明, 2007, [「世界地圖」の誕生](https://www.amazon.com/Sekai-chizu-tanjo%C3%8C-kataru/dp/4532165830), 東京: 日本経済新聞出版社).
 
-::: {layout="[50, -10, 50]" layout-valign="bottom"}
+### Books in English
+
+-   Brotton, Jerry. 2014. *Great Maps: The World’s Masterpieces Explored and Explained*. New York: Publishing.
+
+-   Edney, Matthew H. 2019. *Cartography: The Ideal and Its History*. University of Chicago Press.
+
+-   Thrower, Norman J. W. 2008. *Maps and Civilization: Cartography in Culture and Society, Third Edition*. University of Chicago Press.
+
+-   Parker, Philip. 2023. *To the Ends of the Earth: How the Greatest Maps Were Made*. London: Ivy Press.
+
+-   Berg, Thomas Reinertsen. 2018. *Theater of the World: The Maps That Made History*. Little Brown.
+
+-   Riffenburgh, Beau. 2014. *Mapping the World: The Story of Cartography*. Carlton Books.
+
+-   Riffenburgh, Beau. 2011. *The Men Who Mapped the World: The Treasures of Cartography*. London: Carlton Books.
+
+-   Whitfield, Peter. 2010. *The Image of the World: 20 Centuries of the World Maps*. Updated ed. London: British Library.
+
+-   Ehrenberg, Ralph E. 2006. *Mapping the World: An Illustrated History of Cartography*. Washington, DC: National Geographic Society.
+
+::: {layout-ncol="3" layout-valign="bottom"}
 ![](images/clipboard-1073289357.png){width="250"}
 
 ![](images/clipboard-284730669.jpeg){width="250"}
+
+![](images/clipboard-583827689.jpeg){width="250"}
 :::
 
 <br>
