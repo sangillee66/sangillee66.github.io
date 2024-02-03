@@ -92,23 +92,23 @@ bibliography: references.bib
 
 ### Books in English
 
--   Brotton, Jerry. 2014. *Great Maps: The World’s Masterpieces Explored and Explained*. New York: Publishing.
+-   Brotton, Jerry. 2014. [*Great Maps: The World’s Masterpieces Explored and Explained*](https://www.google.co.kr/books/edition/Great_Maps/0HkRBAAAQBAJ?hl=ko&gbpv=0). New York: Publishing.
 
--   Edney, Matthew H. 2019. *Cartography: The Ideal and Its History*. University of Chicago Press.
+-   Parker, Philip. 2023. [*To the Ends of the Earth: How the Greatest Maps Were Made*](https://www.google.co.kr/books/edition/To_the_Ends_of_the_Earth/qwCqEAAAQBAJ?hl=ko&gbpv=0). London: Ivy Press.
 
--   Thrower, Norman J. W. 2008. *Maps and Civilization: Cartography in Culture and Society, Third Edition*. University of Chicago Press.
+-   Thrower, Norman J. W. 2008. [*Maps and Civilization: Cartography in Culture and Society*](https://www.google.co.kr/books/edition/Maps_and_Civilization/cGeCNa_vookC?hl=ko&gbpv=0)*, Third Edition*. University of Chicago Press.
 
--   Parker, Philip. 2023. *To the Ends of the Earth: How the Greatest Maps Were Made*. London: Ivy Press.
+-   Edney, Matthew H. 2019. [*Cartography: The Ideal and Its History*](https://www.google.co.kr/books/edition/Cartography/fd-NDwAAQBAJ?hl=ko&gbpv=0). University of Chicago Press.
 
--   Berg, Thomas Reinertsen. 2018. *Theater of the World: The Maps That Made History*. Little Brown.
+-   Berg, Thomas Reinertsen. 2018. [*Theater of the World: The Maps That Made History*](https://www.google.co.kr/books/edition/Theater_of_the_World/qwVVDwAAQBAJ?hl=ko&gbpv=0). Little Brown.
 
--   Riffenburgh, Beau. 2014. *Mapping the World: The Story of Cartography*. Carlton Books.
+-   Riffenburgh, Beau. 2014. [*Mapping the World: The Story of Cartography*](https://www.google.co.kr/books/edition/Mapping_the_World/Gt2toAEACAAJ?hl=ko). Carlton Books.
 
--   Riffenburgh, Beau. 2011. *The Men Who Mapped the World: The Treasures of Cartography*. London: Carlton Books.
+-   Riffenburgh, Beau. 2011. [*The Men Who Mapped the World: The Treasures of Cartography*](https://www.google.co.kr/books/edition/The_Men_who_Mapped_the_World/ECiGZwEACAAJ?hl=ko). London: Carlton Books.
 
--   Whitfield, Peter. 2010. *The Image of the World: 20 Centuries of the World Maps*. Updated ed. London: British Library.
+-   Whitfield, Peter. 2010. [*The Image of the World: 20 Centuries of the World Maps*](https://www.amazon.com/Image-World-20-Centuries-Maps/dp/0764903640/ref=sr_1_1?crid=3HUCOAHKF1IWH&keywords=The+Image+of+the+World%3A+20+Centuries+of+the+World+Maps&qid=1706967832&s=books&sprefix=maps+and+civilization+cartography+in+culture+and+society%2Cstripbooks-intl-ship%2C693&sr=1-1). Updated ed. London: British Library.
 
--   Ehrenberg, Ralph E. 2006. *Mapping the World: An Illustrated History of Cartography*. Washington, DC: National Geographic Society.
+-   Ehrenberg, Ralph E. 2006. [*Mapping the World: An Illustrated History of Cartography*](https://www.amazon.com/Mapping-World-Illustrated-History-Cartography/dp/0792265254/ref=sr_1_1?crid=M7M77840D8EW&keywords=Mapping+the+World%3A+An+Illustrated+History+of+Cartography&qid=1706967978&s=books&sprefix=mapping+the+world+an+illustrated+history+of+cartography%2Cstripbooks-intl-ship%2C240&sr=1-1). Washington, DC: National Geographic Society.
 
 ::: {layout-ncol="3" layout-valign="bottom"}
 ![](images/clipboard-1073289357.png){width="250"}
