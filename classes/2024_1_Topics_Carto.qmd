@@ -186,7 +186,7 @@ bibliography: references.bib
 |  4   | 3/28 | Ptolemaios' World Map                             | 욕망하는 지도, 1장  |
 |  5   | 4/4  | Hereford Mappa Mundi                              | 욕망하는 지도, 3장  |
 |  6   | 4/11 | Fra Mauro Map                                     | Edson (2007)        |
-|  7   | 4/18 | [Break]{style="color:green;"}                                             |                     |
+|  7   | 4/18 | [Break]{style="color:green;"}                     |                     |
 |  8   | 4/25 | al-Idrisi's World Map                             | 욕망하는 지도, 2장  |
 |  9   | 5/2  | Kangnido of Korea                                 | 욕망하는 지도, 4장  |
 |  10  | 5/9  | Waldseemüller's World Map                         | 욕망하는 지도, 5장  |
