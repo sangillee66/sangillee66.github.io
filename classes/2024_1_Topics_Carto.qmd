@@ -29,7 +29,7 @@ bibliography: references.bib
 
     -   Lecture notes, materials, references, and etc.
 
--   Class homepage: <https://sangillee.snu.ac.kr/classes/2024_1_Topics_in_Carto.html>
+-   Class homepage: <https://sangillee.snu.ac.kr/classes/2024_1_Topics_Carto.html>
 
 ### Class Design
 
