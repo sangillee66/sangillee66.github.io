@@ -182,11 +182,11 @@ bibliography: references.bib
 |:----:|:----:|---------------------------------------------------|
 |  1   | 3/7  | Orientation                                       |
 |  2   | 3/14 | Maps and Civilization: Prologue                   |
-|  3   | 3/21 | Maps and Civilization: Prologue                   |
-|  4   | 3/28 | Eratosthenes' World Map                           |
-|  5   | 4/4  | Ptolemaios' World Map                             |
-|  6   | 4/11 | Hereford Mappa Mundi                              |
-|  7   | 4/18 | Fra Mauro Map                                     |
+|  3   | 3/21 | Eratosthenes' World Map                           |
+|  4   | 3/28 | Ptolemaios' World Map                             |
+|  5   | 4/4  | Hereford Mappa Mundi                              |
+|  6   | 4/11 | Fra Mauro Map                                     |
+|  7   | 4/18 | Break                                             |
 |  8   | 4/25 | al-Idrisi's World Map                             |
 |  9   | 5/2  | Kangnido of Korea                                 |
 |  10  | 5/9  | Waldseemüller's World Map                         |
@@ -194,4 +194,4 @@ bibliography: references.bib
 |  12  | 5/23 | John Colomb's British Empire Map                  |
 |  13  | 5/30 | Peters' World Map                                 |
 |  14  | 6/6  | [National Holiday (현충일)]{style="color:green;"} |
-|  15  | 6/13 | Maps and Civilization: Epologue                   |
+|  15  | 6/13 | Maps and Civilization: Epilogue                   |
