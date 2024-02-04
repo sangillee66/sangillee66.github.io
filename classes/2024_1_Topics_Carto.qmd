@@ -178,20 +178,28 @@ bibliography: references.bib
 
 ## Calendar
 
-| Week | Date | Content                                           |
-|:----:|:----:|---------------------------------------------------|
-|  1   | 3/7  | Orientation                                       |
-|  2   | 3/14 | Maps and Civilization: Prologue                   |
-|  3   | 3/21 | Eratosthenes' World Map                           |
-|  4   | 3/28 | Ptolemaios' World Map                             |
-|  5   | 4/4  | Hereford Mappa Mundi                              |
-|  6   | 4/11 | Fra Mauro Map                                     |
-|  7   | 4/18 | Break                                             |
-|  8   | 4/25 | al-Idrisi's World Map                             |
-|  9   | 5/2  | Kangnido of Korea                                 |
-|  10  | 5/9  | Waldseemüller's World Map                         |
-|  11  | 5/16 | Mercator's World Map                              |
-|  12  | 5/23 | John Colomb's British Empire Map                  |
-|  13  | 5/30 | Peters' World Map                                 |
-|  14  | 6/6  | [National Holiday (현충일)]{style="color:green;"} |
-|  15  | 6/13 | Maps and Civilization: Epilogue                   |
+| Week | Date | Content                                           | Readings            |
+|:----:|:----:|---------------------------------------------------|---------------------|
+|  1   | 3/7  | Orientation                                       |                     |
+|  2   | 3/14 | Maps and Civilization: Prologue                   | 지구 끝까지         |
+|  3   | 3/21 | Eratosthenes' World Map                           | Irby (2012)         |
+|  4   | 3/28 | Ptolemaios' World Map                             | 욕망하는 지도, 1장  |
+|  5   | 4/4  | Hereford Mappa Mundi                              | 욕망하는 지도, 3장  |
+|  6   | 4/11 | Fra Mauro Map                                     | Edson (2007)        |
+|  7   | 4/18 | [Break]{style="color:green;"}                                             |                     |
+|  8   | 4/25 | al-Idrisi's World Map                             | 욕망하는 지도, 2장  |
+|  9   | 5/2  | Kangnido of Korea                                 | 욕망하는 지도, 4장  |
+|  10  | 5/9  | Waldseemüller's World Map                         | 욕망하는 지도, 5장  |
+|  11  | 5/16 | Mercator's World Map                              | 욕망하는 지도, 7장  |
+|  12  | 5/23 | John Colomb's British Empire Map                  | Biltcliffe (2005)   |
+|  13  | 5/30 | Peters' World Map                                 | 욕망하는 지도, 11장 |
+|  14  | 6/6  | [National Holiday (현충일)]{style="color:green;"} |                     |
+|  15  | 6/13 | Maps and Civilization: Epilogue                   | 지구 끝까지         |
+
+## Articles for Presentation
+
+-   Irby, Georgia L. 2012. “[Mapping the World: Greek Initiatives from Homer to Eratosthenes](papers/Irby_2012.pdf).” in Talbert, J. A. ed. *Ancient Perspectives: Maps and Their Place in Mesopotamia, Egypt, Greece, and Rome.* Chicago: The University of Chicago Press: 81–107. 
+
+-   Edson, Evelyn. 2007. *The World Map, 1300-1492: The Persistence of Tradition and Transformation*. Baltimore: Johns Hopkins University Press. [Chapter 6 Fra Mauro: The Debate on the Map](papers/Edson_2007.pdf): 141-164.
+
+-   Biltcliffe, Pippa. 2005. “[Walter Crane and the Imperial Federation Map Showing the Extent of the British Empire (1886)](papers/Biltcliffe_2005.pdf).” *Imago Mundi* 57 (1): 63–69.
