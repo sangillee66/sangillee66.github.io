@@ -93,9 +93,15 @@ bibliography: references.bib
 
 ### Data Visualization
 
--   Kabacoff, Robert, 2024, [*Modern Data Visualization with R*](https://rkabacoff.github.io/datavis/index.html), Boca Raton: CRC Press.
+-   Allchin, Carl. 2021. *Communicating with Data*. O’Reilly Media. (이한호 옮김. 2022. 데이터로 전문가처럼 말하기: 효율적 의사 전달을 위한 데이터 시각화와 비즈니스 스토리텔링의 기술. 서울: 한빛미디어.)
 
 -   Dougherty, Jack, and Ilya Ilyankou, 2021, [*Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code*](https://handsondataviz.org/), Boston: O’Reilly. (김태헌 옮김, 2022, [핸즈온 데이터 시각화: 효과적인 데이터 시각화 전략부터 20가지 시각화 도구 사용법까지](https://www.yes24.com/Product/Goods/110225484), 한빛미디어)
+
+-   Kabacoff, Robert, 2024, [*Modern Data Visualization with R*](https://rkabacoff.github.io/datavis/index.html), Boca Raton: CRC Press.
+
+-   Knaflic, Cole Nussbaumer. 2015. [*Storytelling with Data: A Data Visualization Guide for Business Professionals*](https://www.google.co.kr/books/edition/Storytelling_with_Data/retRCgAAQBAJ?hl=ko&gbpv=0). New York: John Wiley & Sons. (정사범. 2016. [데이터 스토리텔링: 설득력 있는 프리젠테이션을 위한 데이터 시각화 기법](https://www.yes24.com/Product/Goods/29422236). 서울: 에이콘.)
+
+-   Knaflic, Cole Nussbaumer. 2019. [*Storytelling with Data: Let’s Practice!*](https://www.google.co.kr/books/edition/Storytelling_with_Data/aGatDwAAQBAJ?hl=ko&gbpv=0) New York: John Wiley & Sons. (변혜정. 2019. [데이터 스토리텔링 연습: 연습 문제와 다양한 사례로 익히는 데이터 시각화 기법](https://www.yes24.com/Product/Goods/102361090). 서울: 에이콘.)
 
 -   Wilke, C., 2019, [*Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures*](https://clauswilke.com/dataviz/), Sebastopol, CA: O’Reilly. (권혜정, 2020, [데이터 시각화 교과서: 데이터 분석의 본질을 살리는 그래프와 차트 제작의 기본 원리와 응용](https://www.yes24.com/Product/Goods/87631760), 의왕: 책만.)
 
