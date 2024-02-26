@@ -8,7 +8,7 @@ bibliography: references.bib
 
 ## R Shiny Web Applications
 
-### Spatial Kernel Density Estimation 
+### Spatial Kernel Density Estimation
 
 -   This application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet.
 -   It utilizes an R package, [`SpatialKDE`](https://cran.r-project.org/web/packages/SpatialKDE/vignettes/SpatialKDE.html), which is based on [QGIS Heatmap tool](https://grindgis.com/software/heat-map-using-qgis).
@@ -20,4 +20,4 @@ bibliography: references.bib
 
 -   `salsa` stands for [S]{.underline} [a]{.underline}nd [L]{.underline} for [s]{.underline}patial [a]{.underline}utocorrelation. This is basically an R implementation of *S* and *L* statistics developed by me [@lee2001; @lee2004; @lee2009a].
 -   It also includes other functions associated with spatial autocorrelation.
--   It will be uploaded in two weeks.
+-   It will be uploaded in a month.

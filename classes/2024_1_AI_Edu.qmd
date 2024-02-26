@@ -93,9 +93,9 @@ bibliography: references.bib
 
 ### Data Visualization
 
--   Allchin, Carl. 2021. *Communicating with Data*. O’Reilly Media. (이한호 옮김. 2022. 데이터로 전문가처럼 말하기: 효율적 의사 전달을 위한 데이터 시각화와 비즈니스 스토리텔링의 기술. 서울: 한빛미디어.)
+-   Allchin, Carl. 2021. [*Communicating with Data*](https://www.google.co.kr/books/edition/Communicating_with_Data/-eZFEAAAQBAJ?hl=ko&gbpv=0). O’Reilly Media. (이한호 옮김. 2022. [데이터로 전문가처럼 말하기: 효율적 의사 전달을 위한 데이터 시각화와 비즈니스 스토리텔링의 기술](https://www.google.co.kr/books/edition/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C_%EC%A0%84%EB%AC%B8%EA%B0%80%EC%B2%98%EB%9F%BC_%EB%A7%90%ED%95%98%EA%B8%B0/NrWGEAAAQBAJ?hl=ko&gbpv=0). 서울: 한빛미디어.)
 
--   Dougherty, Jack, and Ilya Ilyankou, 2021, [*Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code*](https://handsondataviz.org/), Boston: O’Reilly. (김태헌 옮김, 2022, [핸즈온 데이터 시각화: 효과적인 데이터 시각화 전략부터 20가지 시각화 도구 사용법까지](https://www.yes24.com/Product/Goods/110225484), 한빛미디어)
+-   Dougherty, Jack, and Ilya Ilyankou, 2021, [*Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code*](https://handsondataviz.org/), Boston: O’Reilly. (김태헌 옮김, 2022, [핸즈온 데이터 시각화: 효과적인 데이터 시각화 전략부터 20가지 시각화 도구 사용법까지](https://www.google.co.kr/books/edition/%ED%95%B8%EC%A6%88%EC%98%A8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%8B%9C%EA%B0%81%ED%99%94/vEF4EAAAQBAJ?hl=ko&gbpv=0), 한빛미디어)
 
 -   Kabacoff, Robert, 2024, [*Modern Data Visualization with R*](https://rkabacoff.github.io/datavis/index.html), Boca Raton: CRC Press.
 
@@ -158,6 +158,8 @@ bibliography: references.bib
 ### Introduction to R
 
 -   RStudio Education Team, [Finding Your Way To R](https://education.rstudio.com/learn/).
+
+-   김기환, 2023, [R 프로그래밍(개정판)](https://kilhwan.github.io/rprogramming/), 웹북
 
 -   곽기영, 2022, [R 기초와 활용](https://www.yes24.com/Product/Goods/108044525), 서울: 청람.
 
