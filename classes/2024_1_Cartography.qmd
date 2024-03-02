@@ -26,17 +26,9 @@ number-sections: false
 
 ### 기능 측면
 
-::: columns
-::: {.column width="60%"}
 -   GIS를 활용한 지도 제작
 
     -   QGIS 실습
-:::
-
-::: {.column width="40%"}
-[![](images/clipboard-1262866203.png){width="250"}](https://qgis.org/ko/site/)
-:::
-:::
 
 <br>
 
@@ -56,9 +48,17 @@ number-sections: false
 
 ### 수업 진행 방식
 
+::: columns
+::: {.column width="60%"}
 -   강의: 파워포인트 및 강의노트
 
 -   실습: QGIS(실습 조교: 김우형)
+:::
+
+::: {.column width="40%"}
+[![](images/clipboard-1262866203.png){width="250"}](https://qgis.org/ko/site/)
+:::
+:::
 
 <br>
 
@@ -70,7 +70,7 @@ number-sections: false
 
 ### 지도학 관련 참고도서
 
--   이건학ㆍ김감영ㆍ김영호ㆍ김영훈ㆍ신정엽ㆍ이상일 옮김, 2014, [지도학과 지리적 시각화](http://www.sigmapress.co.kr/shop/m_mall_detail.php?ps_ctid=01130000&ps_goid=1873&depth_2_display=none), 서울: 시그마프레스. (Slocum, Terry A., Robert B. McMaster, Fritz C. Kessler, and Hugh H. Howard. 2009, [*Thematic Cartography and Geovisualization*](https://www.amazon.com/Thematic-Cartography-Geovisualization-Terry-Slocum/dp/0132298341), 3rd ed., Upper Saddle River, NJ: Pearson Prentice Hall.)
+-   이건학ㆍ김감영ㆍ김영호ㆍ김영훈ㆍ신정엽ㆍ이상일 옮김, 2014, [지도학과 지리적 시각화](http://www.sigmapress.co.kr/shop/m_mall_detail.php?ps_ctid=01130000&ps_goid=1873&depth_2_display=none), 서울: 시그마프레스. (Slocum, Terry A., Robert B. McMaster, Fritz C. Kessler, and Hugh H. Howard. 2009, [*Thematic Cartography and Geovisualization*](https://www.google.co.kr/books/edition/Thematic_Cartography_and_Geovisualizatio/P_URAQAAIAAJ?hl=ko&gbpv=0&bsq=Thematic%20Cartography%20and%20Geovisualization), 3rd ed., Upper Saddle River, NJ: Pearson Prentice Hall.)
 
 -   이상일ㆍ손일 옮김, 2021, [지도와 거짓말](http://www.purungil.co.kr/books/books_show.php?seq=617&mode=category&category_seq=_1_), 서울: 푸른길. (Monmonier, Mark S, 2018, [*How to Lie with Maps*](https://press.uchicago.edu/ucp/books/book/chicago/H/bo27400568.html)*,* Third edition, Chicago, IL: The University of Chicago Press.)
 
@@ -93,8 +93,6 @@ number-sections: false
 -   문승주, 2022, [스마트한 QGIS 활용서](https://www.yes24.com/Product/Goods/109652274), 예문사.
 
 -   염윤호ㆍ최재훈, 2022, [사회과학을 위한 QGIS 활용과 지리공간분석](https://www.yes24.com/Product/Goods/107663212), 윤성사.
-
--   김남신, 2021, [오픈소스 활용 QGIS 자연과학 데이터 분석](https://www.yes24.com/Product/Goods/111116524), 한울엠플러스.
 
 <br>
 
@@ -122,36 +120,36 @@ number-sections: false
 
 ## 수업 달력
 
-| 주  | 순번 |   날짜   | 요일 | 수업 내용                                  | 수업 방식 |
-|:-------:|:-------:|:-------:|:-------:|----------------------------|:-------:|
-|  1  | 1-1  | 3월 4일  |  월  | I. 지도학과 지도학적 의사소통 1            |   강의    |
-|     | 1-2  | 3월 6일  |  수  | I. 지도학과 지도학적 의사소통 2            |   강의    |
-|  2  | 2-1  | 3월 11일 |  월  | I. 지도학과 지도학적 의사소통 3            |   강의    |
-|     | 2-2  | 3월 13일 |  수  | I. 지도학과 지도학적 의사소통 4            |   강의    |
-|  3  | 3-1  | 3월 18일 |  월  | I. 지도학과 지도학적 의사소통 5            |   강의    |
-|     | 3-2  | 3월 20일 |  수  | II\. 지도 투영 1                           |   강의    |
-|  4  | 4-1  | 3월 25일 |  월  | II\. 지도 투영 2                           |   강의    |
-|     | 4-2  | 3월 27일 |  수  | [학과 답사(예정)]{style="color:green;"}    |   휴강    |
-|  5  | 5-1  | 4월 1일  |  월  | [GIS 실습 1]{style="color:blue;"}          |   실습    |
-|     | 5-2  | 4월 3일  |  수  | II\. 지도 투영 3                           |   강의    |
-|  6  | 6-1  | 4월 8일  |  월  | II\. 지도 투영 4                           |   강의    |
-|     | 6-2  | 4월 10일 |  수  | [22대 국회위원 선거]{style="color:green;"} |   휴강    |
-|  7  | 7-1  | 4월 15일 |  월  | II\. 지도 투영 5                           |   강의    |
-|     | 7-2  | 4월 17일 |  수  | II\. 지도 투영 6                           |   강의    |
-|  8  | 8-1  | 4월 22일 |  월  | [중간 시험]{style="color:red;"}            |   시험    |
-|     | 8-2  | 4월 24일 |  수  | [GIS 실습 2]{style="color:blue;"}          |   실습    |
-|  9  | 9-1  | 4월 29일 |  월  | II\. 지도 투영 7                           |   강의    |
-|     | 9-2  | 5월 1일  |  수  | II\. 지도 투영 8                           |   강의    |
-| 10  | 10-1 | 5월 6일  |  월  | [대체 공휴일]{style="color:green;"}        |   휴강    |
-|     | 10-2 | 5월 8일  |  수  | II\. 지도 투영 9                           |   강의    |
-| 11  | 11-1 | 5월 13일 |  월  | [GIS 실습 3]{style="color:blue;"}          |   실습    |
-|     | 11-2 | 5월 15일 |  수  | [부처님 오신 날]{style="color:green;"}     |   휴강    |
-| 12  | 12-1 | 5월 20일 |  월  | III\. 주제도 제작 1                        |   강의    |
-|     | 12-2 | 5월 22일 |  수  | III\. 주제도 제작 2                        |   강의    |
-| 13  | 13-1 | 5월 27일 |  월  | III\. 주제도 제작 3                        |   강의    |
-|     | 13-2 | 5월 29일 |  수  | [GIS 실습 4]{style="color:blue;"}          |   실습    |
-| 14  | 14-1 | 6월 3일  |  월  | III\. 주제도 제작 4                        |   강의    |
-|     | 14-2 | 6월 5일  |  수  | III\. 주제도 제작 5                        |   강의    |
-| 15  | 15-1 | 6월 10일 |  월  | III\. 주제도 제작 6                        |   강의    |
-|     | 15-2 | 6월 12일 |  수  | [GIS 실습 5]{style="color:blue;"}          |   실습    |
-| 16  | 16-1 | 6월 17일 |  월  | [기말 시험]{style="color:red;"}            |   시험    |
+| 주  |   날짜   | 요일 | 수업 내용                                  | 수업 방식 |
+|:---:|:--------:|:----:|--------------------------------------------|:---------:|
+|  1  | 3월 4일  |  월  | I. 지도학과 지도학적 의사소통 1            |   강의    |
+|     | 3월 6일  |  수  | I. 지도학과 지도학적 의사소통 2            |   강의    |
+|  2  | 3월 11일 |  월  | I. 지도학과 지도학적 의사소통 3            |   강의    |
+|     | 3월 13일 |  수  | I. 지도학과 지도학적 의사소통 4            |   강의    |
+|  3  | 3월 18일 |  월  | I. 지도학과 지도학적 의사소통 5            |   강의    |
+|     | 3월 20일 |  수  | II\. 지도 투영 1                           |   강의    |
+|  4  | 3월 25일 |  월  | II\. 지도 투영 2                           |   강의    |
+|     | 3월 27일 |  수  | [학과 답사]{style="color:green;"}          |   휴강    |
+|  5  | 4월 1일  |  월  | II\. 지도 투영 3                           |   강의    |
+|     | 4월 3일  |  수  | II\. 지도 투영 4                           |   강의    |
+|  6  | 4월 8일  |  월  | II\. 지도 투영 5                           |   강의    |
+|     | 4월 10일 |  수  | [22대 국회위원 선거]{style="color:green;"} |   휴강    |
+|  7  | 4월 15일 |  월  | [GIS 실습 1]{style="color:blue;"}          |   강의    |
+|     | 4월 17일 |  수  | [GIS 실습 2]{style="color:blue;"}          |   강의    |
+|  8  | 4월 22일 |  월  | [중간 시험]{style="color:red;"}            |   시험    |
+|     | 4월 24일 |  수  | II\. 지도 투영 6                           |   강의    |
+|  9  | 4월 29일 |  월  | II\. 지도 투영 7                           |   강의    |
+|     | 5월 1일  |  수  | II\. 지도 투영 8                           |   강의    |
+| 10  | 5월 6일  |  월  | [대체 공휴일]{style="color:green;"}        |   휴강    |
+|     | 5월 8일  |  수  | II\. 지도 투영 9                           |   강의    |
+| 11  | 5월 13일 |  월  | [GIS 실습 3]{style="color:blue;"}          |   실습    |
+|     | 5월 15일 |  수  | [부처님 오신 날]{style="color:green;"}     |   휴강    |
+| 12  | 5월 20일 |  월  | III\. 주제도 제작 1                        |   강의    |
+|     | 5월 22일 |  수  | III\. 주제도 제작 2                        |   강의    |
+| 13  | 5월 27일 |  월  | III\. 주제도 제작 3                        |   강의    |
+|     | 5월 29일 |  수  | [GIS 실습 4]{style="color:blue;"}          |   실습    |
+| 14  | 6월 3일  |  월  | III\. 주제도 제작 4                        |   강의    |
+|     | 6월 5일  |  수  | III\. 주제도 제작 5                        |   강의    |
+| 15  | 6월 10일 |  월  | III\. 주제도 제작 6                        |   강의    |
+|     | 6월 12일 |  수  | [GIS 실습 5]{style="color:blue;"}          |   실습    |
+| 16  | 6월 17일 |  월  | [기말 시험]{style="color:red;"}            |   시험    |
