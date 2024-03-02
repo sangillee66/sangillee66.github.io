@@ -38,7 +38,7 @@ number-sections: false
 
 -   서울대학교 eTL ([SNU eTL](http://etl.snu.ac.kr/))
 
--   강의노트, 강의 이미지, 참고자료 등
+-   강의노트, 실습자료, 참고자료 등
 
 ### 교수자 홈페이지
 

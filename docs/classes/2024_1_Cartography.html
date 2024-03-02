@@ -250,7 +250,7 @@ background-size: cover;
 <h3 class="anchored" data-anchor-id="lms">LMS</h3>
 <ul>
 <li><p>서울대학교 eTL (<a href="http://etl.snu.ac.kr/">SNU eTL</a>)</p></li>
-<li><p>강의노트, 강의 이미지, 참고자료 등</p></li>
+<li><p>강의노트, 실습자료, 참고자료 등</p></li>
 </ul>
 </section>
 <section id="교수자-홈페이지" class="level3">
@@ -1157,7 +1157,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"loop":false,"selector":".lightbox","closeEffect":"zoom","openEffect":"zoom","descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","openEffect":"zoom","loop":false,"closeEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
