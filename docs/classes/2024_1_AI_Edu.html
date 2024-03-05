@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -163,7 +183,7 @@ AI 융합교육을 위한 인문사회 컨텐츠 설계</div></h1>
       <div>
       <div class="quarto-title-meta-heading">Modified</div>
       <div class="quarto-title-meta-contents">
-        <p class="date-modified">February 26, 2024</p>
+        <p class="date-modified">March 5, 2024</p>
       </div>
     </div>
       
@@ -309,6 +329,7 @@ AI 융합교육을 위한 인문사회 컨텐츠 설계</div></h1>
 <li>차영준ㆍ박진표, 2022, <a href="https://www.yes24.com/Product/Goods/111420341">데이터과학 입문을 위한 R과 타이디버스</a>, 파주: 자유아카데미.</li>
 <li>양윤석ㆍ오일석ㆍ강래형, 2019, <a href="https://www.yes24.com/Product/Goods/73049003">R로 배우는 데이터 과학: 분석에서 예측을 위한 모델링까지</a>, 서울: 한빛아카데미.</li>
 </ul>
+<p><span class="citation" data-cites="baegyeongmin2023">(<a href="#ref-baegyeongmin2023" role="doc-biblioref">백영민 2023</a>)</span></p>
 </section>
 <section id="data-visualization" class="level3">
 <h3 class="anchored" data-anchor-id="data-visualization">Data Visualization</h3>
@@ -468,9 +489,14 @@ AI 융합교육을 위한 인문사회 컨텐츠 설계</div></h1>
 </table>
 
 
+
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-baegyeongmin2023" class="csl-entry" role="listitem">
+백영민. 2023. <em>R 기반 데이터 과학: 타이디버스(tidyverse) 접근</em>. 서울: 한나래아카데미.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -35,11 +35,25 @@ bibliography: references.bib
 
 ### Class Design
 
--   Classes are conducted in a combination of lecture and lab exercise.
+-   Classes are conducted in a combination of lectures and lab exercises.
 
--   Lecure contents are composed of 8 topics: Concepts and Principles of Data Science, Data Science and Education, Population Topics for Contents Development, Data Collection by Webscraping, Analysis of Unstructured Data (Text Mining), Data Exploration and Visualization, Artificial Intelligence and Machine Learning, Development of Web Applications.
+-   Lectures include various topics such as:
 
--   Each lecture is accompanied by an R excercise.
+    -   Concepts and Principles of Data Science
+
+    -   Population Topics for Contents Development
+
+    -   Exploratory Data Analysis
+
+    -   Data Science and Communication
+
+    -   Data Science and Education
+
+    -   Web Scraping as Data Collection
+
+    -   Statistical Analysis and Machine Learning
+
+-   Each lecture is accompanied by an R exercise.
 
 -   During the final two weeks, each student is expected to give a presentation about designing social studies class contents for AI-Integrated education.
 
@@ -55,7 +69,7 @@ bibliography: references.bib
 
     -   Data: KOSIS or World Population Prospects 2022
 
-    -   Form: 20-minute-long powerpoint presentation
+    -   Form: 20-minute-long presentation
 
 ### Term Paper
 
@@ -65,18 +79,19 @@ bibliography: references.bib
 
 ## Grading Method
 
-### Attendance (15%)
+### Attendance and Participation (20%)
 
 -   Penalty will be given for each absence/lateness.
+-   Active participation might be awarded.
 
-### Presentation (35%)
+### Presentation (50%)
 
 -   Overall performance will be evaluated.
 
-### Term Paper (50%)
+### Term Paper (30%)
 
 -   The format of the term paper can be freely chosen.
--   Due date: 6/18/2024 (Thuesday)
+-   Due date: 6/18/2024 (Tuesday)
 
 <br>
 
@@ -88,6 +103,7 @@ bibliography: references.bib
 -   Bonnell, Jerry, and Mitsunori Ogihara. 2023. [*Exploring Data Science with R and the Tidyverse*](https://ds4world.cs.miami.edu/). 1st edition. Chapman; Hall/CRC.
 -   Irizarry, Rafael A. 2020. [*Introduction to Data Science: Data Analysis and Prediction Algorithms with R*](https://rafalab.dfci.harvard.edu/dsbook-part-1/). Boca Raton: CRC Press, Taylor & Francis Group.
 -   Sarafian, Ron.  *Introduction to Data Science*. <https://bookdown.org/ronsarafian/IntrotoDS/>.
+-   백영민. 2023. [R 기반 데이터 과학: 타이디버스(tidyverse) 접근](https://www.yes24.com/Product/Goods/123807713). 서울: 한나래아카데미.
 -   차영준ㆍ박진표, 2022, [데이터과학 입문을 위한 R과 타이디버스](https://www.yes24.com/Product/Goods/111420341), 파주: 자유아카데미.
 -   양윤석ㆍ오일석ㆍ강래형, 2019, [R로 배우는 데이터 과학: 분석에서 예측을 위한 모델링까지](https://www.yes24.com/Product/Goods/73049003), 서울: 한빛아카데미.
 
@@ -171,20 +187,20 @@ bibliography: references.bib
 
 ## Calendar
 
-| Week | Date | Content                                                |
+| Week | Date | Contents                                               |
 |:----:|:----:|--------------------------------------------------------|
 |  1   | 3/5  | Orientation                                            |
-|  2   | 3/12 | Concepts and Principles of Data Science                |
-|  3   | 3/19 | Data Science and Education                             |
+|  2   | 3/12 | Concepts and Principles of Data Science 1              |
+|  3   | 3/19 | Concepts and Principles of Data Science 2              |
 |  4   | 3/26 | Population Topics for Contents Development 1           |
 |  5   | 4/2  | Population Topics for Contents Development 2           |
-|  6   | 4/9  | Data Collection by Web Scraping                        |
-|  7   | 4/16 | Analysis of Unstructured Data: Text Mining             |
-|  8   | 4/23 | Data Exploration and Visualization 1                   |
-|  9   | 4/30 | Data Exploration and Visualization 2                   |
-|  10  | 5/7  | Data Exploration and Visualization 3                   |
-|  11  | 5/14 | Artificial Intelligence and Machine Learning 1         |
-|  12  | 5/21 | Artificial Intelligence and Machine Learning 2         |
-|  13  | 5/28 | Development of Web Applications                        |
+|  6   | 4/9  | Population Topics for Contents Development 2           |
+|  7   | 4/16 | Idle                                                   |
+|  8   | 4/23 | Exploratory Data Analysis                              |
+|  9   | 4/30 | Data Science and Communication                         |
+|  10  | 5/7  | Data Science and Education                             |
+|  11  | 5/14 | Web Scraping                                           |
+|  12  | 5/21 | Statistical Analysis and Machine Learning              |
+|  13  | 5/28 | Idle                                                   |
 |  14  | 6/4  | Designing Class Contents for AI-Integrated Education 1 |
 |  15  | 6/11 | Designing Class Contents for AI-Integrated Education 2 |
