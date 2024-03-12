@@ -49,7 +49,7 @@ bibliography: references.bib
 
 ## Geographic Information Systems (GIS)
 
--   Slingsby, Jasper. 2023. *A Minimal Introduction to GIS (in R)*. <https://www.ecologi.st/spatial-r/>.
+-   Slingsby, Jasper. 2024. *A Minimal Introduction to GIS (in R)*. <https://www.ecologi.st/spatial-r/>.
 -   Gimond, Manuel. 2023. *Intro to GIS and Spatial Analysis*. [https://mgimond.github.io/Spatial/index.html](https://mgimond.github.io/Spatial/).
 -   Mieno, Taro.  *R as GIS for Economists*. [https://tmieno2.github.io/R-as-GIS-for-Economists/index.html](https://tmieno2.github.io/R-as-GIS-for-Economists/).
 -   Branion-Calles, Michael. 2021. *A Crash Course in Geographic Information Systems (GIS) Using R*. <https://bookdown.org/michael_bcalles/gis-crash-course-in-r/>.

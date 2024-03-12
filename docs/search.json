@@ -368,7 +368,7 @@
     "href": "r_web_book.html#geographic-information-systems-gis",
     "title": "R Web Books",
     "section": "Geographic Information Systems (GIS)",
-    "text": "Geographic Information Systems (GIS)\n\nSlingsby, Jasper. 2023. A Minimal Introduction to GIS (in R). https://www.ecologi.st/spatial-r/.\nGimond, Manuel. 2023. Intro to GIS and Spatial Analysis. https://mgimond.github.io/Spatial/index.html.\nMieno, Taro.  R as GIS for Economists. https://tmieno2.github.io/R-as-GIS-for-Economists/index.html.\nBranion-Calles, Michael. 2021. A Crash Course in Geographic Information Systems (GIS) Using R. https://bookdown.org/michael_bcalles/gis-crash-course-in-r/.\nGeomatics for Environmental Management: An Open Textbook for Students and Practitioners.  https://www.opengeomatics.ca/."
+    "text": "Geographic Information Systems (GIS)\n\nSlingsby, Jasper. 2024. A Minimal Introduction to GIS (in R). https://www.ecologi.st/spatial-r/.\nGimond, Manuel. 2023. Intro to GIS and Spatial Analysis. https://mgimond.github.io/Spatial/index.html.\nMieno, Taro.  R as GIS for Economists. https://tmieno2.github.io/R-as-GIS-for-Economists/index.html.\nBranion-Calles, Michael. 2021. A Crash Course in Geographic Information Systems (GIS) Using R. https://bookdown.org/michael_bcalles/gis-crash-course-in-r/.\nGeomatics for Environmental Management: An Open Textbook for Students and Practitioners.  https://www.opengeomatics.ca/."
   },
   {
     "objectID": "lectures.html#spring-semester-in-2024",
@@ -592,6 +592,6 @@
     "href": "posts/2024-03-12/index.html",
     "title": "공간데이터사이언스 번역을 시작하며",
     "section": "",
-    "text": "다음의 책의 번역을 시작하고자 한다. 좋은 공간데이터사이언스 책을 쓸 능력은 아직 없으니 시중에 나와 있는 4~5권의 공간데이터사이언스 관련 영어 서적 중 가장 좋다고 판단한 책을 선정하여 번역에 돌입하고자 한다. 푸른길을 통해 판권을 구입했고, 여름 방학이 끝날 즈음에 번역 초고를 완성하고, 2학기 중으로 출간하는 것을 목표로 하고 있다. 미리 이렇게 알리는 것은 게을러지는 것을 막기 위함이다.\n이 책의 두 번째 저자인 로저 비반드(Roger Bivand)는 오랜동안 R Spatial 프로젝트의 가장 선두에 서서 이 거대하고 가치로운 학술 운동을 이끌었던 분이다. 그 분의 책을 번역할 수 있게 되어 매우 뜻깊게 생각한다. 번역본을 선물할 날을 기대해 본다.\nPebesma, Edzer, and Roger Bivand. 2023. Spatial Data Science: With Applications in R. Boca Raton: CRC.\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "다음의 책의 번역을 시작하고자 한다. 좋은 공간데이터사이언스 책을 쓸 능력은 아직 없으니 시중에 나와 있는 4~5권의 공간데이터사이언스 관련 영어 서적 중 가장 좋다고 판단한 책을 선정하여 번역에 돌입하고자 한다. 푸른길을 통해 판권을 구입했고, 여름 방학이 끝날 즈음에 번역 초고를 완성하고, 2학기 중으로 출간하는 것을 목표로 하고 있다. 미리 이렇게 알리는 것은 게을러지는 것을 막기 위함이다.\n이 책의 두 번째 저자인 로저 비밴드(Roger Bivand)는 오랜동안 R Spatial 프로젝트의 가장 선두에 서서 이 거대하고 가치로운 학술 운동을 이끌었던 분이다. 그 분의 책을 번역할 수 있게 되어 매우 뜻깊게 생각한다. 번역본을 선물할 날을 기대해 본다.\nPebesma, Edzer, and Roger Bivand. 2023. Spatial Data Science: With Applications in R. Boca Raton: CRC.\n\n\n\n\n\n\n\n\n Back to top"
   }
 ]
