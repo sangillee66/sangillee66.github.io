@@ -116,7 +116,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n캐리커처에 대하여\n\n\n\n\n\n\nnews\n\n\ncartography\n\n\n\n\n\n\n\n\n\nJan 30, 2024\n\n\nSang-Il Lee\n\n\n\n\n\n\n\n\n\n\n\n\n호머 헐버트를 아시나요?\n\n\n\n\n\n\nnews\n\n\ngeography\n\n\n\n\n\n\n\n\n\nJan 23, 2024\n\n\nSang-Il Lee\n\n\n\n\n\n\n\n\n\n\n\n\n평생의 소원 중 하나를 이루다…\n\n\n\n\n\n\nnews\n\n\nR\n\n\nQuarto\n\n\n\n\n\n\n\n\n\nJan 21, 2024\n\n\nSang-Il Lee\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n공간데이터사이언스 번역을 시작하며\n\n\n\n\n\n\nR\n\n\ndata science\n\n\nspatial data science\n\n\n\n\n\n\n\n\n\nMar 12, 2024\n\n\nSang-Il Lee\n\n\n\n\n\n\n\n\n\n\n\n\n캐리커처에 대하여\n\n\n\n\n\n\nnews\n\n\ncartography\n\n\n\n\n\n\n\n\n\nJan 30, 2024\n\n\nSang-Il Lee\n\n\n\n\n\n\n\n\n\n\n\n\n호머 헐버트를 아시나요?\n\n\n\n\n\n\nnews\n\n\ngeography\n\n\n\n\n\n\n\n\n\nJan 23, 2024\n\n\nSang-Il Lee\n\n\n\n\n\n\n\n\n\n\n\n\n평생의 소원 중 하나를 이루다…\n\n\n\n\n\n\nnews\n\n\nR\n\n\nQuarto\n\n\n\n\n\n\n\n\n\nJan 21, 2024\n\n\nSang-Il Lee\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -586,5 +586,12 @@
     "title": "Topics in Cartography and Cartography Education: Maps and Civilization\n지도학 및 지도교육 특강: 지도와 문명",
     "section": "Articles for Presentation",
     "text": "Articles for Presentation\n\nIrby, Georgia L. 2012. “Mapping the World: Greek Initiatives from Homer to Eratosthenes.” in Talbert, J. A. ed. Ancient Perspectives: Maps and Their Place in Mesopotamia, Egypt, Greece, and Rome. Chicago: The University of Chicago Press: 81–107. \nEdson, Evelyn. 2007. The World Map, 1300-1492: The Persistence of Tradition and Transformation. Baltimore: Johns Hopkins University Press. Chapter 6 Fra Mauro: The Debate on the Map: 141-164.\nBiltcliffe, Pippa. 2005. “Walter Crane and the Imperial Federation Map Showing the Extent of the British Empire (1886).” Imago Mundi 57 (1): 63–69."
+  },
+  {
+    "objectID": "posts/2024-03-12/index.html",
+    "href": "posts/2024-03-12/index.html",
+    "title": "공간데이터사이언스 번역을 시작하며",
+    "section": "",
+    "text": "다음의 책의 번역을 시작하고자 한다. 좋은 공간데이터사이언스 책을 쓸 능력은 아직 없으니 시중에 나와 있는 4~5권의 공간데이터사이언스 관련 영어 서적 중 가장 좋다고 판단한 책을 선정하여 번역에 돌입하고자 한다. 푸른길을 통해 판권을 구입했고, 여름 방학이 끝날 즈음에 번역 초고를 완성하고, 2학기 중으로 출간하는 것을 목표로 하고 있다. 미리 이렇게 알리는 것은 게을러지는 것을 막기 위함이다.\n이 책의 두 번째 저자인 로저 비반드(Roger Bivand)는 오랜동안 R Spatial 프로젝트의 가장 선두에 서서 이 거대하고 가치로운 학술 운동을 이끌었던 분이다. 그 분의 책을 번역할 수 있게 되어 매우 뜻깊게 생각한다. 번역본을 선물할 날을 기대해 본다.\nPebesma, Edzer, and Roger Bivand. 2023. Spatial Data Science: With Applications in R. Boca Raton: CRC.\n\n\n\n\n\n\n\n\n Back to top"
   }
 ]
