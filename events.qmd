@@ -5,6 +5,8 @@ date-modified: last-modified
 title-block-banner: images/banner_event.jpg
 ---
 
+![](images/workshop_1.jpg){fig-align="center" width="500"}
+
 ## 사회(지리)과 예비교사를 위한 AI·디지털 역량강화 워크숍
 
 ### 프로그램의 목표
