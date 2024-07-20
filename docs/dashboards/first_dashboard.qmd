@@ -1,0 +1,152 @@
+---
+title: "My first Dashboard"
+author: Sang-Il Lee
+format: 
+  dashboard:
+    logo: snu_logo_2.png
+    nav-buttons: 
+      - icon: github
+        href: https://github.com/sangillee66
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:si_lee@snu.ac.kr
+        aria-label: Mail
+    # scrolling: true
+theme: default
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+# Intro
+
+## Row {height="10%"}
+
+::: {.card title="Text"}
+This is my first dashboard.
+:::
+
+## Row {.tabset height="80%"}
+
+```{r}
+#| title: "Histogram of GDP per capita"
+library(tidyverse)
+library(gapminder)
+gapminder |> 
+  filter(year == 2007) |>
+  ggplot(aes(x = gdpPercap)) +
+  geom_histogram()
+```
+
+```{r}
+#| title: "Table of Mean Values"
+library(knitr)
+gapminder |> 
+  filter(year == 2007) |> 
+  summarize(
+    GDP_percap = mean(gdpPercap),
+    Life_Exp = mean(lifeExp),
+    Population = mean(pop),
+    .by = continent
+  ) |> 
+  kable()
+```
+
+## Row {height="20%"}
+
+```{r}
+#| content: valuebox
+#| title: "Number of Countries"
+n_countries <- gapminder |> distinct(country) |> nrow()
+list(
+  icon = "asterisk",
+  color = "primary",
+  value = n_countries
+)
+```
+
+```{r}
+#| content: valuebox
+#| title: "First Year"
+first_year <- gapminder |> distinct(year) |> pull() |> first()
+list(
+  icon = "airplane",
+  color = "secondary",
+  value = first_year
+)
+```
+
+```{r}
+#| content: valuebox
+#| title: "Last Year"
+last_year <- gapminder |> distinct(year) |> pull() |> last()
+list(
+  icon = "bank",
+  color = "success",
+  value = last_year
+)
+```
+
+# Graphs
+
+## Row
+
+```{r}
+#| title: GDP and Life Expectancy
+gapminder |> 
+  filter(year == 2007) |> 
+  ggplot(aes(x = log10(gdpPercap), y = lifeExp)) +
+  geom_point(aes(color = continent), show.legend = FALSE) +
+  geom_smooth() + 
+  facet_wrap(~continent, ncol = 5)
+```
+
+## Row
+
+### Column
+
+```{r}
+#| title: Population
+gapminder |> 
+  summarize(
+    sum_pop = sum(pop),
+    .by = c(year, continent)
+  ) |> 
+  ggplot(aes(x = year, y = sum_pop)) +
+  geom_area(aes(fill = continent)) +
+  labs(x = "Year", y = "Population", fill = "Continents")
+```
+
+### Column
+
+```{r}
+#| title: Life Expectancy
+gapminder |> 
+  ggplot(aes(x = year, y = lifeExp)) +
+  geom_line(aes(color = continent, group = country)) +
+  labs(x = "Year", y = "Life Expectancy", color = "Continents")
+```
+
+# Tables
+
+## Row
+
+```{r}
+#| title: Lookup Table
+library(DT)
+datatable(gapminder, filter = "top", 
+          options = list(
+            pageLength = 5, autoWidth = TRUE
+          ))
+```
+
+# Maps
+
+## Row
+
+```{r}
+#| title: A Reference Map 
+library(leaflet) 
+leaflet() |>  
+  addTiles()
+```

@@ -18,10 +18,13 @@ website:
         href: r_dev.qmd
       - text: "R Web Books"
         href: r_web_book.qmd
+      - text: "Dashboards"
+        href: dashboards.qmd
       - text: "Events"
         href: events.qmd      
       - text: "Blog"
         href: blog.qmd
+
   back-to-top-navigation: true
   page-navigation: true
   page-footer: 

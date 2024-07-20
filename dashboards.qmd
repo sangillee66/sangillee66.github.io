@@ -1,0 +1,12 @@
+---
+title: "Dashboards"
+subtitle: "Data Exploration & Communication"
+date-modified: last-modified
+title-block-banner: images/dashboard_2.jpg
+---
+
+## 2024년
+
+### 샘플 대시보드
+
+-   [링크](dashboards/first_dashboard.qmd)
