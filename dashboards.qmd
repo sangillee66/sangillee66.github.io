@@ -9,4 +9,4 @@ title-block-banner: images/dashboard_2.jpg
 
 ### 샘플 대시보드
 
--   [링크](dashboards/first_dashboard.qmd)
+-   [링크](https://sangillee.snu.ac.kr/dashboard_examples/pop_geo.html)
