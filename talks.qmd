@@ -15,6 +15,8 @@ title-block-banner: images/talks.jpg
 
 -   장소: [서울특별시교육청교육연수원](https://www.seti.go.kr/) 교육동 303호
 
--   강의자료
+-   자료
 
--   [대시보드형 디지털 교수-학습자료 예시](https://sangillee.snu.ac.kr/dashboard_examples/pop_geo.html)
+    -   [강의자료](talks/연수_이상일(배포용).pdf)
+
+    -   [대시보드형 디지털 교수-학습자료 예시](https://sangillee.snu.ac.kr/dashboard_examples/pop_geo.html)
