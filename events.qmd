@@ -138,3 +138,21 @@ title-block-banner: images/banner_event.jpg
 |          |                          |     -   웹 배포한 인터랙티브 대시보드로 수업 구상안 발표                                                   |                               |
 |          |                          |     -   인터랙티브 교수-학습 자료의 장단점 및 향후 발전가능성 논의                                         |                               |
 +----------+--------------------------+------------------------------------------------------------------------------------------------------------+-------------------------------+
+
+### 사전 학습(동영상)
+
+-   YouTube 채널: [AI·디지털 기반 사회과 교육 워크샵](https://www.youtube.com/@AIEDAP-social-studies)
+
+-   내용 구성
+
+    -   세 가지 사이언스의 융합(강의): [링크](https://www.youtube.com/watch?v=pVLhGhniMjg&list=PLBhmlKluaonqAygapYjjTQD2YzC8N5CBj&index=5)
+
+    -   구글 어스 스튜디오(실습): [링크](https://www.youtube.com/watch?v=Z3KlpPhS7hc&list=PLBhmlKluaonqAygapYjjTQD2YzC8N5CBj&index=1)
+
+    -   R과 Quarto(실습)
+
+        -   [링크](https://www.youtube.com/watch?v=JCxr_ThIg6A&list=PLBhmlKluaonqAygapYjjTQD2YzC8N5CBj&index=2)
+
+        -   [링크](https://www.youtube.com/watch?v=sOkGRQbOWh0&list=PLBhmlKluaonqAygapYjjTQD2YzC8N5CBj&index=3)
+
+        -   [링크](https://www.youtube.com/watch?v=Xy5BHPXrqlg&list=PLBhmlKluaonqAygapYjjTQD2YzC8N5CBj&index=4)
