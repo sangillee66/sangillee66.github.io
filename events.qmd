@@ -7,6 +7,10 @@ title-block-banner: images/banner_event.jpg
 
 ## 사회과 예비교사를 위한 AIㆍ디지털 역량 강화 워크숍
 
+### 프로그램 홈페이지
+
+-   <https://sangillee.snu.ac.kr/2024_AIEDAP/>
+
 ### 프로그램 개요
 
 본 워크숍은 서울대학교 사범대학 재학 중인 중등 사회과(지리) 예비 교원들의 AI·디지털 역량을 실질적으로 함양하는 것을 목적으로 한다. 이를 위해 온라인 저작도구 쿼토(Quarto)와 오픈소스 프로그래밍 언어 R을 학습한다. 궁극적으로 전통적인 교수-학습 자료를 넘어 현장에서 적용 가능한 인터랙티브 교수-학습 자료를 제작하는 역량을 기르고자 한다.
@@ -34,7 +38,3 @@ title-block-banner: images/banner_event.jpg
 -   [AIEDAP](https://aiedap.or.kr/) (AI EDucation Alliance & Policy lab)
 
 -   [서울대학교](https://www.snu.ac.kr/) [학습과학연구소](https://ls.snu.ac.kr/) [미래교육혁신센터](https://ls.snu.ac.kr/sub_center/center4.php)
-
-### 프로그램 홈페이지
-
--   <https://sangillee.snu.ac.kr/2024_AIEDAP/>
