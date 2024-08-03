@@ -29,8 +29,11 @@ bibliography: references.bib
 ## Spatial Data Analysis and Spatial Statistics
 
 -   Paez, Antonio. 2024. *An Introduction to Spatial Data Analysis and Statistics: A Course in R*. <https://paezha.github.io/spatial-analysis-r/>.
+
 -   Moraga, Paula. 2023. [*Spatial Statistics for Data Science: Theory and Practice with R*](https://www.paulamoraga.com/book-spatial/). 1st edition. Boca Raton: CRC.
+
 -   *Geomatics for Environmental Management: An Open Textbook for Students and Practitioners*.  <https://www.opengeomatics.ca/>.
+
 -   Arribas-Bel, Francisco Rowe, Dani. 2023. *Spatial Modelling for Data Scientists*. <https://gdsl-ul.github.io/san/>.
 
 ## Cartography and GeoVisualization
@@ -50,7 +53,11 @@ bibliography: references.bib
 ## Geographic Information Systems (GIS)
 
 -   Slingsby, Jasper. 2024. *A Minimal Introduction to GIS (in R)*. <https://www.ecologi.st/spatial-r/>.
+
 -   Gimond, Manuel. 2023. *Intro to GIS and Spatial Analysis*. [https://mgimond.github.io/Spatial/index.html](https://mgimond.github.io/Spatial/).
+
 -   Mieno, Taro.  *R as GIS for Economists*. [https://tmieno2.github.io/R-as-GIS-for-Economists/index.html](https://tmieno2.github.io/R-as-GIS-for-Economists/).
+
 -   Branion-Calles, Michael. 2021. *A Crash Course in Geographic Information Systems (GIS) Using R*. <https://bookdown.org/michael_bcalles/gis-crash-course-in-r/>.
+
 -   *Geomatics for Environmental Management: An Open Textbook for Students and Practitioners*.  <https://www.opengeomatics.ca/>.
