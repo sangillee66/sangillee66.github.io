@@ -1,6 +1,6 @@
 ---
 title: "Events"
-# subtitle: "A List of Classes by Semester/Year"
+subtitle: "Special Programs and More"
 date-modified: last-modified
 title-block-banner: images/banner_event.jpg
 ---
