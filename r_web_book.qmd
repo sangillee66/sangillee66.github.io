@@ -10,13 +10,13 @@ bibliography: references.bib
 
 -   Pebesma, Edzer, and Roger Bivand. 2023. [*Spatial Data Science: With Applications in R*](https://r-spatial.org/book/). 1st edition. Boca Raton: CRC.
 
--   Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2020. [*Geocomputation with R*](https://r.geocompx.org/index.html). 1st edition. Boca Raton: CRC.
+-   Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2025. [*Geocomputation with R*](https://r.geocompx.org/index.html). 2nd edition. Boca Raton: CRC.
 
 -   Wimberly, Michael C. 2023. [*Geographic Data Science with R: Visualizing and Analyzing Environmental Change*](https://bookdown.org/mcwimberly/gdswr-book/). 1st edition. Boca Raton London New York: Chapman; Hall/CRC.
 
 -   Rey, Sergio, Dani Arribas-Bel, and Levi John Wolf. 2023. [*Geographic Data Science with Python*](https://geographicdata.science/book/intro.html). 1st edition. Boca Raton: CRC.
 
--   Acosta, Luc Anselin, Grant Morrison, Angela Li, Karina. 2023. *Hands-on Spatial Data Science with R*. [https://spatialanalysis.github.io/handsonspatialdata/index.html](https://spatialanalysis.github.io/handsonspatialdata/).
+-   Anselin, Luc, Grant Morrison, Angela Li, and Karina Acosta. 2023. *Hands-on Spatial Data Science with r*. [https://spatialanalysis.github.io/handsonspatialdata/index.html](https://spatialanalysis.github.io/handsonspatialdata/).
 
 -   Sabbata, Stefano De. 2024. *R for Geographic Data Science*. <https://sdesabbata.github.io/r-for-geographic-data-science/>.
 
@@ -26,19 +26,29 @@ bibliography: references.bib
 
 -   Dorman, Michael. 2023. *Introduction to Spatial Data Programming with R*. <https://geobgu.xyz/r/>.
 
+-   Spatial Data Science with R. <https://rspatial.org/raster/>.
+
+-   Spatial Data Science with R and "terra". <https://rspatial.org/>.
+
 ## Spatial Data Analysis and Spatial Statistics
 
 -   Paez, Antonio. 2024. *An Introduction to Spatial Data Analysis and Statistics: A Course in R*. <https://paezha.github.io/spatial-analysis-r/>.
 
 -   Moraga, Paula. 2023. [*Spatial Statistics for Data Science: Theory and Practice with R*](https://www.paulamoraga.com/book-spatial/). 1st edition. Boca Raton: CRC.
 
+-   Rowe, Francisco, and Dani Arribas-Bel. 2024. Spatial Modelling for Data Scientists. <https://gdsl-ul.github.io/san/>.
+
 -   *Geomatics for Environmental Management: An Open Textbook for Students and Practitioners*.  <https://www.opengeomatics.ca/>.
 
 -   Arribas-Bel, Francisco Rowe, Dani. 2023. *Spatial Modelling for Data Scientists*. <https://gdsl-ul.github.io/san/>.
 
+-   Lovelace, Robin, and Morgane Dumont. 2017. [*Spatial Microsimulation with R*](https://spatial-microsim-book.robinlovelace.net/index.html). 1st edition. Chapman; Hall/CRC.
+
 ## Cartography and GeoVisualization
 
--   Sievert, Carson. 2020. [*Interactive Web-Based Data Visualization with R, Plotly, and Shiny*](https://plotly-r.com/). Boca Raton: CRC..
+-   Sievert, Carson. 2020. [*Interactive Web-Based Data Visualization with R, Plotly, and Shiny*](https://plotly-r.com/). Boca Raton: CRC.
+
+-   Dorman, Michael. 2024. *Introduction to Web Mapping*. [https://geobgu.xyz/web-mapping2/index.html](https://geobgu.xyz/web-mapping2/).
 
 -   Tennekes, Martijn, and Jakub Nowosad. 2021. *Elegant and Informative Maps with Tmap*. <https://r-tmap.github.io/tmap-book/>.
 
@@ -54,10 +64,34 @@ bibliography: references.bib
 
 -   Slingsby, Jasper. 2024. *A Minimal Introduction to GIS (in R)*. <https://www.ecologi.st/spatial-r/>.
 
+-   Dorman, Michael. 2024. *Introduction to Spatial Data Programming with r*. <https://geobgu.xyz/r/>.
+
+-   Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2025. [*Geocomputation with R*](https://r.geocompx.org/index.html). 2nd edition. Boca Raton: CRC.
+
 -   Gimond, Manuel. 2023. *Intro to GIS and Spatial Analysis*. [https://mgimond.github.io/Spatial/index.html](https://mgimond.github.io/Spatial/).
+
+-   Engel, Claudia A. 2024. *Using Spatial Data with r*. <https://cengel.github.io/R-spatial/>.
 
 -   Mieno, Taro.  *R as GIS for Economists*. [https://tmieno2.github.io/R-as-GIS-for-Economists/index.html](https://tmieno2.github.io/R-as-GIS-for-Economists/).
 
 -   Branion-Calles, Michael. 2021. *A Crash Course in Geographic Information Systems (GIS) Using R*. <https://bookdown.org/michael_bcalles/gis-crash-course-in-r/>.
 
 -   *Geomatics for Environmental Management: An Open Textbook for Students and Practitioners*.  <https://www.opengeomatics.ca/>.
+
+## Remote Sensing
+
+-   Camara, Gilberto, Rolf Simoes, Felipe Souza, Felipe Menino, Charlotte Pelletier, Pedro R. Andrade, Karine Ferreira, and Gilberto Queiroz. n.d. *Satellite Image Time Series Analysis on Earth Observation Data Cubes*. <https://e-sensing.github.io/sitsbook/>.
+
+## Applied Spatial Data Science
+
+-   Walker, Kyle. 2023. [*Analyzing US Census Data*](https://walker-data.com/census-r/index.html). 1st edition. Boca Raton: Chapman; Hall/CRC.
+
+-   Moraga, Paula. 2019. [*Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny*](https://www.paulamoraga.com/book-geospatial/). CRC Press.
+
+-   Solymosi, Reka, and Juanjo Medina. 2022. *Crime Mapping in r*. [https://maczokni.github.io/crime_mapping_textbook/](#0){style="font-size: 13pt;"}.
+
+-   Steif, Ken. 2021. [*Public Policy Analytics: Code and Context for Data Science in Government*](https://urbanspatial.github.io/PublicPolicyAnalytics/index.html#table-of-contents). 1st edition. Boca Raton London New York: CRC Press.
+
+-   Gannon, J. P. 2024. Hydroinformatics. <https://vt-hydroinformatics.github.io/Quarto_Book/>.
+
+-   Wagner, Helene, ed. 2024. *Landscape Genetic Data Analysis with R*. <https://bookdown.org/hhwagner1/LandGenCourse_book/>.
