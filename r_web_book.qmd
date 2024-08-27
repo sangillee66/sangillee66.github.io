@@ -14,9 +14,13 @@ bibliography: references.bib
 
 -   Wimberly, Michael C. 2023. [*Geographic Data Science with R: Visualizing and Analyzing Environmental Change*](https://bookdown.org/mcwimberly/gdswr-book/). 1st edition. Boca Raton London New York: Chapman; Hall/CRC.
 
+-   Anselin, Luc. 2024. [*An Introduction to Spatial Data Science with GeoDa: Volume 1: Exploring Spatial Data*](https://lanselin.github.io/introbook_vol1/). 1st edition. Boca Raton, FL: Chapman; Hall/CRC.
+
+-   Anselin, Luc. 2024. [*An Introduction to Spatial Data Science with GeoDa: Volume 2: Clustering Spatial Data*](https://lanselin.github.io/introbook_vol2/). 1st edition. Boca Raton, FL: Chapman; Hall/CRC.
+
 -   Rey, Sergio, Dani Arribas-Bel, and Levi John Wolf. 2023. [*Geographic Data Science with Python*](https://geographicdata.science/book/intro.html). 1st edition. Boca Raton: CRC.
 
--   Anselin, Luc, Grant Morrison, Angela Li, and Karina Acosta. 2023. *Hands-on Spatial Data Science with r*. [https://spatialanalysis.github.io/handsonspatialdata/index.html](https://spatialanalysis.github.io/handsonspatialdata/).
+-   Anselin, Luc, Grant Morrison, Angela Li, and Karina Acosta. 2023. *Hands-on Spatial Data Science with R*. [https://spatialanalysis.github.io/handsonspatialdata/index.html](https://spatialanalysis.github.io/handsonspatialdata/).
 
 -   Sabbata, Stefano De. 2024. *R for Geographic Data Science*. <https://sdesabbata.github.io/r-for-geographic-data-science/>.
 
