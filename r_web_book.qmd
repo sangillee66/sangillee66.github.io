@@ -68,13 +68,15 @@ bibliography: references.bib
 
 -   Slingsby, Jasper. 2024. *A Minimal Introduction to GIS (in R)*. <https://www.ecologi.st/spatial-r/>.
 
--   Dorman, Michael. 2024. *Introduction to Spatial Data Programming with r*. <https://geobgu.xyz/r/>.
+-   Dorman, Michael. 2024. *Introduction to Spatial Data Programming with R*. <https://geobgu.xyz/r/>.
 
 -   Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2025. [*Geocomputation with R*](https://r.geocompx.org/index.html). 2nd edition. Boca Raton: CRC.
 
 -   Gimond, Manuel. 2023. *Intro to GIS and Spatial Analysis*. [https://mgimond.github.io/Spatial/index.html](https://mgimond.github.io/Spatial/).
 
--   Engel, Claudia A. 2024. *Using Spatial Data with r*. <https://cengel.github.io/R-spatial/>.
+-   Roelandt, Nicolas and Jakub Nowosad. 2022. *Getting Started with R and R-Spatial*. <https://bakaniko.github.io/foss4g2022-getting-started-rspatial/>.
+
+-   Engel, Claudia A. 2024. *Using Spatial Data with R*. <https://cengel.github.io/R-spatial/>.
 
 -   Mieno, Taro.  *R as GIS for Economists*. [https://tmieno2.github.io/R-as-GIS-for-Economists/index.html](https://tmieno2.github.io/R-as-GIS-for-Economists/).
 
