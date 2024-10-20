@@ -684,5 +684,558 @@
     "title": "R Web Books",
     "section": "Remote Sensing",
     "text": "Remote Sensing\n\nCamara, Gilberto, Rolf Simoes, Felipe Souza, Felipe Menino, Charlotte Pelletier, Pedro R. Andrade, Karine Ferreira, and Gilberto Queiroz. Satellite Image Time Series Analysis on Earth Observation Data Cubes. https://e-sensing.github.io/sitsbook/.\nGhosh, Aniruddha, and Robert J. Hijmans. Remote Sensing Image Analysis. https://rspatial.org/raster/rs/index.html"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#소개",
+    "href": "talks/talks_2024_10_26.html#소개",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "소개",
+    "text": "소개\n\n\n\n서울대학교 사범대학 지리교육과 교수\n\nhttps://sangillee.snu.ac.kr/\nGIS, 지도학, 공간통계분석, 인구지리학\n공간데이터사이언스, 데이터사이언스-기반 교과교육\n\n\n\n겸임\n\n서울대학교 사범대학 AI융합교육학과 겸임교수\n서울대학교 데이터사이언스대학원 융합전공 응용데이터사이언스 겸임교수\n서울대학교 학습과학연구소 AI기반교육연구센터 겸임연구원"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#소개-1",
+    "href": "talks/talks_2024_10_26.html#소개-1",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "소개",
+    "text": "소개\n\n실습 디자인 및 진행\n\n김우형(서울대학교 지리교육과 석사과정)\n김세창(서울대학교 지리교육과 석사)\n\n실습 보조\n\n전혜민(서울대학교 지리교육과 석사과정)\n김주연(서울대학교 지리교육과 박사과정)"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#ai-융합교육을-위한-인문사회-컨텐츠-설계",
+    "href": "talks/talks_2024_10_26.html#ai-융합교육을-위한-인문사회-컨텐츠-설계",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "AI 융합교육을 위한 인문사회 컨텐츠 설계",
+    "text": "AI 융합교육을 위한 인문사회 컨텐츠 설계"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#교사의-aiㆍ디지털-역량",
+    "href": "talks/talks_2024_10_26.html#교사의-aiㆍ디지털-역량",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "교사의 AIㆍ디지털 역량",
+    "text": "교사의 AIㆍ디지털 역량\n\n교수-학습 대시보드의 설계 및 제작 능력\n\n웹-기반, 인트렉티브\n\n도구\n\n쿼토 Quarto\n\n디지털 커뮤니케이션 도구\n\n오픈소스 프로그래밍 언어 R\n\n데이터사이언스 도구"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#프로그램-개요",
+    "href": "talks/talks_2024_10_26.html#프로그램-개요",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "프로그램 개요",
+    "text": "프로그램 개요"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#aiㆍ디지털-사회의-도래와-학교교육",
+    "href": "talks/talks_2024_10_26.html#aiㆍ디지털-사회의-도래와-학교교육",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "AIㆍ디지털 사회의 도래와 학교교육",
+    "text": "AIㆍ디지털 사회의 도래와 학교교육"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#aiㆍ디지털-관련-도구들",
+    "href": "talks/talks_2024_10_26.html#aiㆍ디지털-관련-도구들",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "AIㆍ디지털 관련 도구들",
+    "text": "AIㆍ디지털 관련 도구들"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#aiㆍ디지털-관련-도구들-1",
+    "href": "talks/talks_2024_10_26.html#aiㆍ디지털-관련-도구들-1",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "AIㆍ디지털 관련 도구들",
+    "text": "AIㆍ디지털 관련 도구들\n\n\n\nhttps://dunoit.com/blogs/30-ai-64f7e9d81cb43"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#에듀테크",
+    "href": "talks/talks_2024_10_26.html#에듀테크",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "에듀테크",
+    "text": "에듀테크\n\n\n\nhttps://www.korea.kr/multi/visualNewsView.do?newsId=148900094#visualNews"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#교육부-교사가-이끄는-교실-혁명",
+    "href": "talks/talks_2024_10_26.html#교육부-교사가-이끄는-교실-혁명",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "교육부: “교사가 이끄는 교실 혁명”",
+    "text": "교육부: “교사가 이끄는 교실 혁명”"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#교육부-교실혁명을-위한-교원역량-체계",
+    "href": "talks/talks_2024_10_26.html#교육부-교실혁명을-위한-교원역량-체계",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "교육부: “교실혁명을 위한 교원역량 체계”",
+    "text": "교육부: “교실혁명을 위한 교원역량 체계”"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#ai-tpack",
+    "href": "talks/talks_2024_10_26.html#ai-tpack",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "AI-TPACK",
+    "text": "AI-TPACK\n\n\n\nhttps://www.mdpi.com/2071-1050/16/3/978"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#tpack-uoti",
+    "href": "talks/talks_2024_10_26.html#tpack-uoti",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "TPACK-UotI",
+    "text": "TPACK-UotI\n\n\n\nhttps://www.nature.com/articles/s41599-023-01533-0"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#tdl-tpack",
+    "href": "talks/talks_2024_10_26.html#tdl-tpack",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "TDL-TPACK",
+    "text": "TDL-TPACK\n\n\nhttps://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.966575/full"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#dpack",
+    "href": "talks/talks_2024_10_26.html#dpack",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "DPACK",
+    "text": "DPACK\n\n\nhttps://www.mdpi.com/2227-7102/13/8/769"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#교육학적-혹은-교과교육학적-연구",
+    "href": "talks/talks_2024_10_26.html#교육학적-혹은-교과교육학적-연구",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "교육학적 혹은 교과교육학적 연구",
+    "text": "교육학적 혹은 교과교육학적 연구"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#세-가지-과학",
+    "href": "talks/talks_2024_10_26.html#세-가지-과학",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "세 가지 과학",
+    "text": "세 가지 과학"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#데이터사이언스의-네-개의-기둥",
+    "href": "talks/talks_2024_10_26.html#데이터사이언스의-네-개의-기둥",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "데이터사이언스의 네 개의 기둥",
+    "text": "데이터사이언스의 네 개의 기둥\n\n\n\n\n\nhttps://mokeya.tistory.com/76\n\n\n\n\n\nhttps://www.geeksforgeeks.org/4-key-pillars-of-data-science/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#데이터사이언스-랜드스케이프",
+    "href": "talks/talks_2024_10_26.html#데이터사이언스-랜드스케이프",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "데이터사이언스 랜드스케이프",
+    "text": "데이터사이언스 랜드스케이프\n\n\nhttps://commons.wikimedia.org/wiki/File:Data-Science-Landscape.jpg"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#데이터사이언스-프로세스",
+    "href": "talks/talks_2024_10_26.html#데이터사이언스-프로세스",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "데이터사이언스 프로세스",
+    "text": "데이터사이언스 프로세스\n\n\nhttps://juliescholler.gitlab.io/files/M2/M2-CM1-workflow1.html#1"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#교사의-aiㆍ디지털-커뮤니케이션-역량",
+    "href": "talks/talks_2024_10_26.html#교사의-aiㆍ디지털-커뮤니케이션-역량",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "교사의 AIㆍ디지털 커뮤니케이션 역량",
+    "text": "교사의 AIㆍ디지털 커뮤니케이션 역량\n\n\n\n디지털 교수-학습 자료 설계 및 제작 능력\n\n디지털 학습지 + 탐구학습\n교과의 학습 내용을 효과적으로 교수하도록 도와주는 도구\n데이터 탐색을 통해 학습자 스스로 이해, 지식, 통찰을 얻도록 도와주는 도구\n\n\n\n웹-기반 교수-학습 대시보드\n\nHTML 형식의 웹 다큐먼트: 일종의 웹애플리케이션\n데이터 대시보드(dashboard)\n텍스트, 표, 그래프, 지도, 동영상 등\n정적(static), 동적(animated), 인터렉티브(interactive)"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#대시보드-사례",
+    "href": "talks/talks_2024_10_26.html#대시보드-사례",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "대시보드: 사례",
+    "text": "대시보드: 사례\n\n\nhttps://ivelasq.github.io/mortgage-dashboard/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#대시보드의-개념과-기본-구조",
+    "href": "talks/talks_2024_10_26.html#대시보드의-개념과-기본-구조",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "대시보드의 개념과 기본 구조",
+    "text": "대시보드의 개념과 기본 구조\n\n단일한 주제에 대한 상호연관된 다양한 정보를 그래픽의 형태로 일관성 있게 제시한 것\n5대 구성 요소: 메인 바디, 헤더, 내비게이터, 사이드바, 푸터\n\n\n\nhttps://blog.zarathu.com/posts/2023-12-11-quarto-dashboard/#tabset"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#대시보드의-레이아웃-요소",
+    "href": "talks/talks_2024_10_26.html#대시보드의-레이아웃-요소",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "대시보드의 레이아웃 요소",
+    "text": "대시보드의 레이아웃 요소\n\n\n행(row)과 열(column)\n\n가장 기본이 되는 레이아웃 요소\n\n\n\n탭셋(tabset)\n\n행과 열을 다른 하위 행과 열이 아닌 탭의 설정을 통해 분할\n\n\n\n페이지(page)\n\n최상위 레이아웃 요소로 여러개의 행과 열로 구성\n\n\n\n카드(card)\n\n페이지, 행, 열, 탭셋에 의해 규정되는 것으로, 내용 요소를 위한 기본 공간"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#대시보드의-내용-요소",
+    "href": "talks/talks_2024_10_26.html#대시보드의-내용-요소",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "대시보드의 내용 요소",
+    "text": "대시보드의 내용 요소\n\n\n내용 요소\n\n기본 Quarto 다큐먼트: 텍스트, 그림, 동영상 등\n테이블, 그래프, 벨류박스(value box), 지도 등\n생성형 AI와의 실시간 대화 등\n\n\n\n원천\n\n외부: 임베딩(embedding)\n내부: R 코드를 통한 직접 제작"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#사례",
+    "href": "talks/talks_2024_10_26.html#사례",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "사례",
+    "text": "사례\nhttps://sangillee.snu.ac.kr/dashboard_examples/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r과-데이터사이언스-프로세스",
+    "href": "talks/talks_2024_10_26.html#r과-데이터사이언스-프로세스",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R과 데이터사이언스 프로세스",
+    "text": "R과 데이터사이언스 프로세스\n\n\nhttps://r4ds.hadley.nz/intro"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r과-데이터사이언스-과정",
+    "href": "talks/talks_2024_10_26.html#r과-데이터사이언스-과정",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "R과 데이터사이언스 과정",
+    "text": "R과 데이터사이언스 과정\n\n\n\nhttps://r4ds.hadley.nz/intro"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r-바이블과-리더",
+    "href": "talks/talks_2024_10_26.html#r-바이블과-리더",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R 바이블과 리더",
+    "text": "R 바이블과 리더\n\n\n\n\n\nhttps://r4ds.hadley.nz/\n\n\n\n\n\n해들리 위컴 Hadley Wickham"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r의-아버지들-1993",
+    "href": "talks/talks_2024_10_26.html#r의-아버지들-1993",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R의 아버지들, 1993",
+    "text": "R의 아버지들, 1993\n\n\n\n\n\nGeorge Ross Ihaka\n\n\n\n\n\nUniversity of Auckland, New Zealand\n\n\n\n\n\nRobert C. Gentleman"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r의-공식-생일-2000",
+    "href": "talks/talks_2024_10_26.html#r의-공식-생일-2000",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R의 공식 생일, 2000",
+    "text": "R의 공식 생일, 2000\n\n\nhttps://www.r-bloggers.com/2023/02/happy-23rd-birthday-r/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r-혁신-ggplot2-2007",
+    "href": "talks/talks_2024_10_26.html#r-혁신-ggplot2-2007",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R 혁신: ggplot2, 2007",
+    "text": "R 혁신: ggplot2, 2007\n\n\nhttps://ggplot2.tidyverse.org/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#rstudio-2011",
+    "href": "talks/talks_2024_10_26.html#rstudio-2011",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "RStudio, 2011",
+    "text": "RStudio, 2011\n\n\n\nhttps://posit.co/download/rstudio-desktop/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r-혁신-shiny-2012",
+    "href": "talks/talks_2024_10_26.html#r-혁신-shiny-2012",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R 혁신: Shiny, 2012",
+    "text": "R 혁신: Shiny, 2012\n\n\nhttps://shiny.posit.co/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r-혁신-파이프-연산자-2014",
+    "href": "talks/talks_2024_10_26.html#r-혁신-파이프-연산자-2014",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R 혁신: 파이프 연산자, 2014",
+    "text": "R 혁신: 파이프 연산자, 2014\n\n\n\n\n\nhttps://magrittr.tidyverse.org/\n\n\n\n\n\nhttps://statistik-dresden.de/r-4-1-0-base-r-pipe/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r-혁신-파이프-연산자-2014-1",
+    "href": "talks/talks_2024_10_26.html#r-혁신-파이프-연산자-2014-1",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R 혁신: 파이프 연산자, 2014",
+    "text": "R 혁신: 파이프 연산자, 2014\n\n\n\n\n\n\n\n\nhttps://kpress.dev/blog/2022-06-19-replacing-the-magrittr-pipe-with-native-r-pipe/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r-혁신-tidyverse-2016-1",
+    "href": "talks/talks_2024_10_26.html#r-혁신-tidyverse-2016-1",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R 혁신: Tidyverse, 2016",
+    "text": "R 혁신: Tidyverse, 2016\n\n\nhttps://www.tidyverse.org/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#posit-2022",
+    "href": "talks/talks_2024_10_26.html#posit-2022",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "Posit, 2022",
+    "text": "Posit, 2022\n\n\n\nhttps://posit.co/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#quarto-2022",
+    "href": "talks/talks_2024_10_26.html#quarto-2022",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "Quarto, 2022",
+    "text": "Quarto, 2022\n\n\nhttps://quarto.org/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r-vs.-python",
+    "href": "talks/talks_2024_10_26.html#r-vs.-python",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R vs. Python",
+    "text": "R vs. Python"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r-vs.-python-구글-트랜드",
+    "href": "talks/talks_2024_10_26.html#r-vs.-python-구글-트랜드",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R vs. Python: 구글 트랜드",
+    "text": "R vs. Python: 구글 트랜드"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r-vs.-python-장단점",
+    "href": "talks/talks_2024_10_26.html#r-vs.-python-장단점",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R vs. Python: 장단점",
+    "text": "R vs. Python: 장단점\n\n\nhttps://r-craft.org/the-3-reasons-you-should-learn-r-for-data-science/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#재현가능연구를-위한-r",
+    "href": "talks/talks_2024_10_26.html#재현가능연구를-위한-r",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "재현가능연구를 위한 R",
+    "text": "재현가능연구를 위한 R"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r-커뮤니티",
+    "href": "talks/talks_2024_10_26.html#r-커뮤니티",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R 커뮤니티",
+    "text": "R 커뮤니티\n\n\n\n\n\nhttps://rladies.org/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r-and-python-in-harmony",
+    "href": "talks/talks_2024_10_26.html#r-and-python-in-harmony",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R and Python in Harmony",
+    "text": "R and Python in Harmony\n\n\n\n\n\nhttps://rstudio.github.io/reticulate/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#positron-2024",
+    "href": "talks/talks_2024_10_26.html#positron-2024",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "Positron, 2024",
+    "text": "Positron, 2024\n\n\nhttps://github.com/posit-dev/positron"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#section",
+    "href": "talks/talks_2024_10_26.html#section",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "",
+    "text": "https://allisonhorst.com/everything-else"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#쿼토-quarto",
+    "href": "talks/talks_2024_10_26.html#쿼토-quarto",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "쿼토 Quarto",
+    "text": "쿼토 Quarto\n\n\nhttps://rstudio.github.io/cheatsheets/html/quarto.html"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#쿼토-quarto-1",
+    "href": "talks/talks_2024_10_26.html#쿼토-quarto-1",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "쿼토 Quarto",
+    "text": "쿼토 Quarto\n\n\nhttps://rstudio.github.io/cheatsheets/html/quarto.html"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#quarto-정의",
+    "href": "talks/talks_2024_10_26.html#quarto-정의",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "Quarto: 정의",
+    "text": "Quarto: 정의\n\n\n“과학적, 기술적 출판을 위한 오픈소스 시스템(an open-source scientific and technical publishing system)”\n\n오픈소스 저작 시스템\n디지털 커뮤니케이션의 도구\n\n\n다양한 형식의 저작물(노트, 연구 논문, 프레젠테이션, 대시보드, 웹사이트, 블로그, 서적 등)을 다양한 디지털 포맷(HTML, PDF, MS Word, ePub 등)으로 출판할 수 있게 해주는 도구\n\n적용 분야의 스케일\n\n개인 스케일: 다양한 개인 저작물의 작성 도구\n그룹 스케일: 프로젝트의 원할한 진행을 위한 협업 체계\n사회 스케일: 과학 커뮤니티의 재현성(reproducibility) 고양을 위한 프레임워크"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#quarto-syntax",
+    "href": "talks/talks_2024_10_26.html#quarto-syntax",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "Quarto: Syntax",
+    "text": "Quarto: Syntax\n\n\n마크다운(markdown) 언어: 팬독(pandoc)\n\n마크업(markup) 언어: 웹 다큐먼트의 구조와 포맷을 관장하는 텍스트-엔코딩 시스템(예: HTML)\n사용자의 편의성을 크게 향상시킨 마크업 언어\n\n\n\nQuarto 다규먼트: .qmd\n\n프로그래밍 언어 + 워드프로세서"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#quarto-렌더링-rendering",
+    "href": "talks/talks_2024_10_26.html#quarto-렌더링-rendering",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "Quarto: 렌더링 Rendering\n",
+    "text": "Quarto: 렌더링 Rendering\n\n\nknitr 패키지: .qmd를 .md로 전환\npandoc: .md를 다양한 디지털 포맷으로 전환\n\n\n\nhttps://r4ds.hadley.nz/quarto"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#quarto-다큐먼트-기본-구조",
+    "href": "talks/talks_2024_10_26.html#quarto-다큐먼트-기본-구조",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "Quarto 다큐먼트: 기본 구조",
+    "text": "Quarto 다큐먼트: 기본 구조\n\n\n야믈 헤더(YAML header)\n\n일종의 메타데이터\n다큐먼트의 전반적인 사항을 관장\n\n\n\n코드 청크(code chunk)\n\n프로그래밍 언어가 들어가는 부분\nR 스크립트 파일\n\n\n\n마크다운 텍스트(markdown text)\n\n워드프로세서처럼 텍스트를 작성(도표 포함)"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#section-1",
+    "href": "talks/talks_2024_10_26.html#section-1",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "",
+    "text": "https://rstudio.github.io/cheatsheets/html/quarto.html\nhttps://r4ds.hadley.nz/intro\nhttps://ivelasq.github.io/mortgage-dashboard/\nhttps://gemini.google.com/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#야믈-헤더-yaml-header",
+    "href": "talks/talks_2024_10_26.html#야믈-헤더-yaml-header",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "야믈 헤더 YAML header\n",
+    "text": "야믈 헤더 YAML header\n\n\n\n\n\n\n\nkey\n설명\n\n\n\ntitle\n다큐먼트의 제목\n\n\ndate\n다큐먼트 작성 날짜\n\n\nauthor\n다큐먼트 저자 이름\n\n\nformat\n다양한 포맷 관련 사항의 지정\n\n\ntoc\n목차 삽입\n\n\nnumber-section\n섹션 제목에 자동 번호 부여 여부\n\n\nexecute: echo\n소스 코드의 포함 여부를 글로벌하게 설정, 보통 true\n\n\nexecute: warning\n경고 메시지를 산출물에 나타나게 할지를 글로벌하게 설정, 보통 false\n\n\neditor\n비주얼 에디터와 소스 에디터 중 선택, 보통 visual"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#코드-청크-code-chunck",
+    "href": "talks/talks_2024_10_26.html#코드-청크-code-chunck",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "코드 청크 Code chunck\n",
+    "text": "코드 청크 Code chunck\n\n\n\n\n\n\n\n\n\n\n\n\nOption\nRun code\nShow code\nOutput\nPlots\nMessages\nWarnings\n\n\n\neval: false\nX\n\nX\nX\nX\nX\n\n\ninclude: false\n\nX\nX\nX\nX\nX\n\n\necho: false\n\nX\n\n\n\n\n\n\nresults: hide\n\n\nX\n\n\n\n\n\nfig-show: hide\n\n\n\nX\n\n\n\n\nmessage: false\n\n\n\n\nX\n\n\n\nwarning: false\n\n\n\n\n\nX"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#비주얼-에디터-visual-editor",
+    "href": "talks/talks_2024_10_26.html#비주얼-에디터-visual-editor",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "비주얼 에디터 Visual Editor\n",
+    "text": "비주얼 에디터 Visual Editor\n\n\n비주얼 에디터(visual editor) vs. 소스 에디터(source editor)\n마크다운 언어의 사용자 편이성을 한 번 더 강화한 것"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#비주얼-에디터-visual-editor-1",
+    "href": "talks/talks_2024_10_26.html#비주얼-에디터-visual-editor-1",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "비주얼 에디터 Visual Editor\n",
+    "text": "비주얼 에디터 Visual Editor"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#논문-저술-도구-zotero",
+    "href": "talks/talks_2024_10_26.html#논문-저술-도구-zotero",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "논문 저술 도구: Zotero",
+    "text": "논문 저술 도구: Zotero\n\n\nhttps://quarto.org/docs/visual-editor/technical.html"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#웹-배포-웹포스팅-서비스",
+    "href": "talks/talks_2024_10_26.html#웹-배포-웹포스팅-서비스",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "웹 배포: 웹포스팅 서비스",
+    "text": "웹 배포: 웹포스팅 서비스\n\nQuarto Pub(https://quartopub.com/)\nGitHub Pages(https://pages.github.com/)\nNetlify(https://www.netlify.com/)\n\n\n\n\n\n\n\n\n\nhttps://rstudio.github.io/cheatsheets/html/quarto.html\nhttps://r4ds.hadley.nz/intro\nhttps://ivelasq.github.io/mortgage-dashboard/\nhttps://gemini.google.com/\nhttps://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.966575/full\nhttps://www.mdpi.com/2227-7102/13/8/769\nhttps://mokeya.tistory.com/76\nhttps://www.geeksforgeeks.org/4-key-pillars-of-data-science/\nhttps://commons.wikimedia.org/wiki/File:Data-Science-Landscape.jpg\nhttps://juliescholler.gitlab.io/files/M2/M2-CM1-workflow1.html#1\nhttps://ivelasq.github.io/mortgage-dashboard/\nhttps://blog.zarathu.com/posts/2023-12-11-quarto-dashboard/#tabset\nhttps://r4ds.hadley.nz/intro\nhttps://r4ds.hadley.nz/intro\nhttps://r4ds.hadley.nz/\n해들리 위컴 Hadley Wickham\nGeorge Ross Ihaka\nUniversity of Auckland, New Zealand\nRobert C. Gentleman\nhttps://www.r-bloggers.com/2023/02/happy-23rd-birthday-r/\nhttps://ggplot2.tidyverse.org/\nhttps://posit.co/download/rstudio-desktop/\nhttps://shiny.posit.co/\nhttps://magrittr.tidyverse.org/\nhttps://statistik-dresden.de/r-4-1-0-base-r-pipe/\nhttps://kpress.dev/blog/2022-06-19-replacing-the-magrittr-pipe-with-native-r-pipe/\nhttps://www.tidyverse.org/\nhttps://posit.co/\nhttps://quarto.org/\nhttps://r-craft.org/the-3-reasons-you-should-learn-r-for-data-science/\nhttps://rladies.org/\nhttps://rstudio.github.io/reticulate/\nhttps://github.com/posit-dev/positron\nhttps://allisonhorst.com/everything-else\nhttps://rstudio.github.io/cheatsheets/html/quarto.html\nhttps://bioinformatics.ccr.cancer.gov/docs/btep-coding-club/CC2024/Quarto/GettingStarted_with_Quarto_orig.html\nhttps://r4ds.hadley.nz/quarto\nhttps://r4ds.hadley.nz/quarto\nhttps://quarto.org/docs/visual-editor/technical.html"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#section-2",
+    "href": "talks/talks_2024_10_26.html#section-2",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "",
+    "text": "https://r4ds.hadley.nz/quarto"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#사회과-예비-교원의-aiㆍ디지털-역량",
+    "href": "talks/talks_2024_10_26.html#사회과-예비-교원의-aiㆍ디지털-역량",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "(사회과) 예비 교원의 AIㆍ디지털 역량",
+    "text": "(사회과) 예비 교원의 AIㆍ디지털 역량\n\n\n\n디지털 교수-학습 자료 설계 및 제작 능력\n\n디지털 학습지 + 탐구학습\n교과의 학습 내용을 효과적으로 교수하도록 도와주는 도구\n데이터 탐색을 통해 학습자 스스로 이해, 지식, 통찰을 얻도록 도와주는 도구\n\n\n\n웹-기반 교수-학습 대시보드\n\nHTML 형식의 웹 다큐먼트: 일종의 웹애플리케이션\n데이터 대시보드(dashboard)\n텍스트, 표, 그래프, 지도, 동영상 등\n정적(static), 동적(animated), 인터렉티브(interactive)"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#교사의-aiㆍ디지털-커뮤니케이션-역량-1",
+    "href": "talks/talks_2024_10_26.html#교사의-aiㆍ디지털-커뮤니케이션-역량-1",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "교사의 AIㆍ디지털 커뮤니케이션 역량",
+    "text": "교사의 AIㆍ디지털 커뮤니케이션 역량\n\n\n디지털 교수-학습 자료 설계 및 제작 능력\n\n디지털 학습지 + 탐구학습\n교과의 학습 내용을 효과적으로 교수하도록 도와주는 도구\n데이터 탐색을 통해 학습자 스스로 이해, 지식, 통찰을 얻도록 도와주는 도구\n\n웹-기반 교수-학습 대시보드\n\nHTML 형식의 웹 다큐먼트: 일종의 웹애플리케이션\n데이터 대시보드(dashboard)\n텍스트, 표, 그래프, 지도, 동영상 등\n정적(static), 동적(animated), 인터렉티브(interactive)"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#사회과-예비-교원의-aiㆍ디지털-역량-1",
+    "href": "talks/talks_2024_10_26.html#사회과-예비-교원의-aiㆍ디지털-역량-1",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "(사회과) 예비 교원의 AIㆍ디지털 역량",
+    "text": "(사회과) 예비 교원의 AIㆍ디지털 역량\n\n\n쿼토 Quarto\n\n마크다운 기반의 디지털 커뮤니케이션(저작) 도구\n대시보드 생성, 웹 배포 및 공유\n\n\n\n오픈소스 프로그래밍 언어 R\n\n데이터사이언스 도구\n데이터의 수집, 정돈, 변형, 탐색, 분석, 모델링 도구\n정적, 동적, 인터렉티브 시각화"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#대시보드-사례-1",
+    "href": "talks/talks_2024_10_26.html#대시보드-사례-1",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "대시보드: 사례",
+    "text": "대시보드: 사례\n\n\n\nhttps://ivelasq.github.io/mortgage-dashboard/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#데이터-대시보드",
+    "href": "talks/talks_2024_10_26.html#데이터-대시보드",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "데이터 대시보드",
+    "text": "데이터 대시보드\n\n\nhttps://ivelasq.github.io/mortgage-dashboard/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r과-데이터사이언스-프로세스-1",
+    "href": "talks/talks_2024_10_26.html#r과-데이터사이언스-프로세스-1",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R과 데이터사이언스 프로세스",
+    "text": "R과 데이터사이언스 프로세스\n\n\nhttps://r4ds.hadley.nz/intro"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#쿼토-quarto-2",
+    "href": "talks/talks_2024_10_26.html#쿼토-quarto-2",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "쿼토 Quarto",
+    "text": "쿼토 Quarto\n\n\nhttps://bioinformatics.ccr.cancer.gov/docs/btep-coding-club/CC2024/Quarto/GettingStarted_with_Quarto_orig.html"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#r과-데이터사이언스-프로세스-2",
+    "href": "talks/talks_2024_10_26.html#r과-데이터사이언스-프로세스-2",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "R과 데이터사이언스 프로세스",
+    "text": "R과 데이터사이언스 프로세스\n\n\nhttps://r4ds.hadley.nz/intro"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#프로그램",
+    "href": "talks/talks_2024_10_26.html#프로그램",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "프로그램",
+    "text": "프로그램"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#프로그램-실행",
+    "href": "talks/talks_2024_10_26.html#프로그램-실행",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "프로그램 실행",
+    "text": "프로그램 실행"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#탐색적-데이터-분석-예시",
+    "href": "talks/talks_2024_10_26.html#탐색적-데이터-분석-예시",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "탐색적 데이터 분석: 예시",
+    "text": "탐색적 데이터 분석: 예시\n\n대륙별 최대국(인구가 가장 많은 나라)이 소속 대륙 전체에서 차지하는 비중이 어느 정도이고 대륙별로 어느 정도의 차이가 있는지, 그리고 대륙별 최대국의 비중이 시간이 지남에 따라 어떠한 변화 양상을 보여주고 있고, 그러한 양상에 대륙별 차이가 있는지의 여부\n\n\n\nData\nGraph\nCode\n\n\n\n\n\n# A tibble: 1,704 × 6\n   country     continent  year lifeExp      pop gdpPercap\n   &lt;fct&gt;       &lt;fct&gt;     &lt;int&gt;   &lt;dbl&gt;    &lt;int&gt;     &lt;dbl&gt;\n 1 Afghanistan Asia       1952    28.8  8425333      779.\n 2 Afghanistan Asia       1957    30.3  9240934      821.\n 3 Afghanistan Asia       1962    32.0 10267083      853.\n 4 Afghanistan Asia       1967    34.0 11537966      836.\n 5 Afghanistan Asia       1972    36.1 13079460      740.\n 6 Afghanistan Asia       1977    38.4 14880372      786.\n 7 Afghanistan Asia       1982    39.9 12881816      978.\n 8 Afghanistan Asia       1987    40.8 13867957      852.\n 9 Afghanistan Asia       1992    41.7 16317921      649.\n10 Afghanistan Asia       1997    41.8 22227415      635.\n# ℹ 1,694 more rows\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngapminder |&gt; \n  group_by(year, continent) |&gt; \n  mutate(\n    sum_cont = sum(pop),\n    country_prop = pop * 100 / sum_cont\n  ) |&gt; \n  slice_max(country_prop) |&gt; \n  ggplot() +\n  geom_line(aes(x = year, y = country_prop, color = continent), linewidth = 1) +\n  labs(x = \"Year\", y = \"% of Population\", color = \"Continents\")"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#section-3",
+    "href": "talks/talks_2024_10_26.html#section-3",
+    "title": "2024 AIEDAP 예비교원 양성기관 교수자 워크숍\n중등 예비교원 AI융합교육 프로그램 개발 사례(사회)",
+    "section": "",
+    "text": "https://r4ds.hadley.nz/quarto"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#day-3-탐색적-데이터-분석",
+    "href": "talks/talks_2024_10_26.html#day-3-탐색적-데이터-분석",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "Day 3: 탐색적 데이터 분석",
+    "text": "Day 3: 탐색적 데이터 분석\n\n대륙별 최대국(인구가 가장 많은 나라)이 소속 대륙 전체에서 차지하는 비중이 어느 정도이고 대륙별로 어느 정도의 차이가 있는지, 그리고 대륙별 최대국의 비중이 시간이 지남에 따라 어떠한 변화 양상을 보여주고 있고, 그러한 양상에 대륙별 차이가 있는지의 여부\n\n\n\nData\nGraph\nCode\n\n\n\n\n\n# A tibble: 1,704 × 6\n   country     continent  year lifeExp      pop gdpPercap\n   &lt;fct&gt;       &lt;fct&gt;     &lt;int&gt;   &lt;dbl&gt;    &lt;int&gt;     &lt;dbl&gt;\n 1 Afghanistan Asia       1952    28.8  8425333      779.\n 2 Afghanistan Asia       1957    30.3  9240934      821.\n 3 Afghanistan Asia       1962    32.0 10267083      853.\n 4 Afghanistan Asia       1967    34.0 11537966      836.\n 5 Afghanistan Asia       1972    36.1 13079460      740.\n 6 Afghanistan Asia       1977    38.4 14880372      786.\n 7 Afghanistan Asia       1982    39.9 12881816      978.\n 8 Afghanistan Asia       1987    40.8 13867957      852.\n 9 Afghanistan Asia       1992    41.7 16317921      649.\n10 Afghanistan Asia       1997    41.8 22227415      635.\n# ℹ 1,694 more rows\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ngapminder |&gt; \n  group_by(year, continent) |&gt; \n  mutate(\n    sum_cont = sum(pop),\n    country_prop = pop * 100 / sum_cont\n  ) |&gt; \n  slice_max(country_prop) |&gt; \n  ggplot() +\n  geom_line(aes(x = year, y = country_prop, color = continent), linewidth = 1) +\n  labs(x = \"Year\", y = \"% of Population\", color = \"Continents\")"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#day-4-인터렉티브-지도-시각화",
+    "href": "talks/talks_2024_10_26.html#day-4-인터렉티브-지도-시각화",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "Day 4: 인터렉티브 지도 시각화",
+    "text": "Day 4: 인터렉티브 지도 시각화\n\n\nCode\nResult\n\n\n\n\nlibrary(leaflet)\nlibrary(tidyverse)\nlibrary(spData)\nlibrary(sf)\ndata(world)\nworld &lt;- st_as_sf(world)\nwpp_2022 &lt;- read_rds(\"wpp_2022.rds\")\nmy_wpp &lt;- wpp_2022 |&gt; \n  filter(year == 2024)\nworld_data &lt;- world |&gt;\n  left_join(my_wpp, join_by(iso_a2 == ISO2))\n\nworld_data &lt;- world_data |&gt; \n  filter(\n    !is.na(TFR)\n  )\n\nbins &lt;- c(0, 1.5, 2.1, 3, 4, 5, Inf)\npal &lt;- colorBin(\"YlOrRd\", domain = world_data$TFR, bins = bins)\nlabels &lt;- sprintf(\"&lt;strong&gt;%s&lt;/strong&gt;&lt;br/&gt;%g\",\n  world_data$name_long, world_data$TFR) |&gt; lapply(htmltools::HTML)\n\nleaflet(world_data) |&gt; \n  addProviderTiles(providers$Esri.WorldTopoMap) |&gt; \n  addPolygons(\n    fillColor = ~pal(TFR),\n    weight =  2, \n    opacity = 1,\n    color = \"white\",\n    dashArray = \"3\",\n    fillOpacity = 0.6,\n    highlightOptions = highlightOptions(\n      weight = 5,\n      color = \"#666\",\n      dashArray = \"\",\n      fillOpacity = 0.6,\n      bringToFront = TRUE),\n    label = labels,\n    labelOptions = labelOptions(\n      style = list(\"font-weight\" = \"normal\", padding = \"3px 8px\"),\n      textsize = \"15px\",\n      direction = \"auto\")\n  ) |&gt; \n  addLegend(\n    pal = pal, values = ~TFR, opacity = 0.6, title = NULL,\n    position = \"bottomright\"\n  )"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#생성형-ai와-대시보드",
+    "href": "talks/talks_2024_10_26.html#생성형-ai와-대시보드",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "생성형 AI와 대시보드",
+    "text": "생성형 AI와 대시보드\n\n생성형 AI 활용을 위한 R 래퍼 패키지\n생성형 AI: OpenAI, Google, Moonshot\n오픈 API\n\n\n\nhttps://gemini.google.com/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#day-5-생성형-ai와-대시보드",
+    "href": "talks/talks_2024_10_26.html#day-5-생성형-ai와-대시보드",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "Day 5: 생성형 AI와 대시보드",
+    "text": "Day 5: 생성형 AI와 대시보드\n\n생성형 AI 활용을 위한 R 래퍼 패키지\n생성형 AI: OpenAI, Google, Moonshot\n오픈 API\n\n\n\nhttps://gemini.google.com/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#사회과-예비교사를-위한-aiㆍ디지털-역량-강화-워크숍",
+    "href": "talks/talks_2024_10_26.html#사회과-예비교사를-위한-aiㆍ디지털-역량-강화-워크숍",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "사회과 예비교사를 위한 AIㆍ디지털 역량 강화 워크숍",
+    "text": "사회과 예비교사를 위한 AIㆍ디지털 역량 강화 워크숍\n\n\n일시 및 장소\n\n2024년 8월 5일(월)~9일(금) 오후 2~5시\n서울대학교 10동 103호\n\n\n\n진행\n\n강의: 이상일\n실습: 김우형, 김세창, 전혜민, 김주연\n\n\n\n참가자\n\n\n\n\n\n\n\n\n\n\n\n\n\nhttps://rstudio.github.io/cheatsheets/html/quarto.html\nhttps://r4ds.hadley.nz/intro\nhttps://ivelasq.github.io/mortgage-dashboard/\nhttps://gemini.google.com/"
+  },
+  {
+    "objectID": "talks/talks_2024_10_26.html#사회과-예비교원을-위한-aiㆍ디지털-역량-강화-워크숍",
+    "href": "talks/talks_2024_10_26.html#사회과-예비교원을-위한-aiㆍ디지털-역량-강화-워크숍",
+    "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
+    "section": "\n사회과 예비교원을 위한 AIㆍ디지털 역량 강화워크숍\n",
+    "text": "사회과 예비교원을 위한 AIㆍ디지털 역량 강화워크숍\n\n\n\n일시 및 장소\n\n2024년 8월 5일(월)~9일(금) 오후 2~5시\n서울대학교 10동 103호\n\n\n\n진행 인력\n\n강의 및 실습(지리교육과): 이상일, 김우형, 김세창\n효과성 평가(교육학과): 임철일, 고보경, 고준보\n\n\n\n참가자: 8개 학과 총17명\n\n지리 10명\n사회, 역사, 윤리, 불어, 수학, 물리, 체육 각 1명\n\n\n홈페이지: https://sangillee.snu.ac.kr/2024_AIEDAP/\n\n\n\n\n\n\n\n\n\nhttps://rstudio.github.io/cheatsheets/html/quarto.html\nhttps://r4ds.hadley.nz/intro\nhttps://ivelasq.github.io/mortgage-dashboard/\nhttps://gemini.google.com/"
   }
 ]
