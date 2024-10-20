@@ -19,6 +19,8 @@ title-block-banner: images/talks.jpg
 
     -   강연자료
 
+    -   [프로그램 홈페이지](https://sangillee.snu.ac.kr/2024_AIEDAP/)
+
 ### 2024 중등 지리과 1급 정교사 자격연수
 
 -   제목: AIㆍ디지털 사회의 지리교과
