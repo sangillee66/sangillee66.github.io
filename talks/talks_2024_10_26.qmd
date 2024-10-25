@@ -120,7 +120,7 @@ editor: visual
 
     -   텍스트, 표, 그래프, 지도, 동영상 등
 
-    -   정적(static), 동적(animated), 인터렉티브(interactive)
+    -   정적(static), 동적(animated), 인터랙티브(interactive)
 
 ## (사회과) 예비 교원의 AIㆍ디지털 역량
 
