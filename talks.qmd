@@ -5,8 +5,6 @@ date-modified: last-modified
 title-block-banner: images/talks.jpg
 ---
 
-## 2025년
-
 ## 2024년
 
 ### **2024년 AIEDAP 수도권역ㆍ충청권역 예비교원 양성기관 교수자 워크숍**
