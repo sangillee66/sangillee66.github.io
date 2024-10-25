@@ -204,7 +204,7 @@ gapminder |>
 ```
 :::
 
-## Day 4: 인터렉티브 지도 시각화 {.smaller}
+## Day 4: 인터랙티브 지도 시각화 {.smaller}
 
 ::: panel-tabset
 ## Code
