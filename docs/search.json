@@ -37,9 +37,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sang-Il Lee",
+    "title": "SANG-IL LEE",
     "section": "",
-    "text": "Professor, Department of Geography Education, Seoul National University\nAdjunct Professor, Department of AI-Integrated Education, Seoul National University\nAdjunct Professor, Integrated Major of Applied Data Science, Graduate School of Data Science, Seoul National University\n\n\n\n\n\nB.A., 1989, Department of Geography Education, Seoul National University\nM.A., 1991, Department of Geography Education, Seoul National University\n\nAdvisor: Ki-Suk Lee (Emeritus Professor, Seoul National University | A Member of The National Academy of Sciences)\nThesis: Geographical Implications of Realism and Relative Autonomy of Space \n\nPh.D., 2001, Department of Geography, The Ohio State University\n\nAdvisor: Lawrence Alan Brown (Novermber 22, 1935 – April 6, 2014)\nDissertation: Spatial Association Measures for an ESDA-GIS Framework: Developments, Significance Tests, and Applications to Spatio-Temporal Income Dynamics of U.S. Labor Market Areas, 1969–1999. \n\n\n\n\n\n\nSeptember, 2003 - now: Full-time lecturer, Assistant professor, Associate professor, Full professor at Seoul National University\nMarch, 2002 - August, 2003: Full-time lecturer, Kangwon National University\nJanuary, 2021 - December, 2022: President, The Association of Korean Geographers\nJanuary, 2015 - December, 2016: President, The Korean Cartographic Association\n\n\n\n\n\n2023, Excellence Teaching Award, Seoul National University\n2021, Commendation for 20-Year-Long Service, Seoul National University\n2013, Excellent Science and Technology Paper Award, The Korean Federation of Science and Technology Societies\n2012, Excellence Teaching Award, College of Education, Seoul National University\n2008, Commendation of The Ministry of Land, Infrastructure and Transport\n2007, Outstanding Young Professor Award, College of Education, Seoul National University\n2002, E. Williard and Ruby S. Miller Fellow Award, Department of Geography, The Ohio State University\n2001, Award of Best Student Paper, Spatial Analysis and Modeling (SAM) Specialty Group of American Association of Geographers, The 97th Annual Meeting, New York"
+    "text": "Back to top"
   },
   {
     "objectID": "index.html#current-position",
@@ -1258,5 +1258,12 @@
     "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
     "section": "Day 4: 인터랙티브 지도 시각화",
     "text": "Day 4: 인터랙티브 지도 시각화\n\n\nCode\nResult\n\n\n\n\nlibrary(leaflet)\nlibrary(tidyverse)\nlibrary(spData)\nlibrary(sf)\ndata(world)\nworld &lt;- st_as_sf(world)\nwpp_2022 &lt;- read_rds(\"wpp_2022.rds\")\nmy_wpp &lt;- wpp_2022 |&gt; \n  filter(year == 2024)\nworld_data &lt;- world |&gt;\n  left_join(my_wpp, join_by(iso_a2 == ISO2))\n\nworld_data &lt;- world_data |&gt; \n  filter(\n    !is.na(TFR)\n  )\n\nbins &lt;- c(0, 1.5, 2.1, 3, 4, 5, Inf)\npal &lt;- colorBin(\"YlOrRd\", domain = world_data$TFR, bins = bins)\nlabels &lt;- sprintf(\"&lt;strong&gt;%s&lt;/strong&gt;&lt;br/&gt;%g\",\n  world_data$name_long, world_data$TFR) |&gt; lapply(htmltools::HTML)\n\nleaflet(world_data) |&gt; \n  addProviderTiles(providers$Esri.WorldTopoMap) |&gt; \n  addPolygons(\n    fillColor = ~pal(TFR),\n    weight =  2, \n    opacity = 1,\n    color = \"white\",\n    dashArray = \"3\",\n    fillOpacity = 0.6,\n    highlightOptions = highlightOptions(\n      weight = 5,\n      color = \"#666\",\n      dashArray = \"\",\n      fillOpacity = 0.6,\n      bringToFront = TRUE),\n    label = labels,\n    labelOptions = labelOptions(\n      style = list(\"font-weight\" = \"normal\", padding = \"3px 8px\"),\n      textsize = \"15px\",\n      direction = \"auto\")\n  ) |&gt; \n  addLegend(\n    pal = pal, values = ~TFR, opacity = 0.6, title = NULL,\n    position = \"bottomright\"\n  )"
+  },
+  {
+    "objectID": "talks.html#년-1",
+    "href": "talks.html#년-1",
+    "title": "Talks",
+    "section": "2024년",
+    "text": "2024년\n\n2024년 AIEDAP 수도권역ㆍ충청권역 예비교원 양성기관 교수자 워크숍\n\n제목: 중등 예비교원 AI융합교육 프로그램 개발 사례(지리)\n일시: 2024년 10월 26일(토) 11:50~12:10\n장소: 서울 프레지던트 호텔\n자료\n\n강연자료\n프로그램 홈페이지\n\n\n\n\n2024 중등 지리과 1급 정교사 자격연수\n\n제목: AIㆍ디지털 사회의 지리교과\n일시: 2024년 7월 23일(화) 9:00~11:50\n장소: 서울특별시교육청교육연수원 교육동 303호\n자료\n\n강의자료\n대시보드형 디지털 교수-학습자료 예시"
   }
 ]
