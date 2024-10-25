@@ -78,7 +78,7 @@ editor: visual
 
 ## AI 융합교육을 위한 인문사회 컨텐츠 설계
 
-![](images/clipboard-634133829.png)
+![](images/또 표.jpg)
 
 ## (사회과) 예비 교원의 AIㆍ디지털 역량 {visibility="hidden"}
 
@@ -152,7 +152,7 @@ editor: visual
 
 ## 프로그램 실행
 
-![](images/clipboard-1421915869.png)
+![](images/표.jpg)
 
 ## Day 3: 탐색적 데이터 분석 {.smaller}
 
