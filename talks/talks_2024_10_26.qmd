@@ -15,12 +15,12 @@ format:
     # scrollable: false
     code-link: true
     code-overflow: scroll
-    slide-number: true
+    slide-number: false
     pointer:
       pointerSize: 20
       color: red
     menu: true
-    embed-resources: false
+    embed-resources: true
     theme: [default, custom.scss]
     revealjs-plugins:
       - pointer
@@ -78,7 +78,7 @@ editor: visual
 
 ## AI 융합교육을 위한 인문사회 컨텐츠 설계
 
-![](images/또 표.jpg)
+![](images/또%20표.jpg)
 
 ## (사회과) 예비 교원의 AIㆍ디지털 역량 {visibility="hidden"}
 
