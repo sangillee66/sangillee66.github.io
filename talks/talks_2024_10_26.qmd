@@ -152,7 +152,7 @@ editor: visual
 
 ## 프로그램 실행
 
-![](images/clipboard-368659312.png)
+![](images/clipboard-1421915869.png)
 
 ## Day 3: 탐색적 데이터 분석 {.smaller}
 
