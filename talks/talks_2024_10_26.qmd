@@ -20,7 +20,7 @@ format:
       pointerSize: 20
       color: red
     menu: true
-    embed-resources: true
+    embed-resources: false
     theme: [default, custom.scss]
     revealjs-plugins:
       - pointer
