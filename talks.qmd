@@ -17,7 +17,7 @@ title-block-banner: images/talks.jpg
 
 -   자료
 
-    -   [강연자료](talks/talks_2024_10_26.html)
+    -   [강연자료](talks/talks_2024_10_26.qmd)
 
     -   [프로그램 홈페이지](https://sangillee.snu.ac.kr/2024_AIEDAP/)
 
