@@ -103,6 +103,7 @@ bibliography: references.bib
 -   Bonnell, Jerry, and Mitsunori Ogihara. 2023. [*Exploring Data Science with R and the Tidyverse*](https://ds4world.cs.miami.edu/). 1st edition. Chapman; Hall/CRC.
 -   Irizarry, Rafael A. 2020. [*Introduction to Data Science: Data Analysis and Prediction Algorithms with R*](https://rafalab.dfci.harvard.edu/dsbook-part-1/). Boca Raton: CRC Press, Taylor & Francis Group.
 -   Sarafian, Ron.  *Introduction to Data Science*. <https://bookdown.org/ronsarafian/IntrotoDS/>.
+-   Estrellado, Ryan A., Emily A. Freer, Joshua M. Rosenberg, and Isabella C. Velásquez. 2024. *Data Science in Education Using R*. 2nd ed. <https://datascienceineducation.com/>.
 -   백영민. 2023. [R 기반 데이터 과학: 타이디버스(tidyverse) 접근](https://www.yes24.com/Product/Goods/123807713). 서울: 한나래아카데미.
 -   차영준ㆍ박진표, 2022, [데이터과학 입문을 위한 R과 타이디버스](https://www.yes24.com/Product/Goods/111420341), 파주: 자유아카데미.
 -   양윤석ㆍ오일석ㆍ강래형, 2019, [R로 배우는 데이터 과학: 분석에서 예측을 위한 모델링까지](https://www.yes24.com/Product/Goods/73049003), 서울: 한빛아카데미.
@@ -124,6 +125,8 @@ bibliography: references.bib
 -   Wickham, Hadley. 2016. [*ggplot2: Elegant Graphics for Data Analysis*](https://ggplot2-book.org/). 2nd ed. Switzerland: Springer. (박진수 옮김, 2017. [R로 분석한 데이터를 멋진 그래픽으로](https://www.yes24.com/Product/Goods/57248968) ggplot2. 부천: 프리렉.)
 
 ### Statistical Foundation
+
+-   Tipton, Elizabeth, Arend M. Kuyper, and Kaitlyn G. Fitzgerald. 2022. *Introduction to Statistics and Data Science*. <https://nustat.github.io/intro-stat-ds/>.
 
 -   Ismay, Chester, and Albert Y. Kim. 2019. [*Statistical Inference via Data Science: A ModernDive into R and the Tidyverse: A ModernDive into R and the Tidyverse*](https://moderndive.com/). 1st edition. Boca Raton: Chapman; Hall/CRC. (양승훈 옮김, 2023, [데이터 과학을 활용한 통계](https://www.yes24.com/Product/Goods/122342018), 파주: 자유아카데미.)
 
