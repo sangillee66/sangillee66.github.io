@@ -123,6 +123,8 @@ bibliography: references.bib
 
 -   Ismay, Chester, Albert Y. Kim, and Arturo Valdivia. 2025. [*Statistical Inference via Data Science: A ModernDive into R and the Tidyverse*](https://moderndive.com/). 2nd edition. Boca Raton: Chapman; Hall/CRC.
 
+-   Irizarry, Rafael A. 2024. *Introduction to Data Science: Statistics and Prediction Algorithms Through Cast Studies*. <https://rafalab.dfci.harvard.edu/dsbook-part-2/>
+
 -   Tipton, Elizabeth, Arend M. Kuyper, and Kaitlyn G. Fitzgerald. 2022. *Introduction to Statistics and Data Science*. <https://nustat.github.io/intro-stat-ds/>.
 
 -   Kuhn, Max, and Julia Silge. 2022. [*Tidy Modeling with R: A Framework for Modeling in the Tidyverse*](https://www.tmwr.org/). 1st edition. Sebastopol, CA: O’Reilly Media.
@@ -135,7 +137,7 @@ bibliography: references.bib
 
 -   한국R사용자회ㆍ안도현, 2022, [R 텍스트마이닝](https://r2bit.com/book_tm/), 오픈전자책.
 
-## Data Visualization 
+## Data Visualization
 
 -   Wickham, Hadley. 2016. [*ggplot2: Elegant Graphics for Data Analysis*](https://ggplot2-book.org/). 2nd edition, Switzerland: Springer.
 
