@@ -102,3 +102,59 @@ bibliography: references.bib
 -   Gannon, J. P. 2024. Hydroinformatics. <https://vt-hydroinformatics.github.io/Quarto_Book/>.
 
 -   Wagner, Helene, ed. 2024. *Landscape Genetic Data Analysis with R*. <https://bookdown.org/hhwagner1/LandGenCourse_book/>.
+
+## Data Science in General
+
+-   Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund, 2023, [*R for Data Science: Import, Tidy, Transform, Visualize, and Model Data*](https://r4ds.hadley.nz/)*,* 2nd edition, Boston: O’Reilly.
+
+-   Irizarry, Rafael A. 2024. [*Introduction to Data Science: Data Wrangling and Visualization with R*](https://rafalab.dfci.harvard.edu/dsbook-part-1/). 2nd edition, Boca Raton: CRC Press.
+
+-   Bonnell, Jerry, and Mitsunori Ogihara. 2023. [*Exploring Data Science with R and the Tidyverse*](https://ds4world.cs.miami.edu/). 1st edition. Chapman; Hall/CRC.
+
+-   Timbers, Tiffany, Trevor Campbell, and Melissa Lee. 2022. [*Data Science: A First Introduction*](https://datasciencebook.ca/). 1st edition. Boca Raton: Chapman; Hall/CRC.
+
+-   Estrellado, Ryan A., Emily A. Freer, Joshua M. Rosenberg, and Isabella C. Velásquez. 2024. *Data Science in Education Using R*. 2nd ed. <https://datascienceineducation.com/>.
+
+-   한국 R 사용자회, [데이터 과학을 지탱하는 기본기](https://r2bit.com/book_analytics/), 웹북
+
+-   김길환, 2023, [R 프로그래밍(개정판)](https://kilhwan.github.io/rprogramming/), 웹북
+
+## Data Analysis and Modeling
+
+-   Ismay, Chester, Albert Y. Kim, and Arturo Valdivia. 2025. [*Statistical Inference via Data Science: A ModernDive into R and the Tidyverse*](https://moderndive.com/). 2nd edition. Boca Raton: Chapman; Hall/CRC.
+
+-   Tipton, Elizabeth, Arend M. Kuyper, and Kaitlyn G. Fitzgerald. 2022. *Introduction to Statistics and Data Science*. <https://nustat.github.io/intro-stat-ds/>.
+
+-   Kuhn, Max, and Julia Silge. 2022. [*Tidy Modeling with R: A Framework for Modeling in the Tidyverse*](https://www.tmwr.org/). 1st edition. Sebastopol, CA: O’Reilly Media.
+
+-   Boehmke, Brad, and Brandon M. Greenwell. 2019. [*Hands-on Machine Learning with R*](https://bradleyboehmke.github.io/HOML/). 1st edition. Boca Raton London New York: Chapman; Hall/CRC.
+
+-   Hvitfeldt, Emil, and Julia Sigle, 2022, [*Supervised Machine Learning for Text Analysis in R*](https://smltar.com/)*,* Boca Raton: CRC Press.
+
+-   Silge, Julia, and David Robinson. 2017. [*Text Mining with R: A Tidy Approach*](https://www.tidytextmining.com/). 1st edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+
+-   한국R사용자회ㆍ안도현, 2022, [R 텍스트마이닝](https://r2bit.com/book_tm/), 오픈전자책.
+
+## Data Visualization 
+
+-   Wickham, Hadley. 2016. [*ggplot2: Elegant Graphics for Data Analysis*](https://ggplot2-book.org/). 2nd edition, Switzerland: Springer.
+
+-   Kabacoff, Robert, 2024, [*Modern Data Visualization with R*](https://rkabacoff.github.io/datavis/), Boca Raton: CRC Press.
+
+-   Dougherty, Jack, and Ilya Ilyankou, 2021, [*Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code*](https://handsondataviz.org/), Boston: O’Reilly.
+
+-   Sievert, C., 2020, [*Interactive Web-Based Data Visualization with R, plotly, and shiny*](https://plotly-r.com/), Boca Raton: CRC Press.
+
+-   Wilke, C., 2019, [*Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures*](https://clauswilke.com/dataviz/), Sebastopol, CA: O’Reilly.
+
+## Data Communication
+
+-   Wickham, Hadley, 2021, [*Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R*](https://mastering-shiny.org/)*,* Sebastopol, CA: O’REILLY.
+
+-   Granjon, David, 2022, [*Outstanding User Interfaces with Shiny*](https://unleash-shiny.rinterface.com/), Boaca Raton: CRC Press.
+
+-   Fay, Colin, Vincent Guyader, Sebastien Rochette, and Cervan Girard. 2022, [*Engineering Production-Grade Shiny Apps*](https://engineering-shiny.org/), Boca Raton: CRC Press.
+
+## Data Collection
+
+-   Pittard, Steve. 2022. *Web Scraping with r*. <https://steviep42.github.io/webscraping/book/>.

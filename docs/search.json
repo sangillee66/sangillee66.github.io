@@ -1377,5 +1377,47 @@
     "title": "\n2024 AIEDAP 예비교원 양성기관 교수자 워크숍중등 예비교원 AI융합교육 프로그램 개발 사례(사회)\n",
     "section": "\n사회과 예비교원을 위한 AIㆍ디지털 역량 강화워크숍\n",
     "text": "사회과 예비교원을 위한 AIㆍ디지털 역량 강화워크숍\n\n\n\n일시 및 장소\n\n2024년 8월 5일(월)~9일(금) 오후 2~5시\n서울대학교 10동 103호\n\n\n\n진행 인력\n\n강의 및 실습(지리교육과): 이상일, 김우형, 김세창\n효과성 평가(교육학과): 임철일, 고보경, 고준보\n\n\n\n참가자: 8개 학과 총17명\n\n지리 10명\n사회, 역사, 윤리, 불어, 수학, 물리, 체육 각 1명\n\n\n홈페이지: https://sangillee.snu.ac.kr/2024_AIEDAP/\n\n\n\n\nhttps://rstudio.github.io/cheatsheets/html/quarto.html\nhttps://r4ds.hadley.nz/intro\nhttps://ivelasq.github.io/mortgage-dashboard/\nhttps://gemini.google.com/"
+  },
+  {
+    "objectID": "r_web_book.html#data-science-in-general",
+    "href": "r_web_book.html#data-science-in-general",
+    "title": "R Web Books",
+    "section": "Data Science in General",
+    "text": "Data Science in General\n\nWickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund, 2023, R for Data Science: Import, Tidy, Transform, Visualize, and Model Data, 2nd edition, Boston: O’Reilly.\nIrizarry, Rafael A. 2024. Introduction to Data Science: Data Wrangling and Visualization with R. 2nd edition, Boca Raton: CRC Press.\nBonnell, Jerry, and Mitsunori Ogihara. 2023. Exploring Data Science with R and the Tidyverse. 1st edition. Chapman; Hall/CRC.\nTimbers, Tiffany, Trevor Campbell, and Melissa Lee. 2022. Data Science: A First Introduction. 1st edition. Boca Raton: Chapman; Hall/CRC.\nEstrellado, Ryan A., Emily A. Freer, Joshua M. Rosenberg, and Isabella C. Velásquez. 2024. Data Science in Education Using R. 2nd ed. https://datascienceineducation.com/.\n한국 R 사용자회, 데이터 과학을 지탱하는 기본기, 웹북\n김길환, 2023, R 프로그래밍(개정판), 웹북"
+  },
+  {
+    "objectID": "r_web_book.html#data-visualization-communication",
+    "href": "r_web_book.html#data-visualization-communication",
+    "title": "R Web Books",
+    "section": "Data Visualization & Communication",
+    "text": "Data Visualization & Communication\n\nWickham, Hadley. 2016. ggplot2: Elegant Graphics for Data Analysis. 2nd edition, Switzerland: Springer.\nSievert, C., 2020, Interactive Web-Based Data Visualization with R, plotly, and shiny, Boca Raton: CRC Press.\nKabacoff, Robert, 2024, Modern Data Visualization with R, Boca Raton: CRC Press.\nWickham, Hadley, 2021, Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R, Sebastopol, CA: O’REILLY.\nGranjon, David, 2022, Outstanding User Interfaces with Shiny, Boaca Raton: CRC Press.\nFay, Colin, Vincent Guyader, Sebastien Rochette, and Cervan Girard. 2022, Engineering Production-Grade Shiny Apps, Boca Raton: CRC Press."
+  },
+  {
+    "objectID": "r_web_book.html#data-analysis-and-modeling",
+    "href": "r_web_book.html#data-analysis-and-modeling",
+    "title": "R Web Books",
+    "section": "Data Analysis and Modeling",
+    "text": "Data Analysis and Modeling\n\nIsmay, Chester, Albert Y. Kim, and Arturo Valdivia. 2025. Statistical Inference via Data Science: A ModernDive into R and the Tidyverse. 2nd edition. Boca Raton: Chapman; Hall/CRC.\nTipton, Elizabeth, Arend M. Kuyper, and Kaitlyn G. Fitzgerald. 2022. Introduction to Statistics and Data Science. https://nustat.github.io/intro-stat-ds/.\nKuhn, Max, and Julia Silge. 2022. Tidy Modeling with R: A Framework for Modeling in the Tidyverse. 1st edition. Sebastopol, CA: O’Reilly Media.\nBoehmke, Brad, and Brandon M. Greenwell. 2019. Hands-on Machine Learning with R. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.\nHvitfeldt, Emil, and Julia Sigle, 2022, Supervised Machine Learning for Text Analysis in R, Boca Raton: CRC Press.\nSilge, Julia, and David Robinson. 2017. Text Mining with R: A Tidy Approach. 1st edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.\n한국R사용자회ㆍ안도현, 2022, R 텍스트마이닝, 오픈전자책."
+  },
+  {
+    "objectID": "r_web_book.html#data-visualization",
+    "href": "r_web_book.html#data-visualization",
+    "title": "R Web Books",
+    "section": "Data Visualization",
+    "text": "Data Visualization\n\nWickham, Hadley. 2016. ggplot2: Elegant Graphics for Data Analysis. 2nd edition, Switzerland: Springer.\nKabacoff, Robert, 2024, Modern Data Visualization with R, Boca Raton: CRC Press.\nDougherty, Jack, and Ilya Ilyankou, 2021, Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code, Boston: O’Reilly.\nSievert, C., 2020, Interactive Web-Based Data Visualization with R, plotly, and shiny, Boca Raton: CRC Press.\nWilke, C., 2019, Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures, Sebastopol, CA: O’Reilly."
+  },
+  {
+    "objectID": "r_web_book.html#data-communication",
+    "href": "r_web_book.html#data-communication",
+    "title": "R Web Books",
+    "section": "Data Communication",
+    "text": "Data Communication\n\nWickham, Hadley, 2021, Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R, Sebastopol, CA: O’REILLY.\nGranjon, David, 2022, Outstanding User Interfaces with Shiny, Boaca Raton: CRC Press.\nFay, Colin, Vincent Guyader, Sebastien Rochette, and Cervan Girard. 2022, Engineering Production-Grade Shiny Apps, Boca Raton: CRC Press."
+  },
+  {
+    "objectID": "r_web_book.html#data-collection",
+    "href": "r_web_book.html#data-collection",
+    "title": "R Web Books",
+    "section": "Data Collection",
+    "text": "Data Collection\n\nPittard, Steve. 2022. Web Scraping with r. https://steviep42.github.io/webscraping/book/."
   }
 ]
