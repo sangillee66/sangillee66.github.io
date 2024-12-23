@@ -117,7 +117,7 @@ bibliography: references.bib
 
 -   한국 R 사용자회, [데이터 과학을 지탱하는 기본기](https://r2bit.com/book_analytics/), 웹북
 
--   김길환, 2023, [R 프로그래밍(개정판)](https://kilhwan.github.io/rprogramming/), 웹북
+-   김길환, 2024, [R 프로그래밍(개정판)](https://kilhwan.github.io/rprogramming/), 웹북
 
 ## Data Analysis and Modeling
 
