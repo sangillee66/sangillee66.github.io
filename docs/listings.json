@@ -2,10 +2,11 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/2024-01-21/index.html",
       "/posts/2024-03-12/index.html",
+      "/posts/2025-01-06/index.html",
       "/posts/2024-01-30/index.html",
-      "/posts/2024-01-23/index.html",
-      "/posts/2024-01-21/index.html"
+      "/posts/2024-01-23/index.html"
     ]
   }
 ]
