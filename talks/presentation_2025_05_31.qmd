@@ -1,0 +1,157 @@
+---
+title: |
+  | [고 김감영 교수 추모 세션]{style="color:#fc8d62;font-size:0.6em"}
+  | [김감영 연구(1)]{style="color:grey;font-size:0.75em"}
+  | [지도학과 인구지리 분야]{style="font-size:1em"}
+author: 이상일(서울대학교 지리교육과 교수)
+date: 2025-5-31
+format: 
+  revealjs:
+    logo:  images/로고 한글.jpg
+    footer: https://sangillee.snu.ac.kr/
+    transition: fade
+    transition-speed: fast
+    margin: 0.05
+    center: false
+    # smaller: false
+    # scrollable: false
+    code-link: true
+    code-overflow: scroll
+    slide-number: true
+    width: 960 * 1.5
+    height: 700 * 1.5
+    # min-scale: 1
+    # max-scale: 1
+    pointer:
+      pointerSize: 20
+      color: red
+    menu: true
+    embed-resources: false
+    theme: [default, custom_hq.scss]
+    revealjs-plugins:
+      - pointer
+code-link: true
+execute: 
+  warning: false
+  error: false
+  freeze: auto  
+dpi: 600
+editor: visual
+# suppress-bibliography: true
+---
+
+## 공통점
+
+-   잘 생긴 지방 남자: 1974, 1966
+
+-   [서울대학교 지리교육과](https://geoedu.snu.ac.kr/): 1992(2001), 1985(1991)
+
+-   [Geography, Ohio State University](https://geography.osu.edu/): 2007, 2001
+
+-   국립대학교 전임강사: 2009, 2002
+
+-   교육상: 2021, [2023](https://www.snu.ac.kr/about/winners/education/2023/544)
+
+-   공간데이터분석, 공간통계학, 지도학, 인구지리학, 교육지리학
+
+    -   3권의 번역서, 9편의 논문
+
+## 지도학과 인구지리 분야
+
+-   지도학 연구
+
+-   웹-기반 인구 이동 탐색 및 시각화 연구
+
+-   인구 이동 연구
+
+# [지도학 연구]{style="color:#66c2a5;font-size:0.85em"}
+
+## 대시매트릭 매핑 연구
+
+![](images/clipboard-1565644434.png){fig-align="center"}
+
+## 
+
+![](images/clipboard-1174479750.png){fig-align="center"}
+
+## 
+
+![](images/clipboard-24122858.png)
+
+## 
+
+![](images/clipboard-1766141306.png){fig-align="center"}
+
+## 세계 지도 연구
+
+![](images/clipboard-2406763841.png)
+
+## 
+
+![](images/clipboard-1322861630.png){fig-align="center"}
+
+# [웹-기반 인구 이동 탐색 및 시각화]{style="color:#66c2a5;font-size:0.85em"}
+
+## 
+
+![](images/clipboard-3744587847.png){fig-align="center"}
+
+## 
+
+![](images/clipboard-813498731.png){fig-align="center"}
+
+## 
+
+![](images/clipboard-1821173458.png){fig-align="center"}
+
+## 
+
+![](images/clipboard-4233016560.png)
+
+## 
+
+![](images/clipboard-2860241129.png)
+
+## 
+
+![](images/clipboard-705052462.png){fig-align="center"}
+
+## 
+
+```{=html}
+<iframe src="flowmapblue_SG1.html" width="100%" height="900px" style="border:none;" loading="eager" sandbox="allow-scripts allow-same-origin" referrerpolicy="no-referrer"></iframe>
+```
+
+# [인구 이동 연구]{style="color:#66c2a5;font-size:0.85em"}
+
+## 인구 이동에 대한 ESDA
+
+![](images/clipboard-3662560387.png){fig-align="center"}
+
+## 
+
+![](images/clipboard-916382172.png){fig-align="center"}
+
+## 
+
+![](images/clipboard-2522161336.png){fig-align="center"}
+
+## 인구 이동과 공간 최적화
+
+![](images/clipboard-1818634348.png){fig-align="center"}
+
+## 
+
+![](images/clipboard-900736123.png){fig-align="center"}
+
+## 인구 이동의 연령별 시공간적 역동성
+
+![](images/clipboard-3408338762.png){fig-align="center"}
+
+## 인구 이동과 교육지리학
+
+![](images/clipboard-1555742283.png){fig-align="center"}
+
+##  {.smaller}
+
+![New Orleans, 2018](images/clipboard-33057677.png){fig-align="center"}
