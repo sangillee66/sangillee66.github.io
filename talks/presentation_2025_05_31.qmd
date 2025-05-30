@@ -38,6 +38,8 @@ execute:
 dpi: 600
 editor: visual
 # suppress-bibliography: true
+editor_options: 
+  chunk_output_type: console
 ---
 
 ## 공통점
@@ -76,7 +78,7 @@ editor: visual
 
 ## 
 
-![](images/clipboard-24122858.png)
+![](images/clipboard-24122858.png){fig-align="center"}
 
 ## 
 
