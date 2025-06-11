@@ -73,5 +73,5 @@ about:
 
 -   2002, E. Williard and Ruby S. Miller Fellow Award, [Department of Geography](https://geography.osu.edu/), [The Ohio State University](https://www.osu.edu/)
 
--   2001, [Award of Student Paper Competition](https://aag-sam.github.io/awards.html), [Spatial Analysis and Modeling (SAM) Specialty Group](https://aag-sam.github.io/) of [American Association of Geographers](https://www.aag.org/), The 97th Annual Meeting, New York
+-   2001, [Award of Best Student Paper](https://aag-sam.github.io/awards.html), [Spatial Analysis and Modeling (SAM) Specialty Group](https://aag-sam.github.io/) of [American Association of Geographers](https://www.aag.org/), The 97th Annual Meeting, New York
 :::
