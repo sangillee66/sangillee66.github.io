@@ -67,11 +67,11 @@ about:
 
 -   2012, Excellence Teaching Award, [College of Education](https://edu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
 
--   2008, Commendation of The Ministry of Land, Infrastructure and Transport
+-   2008, Commendation of The Ministry of Land, Infrastructure and Transport, South Korea
 
--   2007, Outstanding Young Professor Award, College of Education, [Seoul National University](https://www.snu.ac.kr/)
+-   2007, Outstanding Young Professor Award, [College of Education](https://edu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
 
 -   2002, E. Williard and Ruby S. Miller Fellow Award, [Department of Geography](https://geography.osu.edu/), [The Ohio State University](https://www.osu.edu/)
 
--   2001, Award of Best Student Paper, [Spatial Analysis and Modeling (SAM) Specialty Group](http://sam-aag.org/) of [American Association of Geographers](https://www.aag.org/), The 97th Annual Meeting, New York
+-   2001, Award of Best Student Paper, [Spatial Analysis and Modeling (SAM) Specialty Group](https://aag-sam.github.io/) of [American Association of Geographers](https://www.aag.org/), The 97th Annual Meeting, New York
 :::
