@@ -52,9 +52,9 @@ bibliography: references.bib
 
 -   Sievert, Carson. 2020. [*Interactive Web-Based Data Visualization with R, Plotly, and Shiny*](https://plotly-r.com/). Boca Raton: CRC.
 
--   Dorman, Michael. 2024. *Introduction to Web Mapping*. [https://geobgu.xyz/web-mapping2/index.html](https://geobgu.xyz/web-mapping2/).
+-   Tennekes, Martijn, and Jakub Nowosad. 2025. *Elegant and Informative Maps with Tmap*. <https://tmap.geocompx.org/>
 
--   Tennekes, Martijn, and Jakub Nowosad. 2021. *Elegant and Informative Maps with Tmap*. <https://r-tmap.github.io/tmap-book/>.
+-   Dorman, Michael. 2024. *Introduction to Web Mapping*. [https://geobgu.xyz/web-mapping2/index.html](https://geobgu.xyz/web-mapping2/).
 
 -   Protić, Milan Kilibarda i Dragutin. 2019. *Introduction to Geovisualization and Web Cartography*. <https://osgl.grf.bg.ac.rs/books/gvvk-en/>.
 
