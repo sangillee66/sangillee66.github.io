@@ -125,6 +125,12 @@ bibliography: references.bib
 
 -   Irizarry, Rafael A. 2024. *Introduction to Data Science: Statistics and Prediction Algorithms Through Cast Studies*. <https://rafalab.dfci.harvard.edu/dsbook-part-2/>
 
+-   Bischl, Bernd, Raphael Sonabend, Lars Kotthoff, and Michel Lang. 2024. [*Applied Machine Learning Using Mlr3 in R*](https://mlr3book.mlr-org.com/). Boca Raton: CRC Press.
+
+-   Keydana, Sigrid. 2023. [*Deep Learning and Scientific Computing with R Torch*](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/). Boca Raton: CRC Press.
+
+-   Hvitfeldt, Emil. 2023. “An Introduction to Statistical Learning with Applications in R: Tidymodels Labs.” <https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/>.
+
 -   Tipton, Elizabeth, Arend M. Kuyper, and Kaitlyn G. Fitzgerald. 2022. *Introduction to Statistics and Data Science*. <https://nustat.github.io/intro-stat-ds/>.
 
 -   Kuhn, Max, and Julia Silge. 2022. [*Tidy Modeling with R: A Framework for Modeling in the Tidyverse*](https://www.tmwr.org/). 1st edition. Sebastopol, CA: O’Reilly Media.
