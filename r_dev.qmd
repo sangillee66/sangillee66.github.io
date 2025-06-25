@@ -8,10 +8,20 @@ bibliography: references.bib
 
 ## R Shiny Web Applications
 
+### Thiessen Polygon Maker
+
+-   This application enables users to generate Thiessen polygons from their own point and boundary data, which can be uploaded as ESRI shapefiles or KML files.
+
+-   Users can download the generated Thiessen polygons in ESRI shapefile format.
+
+-   Link: <https://sangillee.shinyapps.io/ThiessenPolygon/>
+
 ### Spatial Kernel Density Estimation
 
 -   This application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet.
+
 -   It utilizes an R package, [`SpatialKDE`](https://cran.r-project.org/web/packages/SpatialKDE/vignettes/SpatialKDE.html), which is based on [QGIS Heatmap tool](https://grindgis.com/software/heat-map-using-qgis).
+
 -   Link: <https://sangillee.shinyapps.io/SpatialKernelDensityEstimation/>
 
 ## R Packages
@@ -19,5 +29,7 @@ bibliography: references.bib
 ### `salsa`
 
 -   `salsa` stands for [S]{.underline} [a]{.underline}nd [L]{.underline} for [s]{.underline}patial [a]{.underline}utocorrelation. This is basically an R implementation of *S* and *L* statistics developed by me [@lee2001; @lee2004; @lee2009a].
+
 -   It also includes other functions associated with spatial autocorrelation.
--   It will be uploaded in a month.
+
+-   It is expected to be uploaded soon.
