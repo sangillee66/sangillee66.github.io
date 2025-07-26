@@ -1,0 +1,8 @@
+---
+title: 지리공간정보 교육 프로그램
+lang: ko
+author: "이상일"
+date-modified: last-modified
+number-sections: false
+---
+
