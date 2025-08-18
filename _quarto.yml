@@ -37,10 +37,9 @@ website:
 format:
   html:
     theme: 
-      light: flatly
-      dark: darkly
-    # css: styles.css
-    css: custom_basicpretendard.scss
+      light: [flatly, custom_basic_pretendard.scss]
+      dark: [darkly, custom_basic_pretendard.scss]
+    css: styles.css
     toc: true
 
 execute:
