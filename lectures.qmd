@@ -5,6 +5,39 @@ date-modified: last-modified
 title-block-banner: images/banner_lectures_new.jpg
 ---
 
+## Autumn Semester in 2025
+
+### Spatial Analysis and Geography Education <br />공간분석과 지리교육
+
+-   Course code: 713.436
+-   Undergraduate, offered by [Department of Geography Education](https://geoedu.snu.ac.kr/)
+-   Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
+    -   [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
+-   TA: Seowoo Park
+-   Place: 10-102
+-   Time: 11:00 - 12:15, Mondays & Wednesdays
+
+### Topics in the Geography of Education <br />교육지리학특강
+
+-   Course code: M1862.000100
+-   Graduate, offered by [Department of Geography Education](https://geoedu.snu.ac.kr/)
+-   Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
+    -   [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
+-   TA: Seowoo Park
+-   Place: 10-102
+-   Time: 18:00 - 21:00, Thursdays
+
+### Designing Human and Social Education Contents for AI Convergence Education <br />AI 융합교육을 위한 인문사회 콘텐츠 설계
+
+-   Course code: M3449.000300
+-   Graduate, offered by [Department of AI-Integrated Education](https://aied.snu.ac.kr/) (AI융합교육학과)
+-   Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
+    -   [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
+-   TA: Woohyung Kim, Seowoo Park, Haeun Lee
+-   Place: 10-102
+-   Time: 18:30 - 21:20, Tuesdays
+-   [Syllabus](classes/2024_1_AI_Edu.qmd)
+
 ## Spring Semester in 2025
 
 ### Introduction to Population Geography <br />인구지리학개론
