@@ -1,1 +1,77 @@
+---
+title: "Sang-Il Lee"
+subtitle: |
+  | Spatial Data Science
+  |
+  | Spatial Data Analysis and Spatial Statistics
+  | Cartography and GeoVisualization
+  | Geographic Information Systems (GIS)
+  |
+  | Population Geography and Spatial Demography
+  | Geography of Education
+lightbox: true
+image: me.png
+about:
+  template: trestles
+  links:
+    - text: Email
+      icon: envelope
+      url: "mailto:si_lee@snu.ac.kr"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/sangillee66"
+---
 
+::: column-page
+## Current Position
+
+-   Professor, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   Adjunct Professor, [Department of AI-Integrated Education](https://aied.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   Adjunct Professor, [Integrated Major of Applied Data Science](https://gsds.snu.ac.kr/integrated/), [Graduate School of Data Science](https://gsds.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+## Education
+
+-   Ph.D., 2001, [Department of Geography](https://geography.osu.edu/), [The Ohio State University](https://www.osu.edu/)
+
+    -   Advisor: [Lawrence Alan Brown](https://u.osu.edu/larryslegacy/2014/12/08/hello-world/) (Novermber 22, 1935 – April 6, 2014)
+
+    -   Dissertation: Spatial Association Measures for an ESDA-GIS Framework: Developments, Significance Tests, and Applications to Spatio-Temporal Income Dynamics of U.S. Labor Market Areas, 1969–1999. [{{< bi file-pdf-fill >}}](papers/2001_03_Dissertation_Lee.pdf)
+
+-   M.A., 1991, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+    -   Advisor: [Ki-Suk Lee](https://www.nas.go.kr/page/3a27a6a3-d008-46cf-8ce2-c1789be74dd8?mber_key=10000053&view=Y&view_url=%2Fmember%2Fview%2Flist&redirect_url=%2Fpage%2F3a27a6a3-d008-46cf-8ce2-c1789be74dd8) (Emeritus Professor, [Seoul National University](https://www.snu.ac.kr/) \| A Member of [The National Academy of Sciences](https://www.nas.go.kr/))
+
+    -   Thesis: Geographical Implications of Realism and Relative Autonomy of Space [{{< bi file-pdf-fill >}}](papers/1990_01_지리교육논집_이상일.pdf)
+
+-   B.A., 1989, [Department of Geography Education](https://geoedu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+## Careers
+
+-   September, 2003 - now: Full-time lecturer, Assistant professor, Associate professor, Full professor at [Seoul National University](https://www.snu.ac.kr/)
+
+-   March, 2002 - August, 2003: Full-time lecturer, [Kangwon National University](https://wwwk.kangwon.ac.kr/)
+
+-   January, 2021 - December, 2022: President, [The Association of Korean Geographers](http://www.koreangeography.or.kr/)
+
+-   January, 2015 - December, 2016: President, [The Korean Cartographic Association](http://www.cartography.or.kr/)
+
+## Awards and Honors
+
+-   2023, [Excellence Teaching Award](https://www.snu.ac.kr/about/winners/education/2023/544), [Seoul National University](https://www.snu.ac.kr/) [\[서울대학교 학술연구교육상(교육부문)\]](https://www.snu.ac.kr/about/winners/education/2023/544)
+
+-   2021, Commendation for 20-Year-Long Service, [Seoul National University](https://www.snu.ac.kr/)
+
+-   2013, Excellent Science and Technology Paper Award, [The Korean Federation of Science and Technology Societies](https://www.kofst.or.kr/)
+
+-   2012, Excellence Teaching Award, [College of Education](https://edu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   2008, Commendation of The Ministry of Land, Infrastructure and Transport, The Government of South Korea
+
+-   2007, Outstanding Young Professor Award, [College of Education](https://edu.snu.ac.kr/), [Seoul National University](https://www.snu.ac.kr/)
+
+-   2002, E. Williard and Ruby S. Miller Fellow Award, [Department of Geography](https://geography.osu.edu/), [The Ohio State University](https://www.osu.edu/)
+
+-   2001, [Award of Best Student Paper](https://aag-sam.github.io/awards.html), [Spatial Analysis and Modeling (SAM) Specialty Group](https://aag-sam.github.io/) of [American Association of Geographers](https://www.aag.org/), The 97th Annual Meeting, New York
+:::
