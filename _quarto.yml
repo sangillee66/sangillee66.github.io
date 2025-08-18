@@ -40,7 +40,7 @@ format:
       light: flatly
       dark: darkly
     # css: styles.css
-    css: custom_basic_noto.scss
+    css: custom_basicpretendard.scss
     toc: true
 
 execute:
