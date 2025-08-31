@@ -1404,7 +1404,7 @@
     "href": "r_web_book.html#data-visualization",
     "title": "R Web Books",
     "section": "Data Visualization",
-    "text": "Data Visualization\n\nWickham, Hadley. 2016. ggplot2: Elegant Graphics for Data Analysis. 2nd edition, Switzerland: Springer.\nKabacoff, Robert, 2024, Modern Data Visualization with R, Boca Raton: CRC Press.\nDougherty, Jack, and Ilya Ilyankou, 2025, Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code, Boston: O’Reilly.\nSievert, C., 2020, Interactive Web-Based Data Visualization with R, plotly, and shiny, Boca Raton: CRC Press.\nWilke, C., 2019, Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures, Sebastopol, CA: O’Reilly."
+    "text": "Data Visualization\n\nWickham, Hadley. 2016. ggplot2: Elegant Graphics for Data Analysis. 2nd edition, Switzerland: Springer.\nKabacoff, Robert, 2024, Modern Data Visualization with R, Boca Raton: CRC Press.\nDougherty, Jack, and Ilya Ilyankou, 2025, Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code, Boston: O’Reilly.\nSievert, C., 2020, Interactive Web-Based Data Visualization with R, plotly, and shiny, Boca Raton: CRC Press.\nWilke, C., 2019, Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures, Sebastopol, CA: O’Reilly.\n한국R사용자회, 2022, 데이터 시각화, 오픈전자책."
   },
   {
     "objectID": "r_web_book.html#data-communication",
@@ -1671,5 +1671,12 @@
     "title": "Talks",
     "section": "2024년",
     "text": "2024년\n\n2024년 AIEDAP 수도권역ㆍ충청권역 예비교원 양성기관 교수자 워크숍\n\n제목: 중등 예비교원 AI융합교육 프로그램 개발 사례(지리)\n일시: 2024년 10월 26일(토) 11:50~12:10\n장소: 서울 프레지던트 호텔\n자료\n\n강연자료\n프로그램 홈페이지\n\n\n\n\n2024 중등 지리과 1급 정교사 자격연수\n\n제목: AIㆍ디지털 사회의 지리교과\n일시: 2024년 7월 23일(화) 9:00~11:50\n장소: 서울특별시교육청교육연수원 교육동 303호\n자료\n\n강의자료\n대시보드형 디지털 교수-학습자료 예시"
+  },
+  {
+    "objectID": "aa.html",
+    "href": "aa.html",
+    "title": "Hello, Tutorial!",
+    "section": "",
+    "text": "This code computes the answer to one plus one, change it so it computes two plus two:\n\n\n1 + 1\n\n\n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   }
 ]

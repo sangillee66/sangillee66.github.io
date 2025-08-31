@@ -167,6 +167,8 @@ bibliography: references.bib
 
 -   Wilke, C., 2019, [*Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures*](https://clauswilke.com/dataviz/), Sebastopol, CA: O’Reilly.
 
+-   한국R사용자회, 2022, [데이터 시각화](https://r2bit.com/book_viz/), 오픈전자책.
+
 ## Data Communication
 
 -   Wickham, Hadley, 2021, [*Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R*](https://mastering-shiny.org/)*,* Sebastopol, CA: O’REILLY.
