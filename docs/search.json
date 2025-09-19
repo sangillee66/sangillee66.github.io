@@ -1678,5 +1678,12 @@
     "title": "Hello, Tutorial!",
     "section": "",
     "text": "This code computes the answer to one plus one, change it so it computes two plus two:\n\n\n1 + 1\n\n\n\n\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "r_dev.html#quarto-r-interactive-dashboards",
+    "href": "r_dev.html#quarto-r-interactive-dashboards",
+    "title": "R Development",
+    "section": "Quarto-R Interactive Dashboards",
+    "text": "Quarto-R Interactive Dashboards\n\nQuantitative Geography and Spatial Data Analysis\n\nLink: https://sangillee.snu.ac.kr/dashboard_sda/\n\nPopulation Geography and Spatial Demography\n\nLink: https://sangillee.snu.ac.kr/dashboard_popgeo/"
   }
 ]

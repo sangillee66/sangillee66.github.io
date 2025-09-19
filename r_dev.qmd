@@ -33,3 +33,13 @@ bibliography: references.bib
 -   It also includes other functions associated with spatial autocorrelation.
 
 -   It is expected to be uploaded soon.
+
+## Quarto-R Interactive Dashboards
+
+### Quantitative Geography and Spatial Data Analysis
+
+-   Link: <https://sangillee.snu.ac.kr/dashboard_sda/>
+
+### Population Geography and Spatial Demography
+
+-   Link: <https://sangillee.snu.ac.kr/dashboard_popgeo/>
