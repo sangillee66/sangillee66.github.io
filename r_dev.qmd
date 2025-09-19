@@ -24,16 +24,6 @@ bibliography: references.bib
 
 -   Link: <https://sangillee.shinyapps.io/SpatialKernelDensityEstimation/>
 
-## R Packages
-
-### `salsa`
-
--   `salsa` stands for [S]{.underline} [a]{.underline}nd [L]{.underline} for [s]{.underline}patial [a]{.underline}utocorrelation. This is basically an R implementation of *S* and *L* statistics developed by me [@lee2001; @lee2004; @lee2009a].
-
--   It also includes other functions associated with spatial autocorrelation.
-
--   It is expected to be uploaded soon.
-
 ## Quarto-R Interactive Dashboards
 
 ### Quantitative Geography and Spatial Data Analysis
@@ -43,3 +33,13 @@ bibliography: references.bib
 ### Population Geography and Spatial Demography
 
 -   Link: <https://sangillee.snu.ac.kr/dashboard_popgeo/>
+
+## R Packages
+
+### `salsa`
+
+-   `salsa` stands for [S]{.underline} [a]{.underline}nd [L]{.underline} for [s]{.underline}patial [a]{.underline}utocorrelation. This is basically an R implementation of *S* and *L* statistics developed by me [@lee2001; @lee2004; @lee2009a].
+
+-   It also includes other functions associated with spatial autocorrelation.
+
+-   It is expected to be uploaded soon.
