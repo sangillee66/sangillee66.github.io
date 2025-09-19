@@ -16,6 +16,7 @@ title-block-banner: images/banner_lectures_new.jpg
 -   TA: Seowoo Park
 -   Place: 10-102
 -   Time: 11:00 - 12:15, Mondays & Wednesdays
+-   [공간분석 인터랙티브 대시보드](https://sangillee.snu.ac.kr/dashboard_sda/)
 
 ### Topics in the Geography of Education <br />교육지리학특강
 
@@ -36,7 +37,6 @@ title-block-banner: images/banner_lectures_new.jpg
 -   TA: Woohyung Kim, Seowoo Park, Haeun Lee
 -   Place: 10-102
 -   Time: 18:30 - 21:20, Tuesdays
--   [Syllabus](classes/2024_1_AI_Edu.qmd)
 
 ## Spring Semester in 2025
 
@@ -49,6 +49,7 @@ title-block-banner: images/banner_lectures_new.jpg
 -   TA: Hyemin Jeon
 -   Place: 10-102
 -   Time: 10:30 - 11:45, Mondays & Wednesdays
+-   [인구지리학 인터랙티브 대시보드](https://sangillee.snu.ac.kr/dashboard_popgeo/)
 
 ### Remote Sensing and Geographic Data Analysis <br />원격탐사와 지리자료분석
 
