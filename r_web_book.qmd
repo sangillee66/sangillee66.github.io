@@ -151,6 +151,8 @@ bibliography: references.bib
 
 -   *Introduction to Bayesian Inference and Statistical Learning*. <https://bookdown.org/lehre_rdusl/BayesLearn/>
 
+-   Francom, Jerid. 2024. [*An Introduction to Quantitative Text Analysis for Linguistics: Reproducible Research Using R*](https://qtalr.com/book/). Routledge.
+
 -   Silge, Julia, and David Robinson. 2017. [*Text Mining with R: A Tidy Approach*](https://www.tidytextmining.com/). 1st edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
 
 -   한국R사용자회ㆍ안도현, 2022, [R 텍스트마이닝](https://r2bit.com/book_tm/), 오픈전자책.
