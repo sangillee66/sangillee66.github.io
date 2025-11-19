@@ -60,15 +60,13 @@ bibliography: references.bib
 
 -   Sievert, Carson. 2020. [*Interactive Web-Based Data Visualization with R, Plotly, and Shiny*](https://plotly-r.com/). Boca Raton: CRC.
 
--   Tennekes, Martijn, and Jakub Nowosad. 2025. *Elegant and Informative Maps with Tmap*. <https://tmap.geocompx.org/>
+-   Tennekes, Martijn, and Jakub Nowosad. 2025. *Spatial Data Visualization with tmap: A Practical Guide to Thematic Mapping in R*. <https://tmap.geocompx.org/>
 
--   Dorman, Michael. 2024. *Introduction to Web Mapping*. [https://geobgu.xyz/web-mapping2/index.html](https://geobgu.xyz/web-mapping2/).
+-   Dorman, Michael. 2025. *Introduction to Web Mapping*. [https://geobgu.xyz/web-mapping2/index.html](https://geobgu.xyz/web-mapping2/).
 
 -   Protić, Milan Kilibarda i Dragutin. 2019. *Introduction to Geovisualization and Web Cartography*. <https://osgl.grf.bg.ac.rs/books/gvvk-en/>.
 
 -   Fidan, Emine. *Guide to Creating Interactive Maps in R*. <https://bookdown.org/eneminef/DRR_Bookdown/>.
-
--   Dorman, Michael. 2024. *Introduction to Web Mapping*. [https://geobgu.xyz/web-mapping2/index.html](https://geobgu.xyz/web-mapping2/).
 
 -   Hahn, Nico. 2020. *Making Maps with R*. <https://bookdown.org/nicohahn/making_maps_with_r5/docs/introduction.html>.
 
@@ -80,13 +78,13 @@ bibliography: references.bib
 
 -   Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2025. [*Geocomputation with R*](https://r.geocompx.org/index.html). 2nd edition. Boca Raton: CRC.
 
--   Gimond, Manuel. 2023. *Intro to GIS and Spatial Analysis*. [https://mgimond.github.io/Spatial/index.html](https://mgimond.github.io/Spatial/).
+-   Gimond, Manuel. 2025. *Intro to GIS and Spatial Analysis*. [https://mgimond.github.io/Spatial/index.html](https://mgimond.github.io/Spatial/).
+
+-   Engel, Claudia A. 2025. *Using Spatial Data with R*. <https://cengel.github.io/R-spatial/>.
 
 -   Roelandt, Nicolas and Jakub Nowosad. 2022. *Getting Started with R and R-Spatial*. <https://bakaniko.github.io/foss4g2022-getting-started-rspatial/>.
 
--   Engel, Claudia A. 2024. *Using Spatial Data with R*. <https://cengel.github.io/R-spatial/>.
-
--   Mieno, Taro.  *R as GIS for Economists*. <https://tmieno2.github.io/R-as-GIS-for-Economists-Quarto/>.
+-   Mieno, Taro. *R as GIS for Economists*. <https://tmieno2.github.io/R-as-GIS-for-Economists-Quarto/>.
 
 -   Branion-Calles, Michael. 2021. *A Crash Course in Geographic Information Systems (GIS) Using R*. <https://bookdown.org/michael_bcalles/gis-crash-course-in-r/>.
 
@@ -143,7 +141,7 @@ bibliography: references.bib
 
 -   Tipton, Elizabeth, Arend M. Kuyper, and Kaitlyn G. Fitzgerald. 2022. *Introduction to Statistics and Data Science*. <https://nustat.github.io/intro-stat-ds/>.
 
--   Kuhn, Max, and Julia Silge. 2022. [*Tidy Modeling with R: A Framework for Modeling in the Tidyverse*](https://www.tmwr.org/). 1st edition. Sebastopol, CA: O’Reilly Media.
+-   Kuhn, Max, and Julia Silge. 2023. [*Tidy Modeling with R: A Framework for Modeling in the Tidyverse*](https://www.tmwr.org/). 1st edition. Sebastopol, CA: O’Reilly Media.
 
 -   Boehmke, Brad, and Brandon M. Greenwell. 2019. [*Hands-on Machine Learning with R*](https://bradleyboehmke.github.io/HOML/). 1st edition. Boca Raton London New York: Chapman; Hall/CRC.
 
