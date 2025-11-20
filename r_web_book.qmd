@@ -123,7 +123,11 @@ bibliography: references.bib
 
 -   Estrellado, Ryan A., Emily A. Freer, Joshua M. Rosenberg, and Isabella C. Velásquez. 2024. *Data Science in Education Using R*. 2nd ed. <https://datascienceineducation.com/>.
 
--   한국 R 사용자회, [데이터 과학을 지탱하는 기본기](https://r2bit.com/book_analytics/), 웹북
+-   한국 R 사용자회, [데이터 과학을 지탱하는 기본기](https://r2bit.com/book_analytics/), 웹북
+
+-   김하성, 2021, [데이터 사이언스를 위한 R 프로그래밍](https://greendaygh.github.io/Rprog2021/), 웹북
+
+-   김하성, 2022, [한국생명공학연구원 연구데이터 분석과정 R](https://greendaygh.github.io/kribbr2022/), 웹북
 
 -   김길환, 2024, [R 프로그래밍(개정판)](https://kilhwan.github.io/rprogramming/), 웹북
 
@@ -176,6 +180,8 @@ bibliography: references.bib
 -   Granjon, David, 2022, [*Outstanding User Interfaces with Shiny*](https://unleash-shiny.rinterface.com/), Boaca Raton: CRC Press.
 
 -   Fay, Colin, Vincent Guyader, Sebastien Rochette, and Cervan Girard. 2022, [*Engineering Production-Grade Shiny Apps*](https://engineering-shiny.org/), Boca Raton: CRC Press.
+
+-   Robinson, Loan, [R Shiny Applications in Finance, Medicine Pharma and Education Industry](https://bookdown.org/loankimrobinson/rshinybook/)
 
 ## Data Collection
 
