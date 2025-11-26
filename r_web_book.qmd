@@ -121,6 +121,10 @@ bibliography: references.bib
 
 -   Timbers, Tiffany, Trevor Campbell, and Melissa Lee. 2024. [*Data Science: A First Introduction*](https://datasciencebook.ca/). 1st edition. Boca Raton: Chapman; Hall/CRC.
 
+-    Hansjörg Neth. 2025. [Introduction to Data Science](https://bookdown.org/hneth/i2ds/), University of Konstanz, The Netherlands.
+
+-   Hansjörg Neth. 2025. [Data Science for Psychologists](https://bookdown.org/hneth/ds4psy/), University of Konstanz, The Netherlands.
+
 -   Estrellado, Ryan A., Emily A. Freer, Joshua M. Rosenberg, and Isabella C. Velásquez. 2024. *Data Science in Education Using R*. 2nd ed. <https://datascienceineducation.com/>.
 
 -   한국 R 사용자회, [데이터 과학을 지탱하는 기본기](https://r2bit.com/book_analytics/), 웹북
