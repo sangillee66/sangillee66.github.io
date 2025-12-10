@@ -30,6 +30,7 @@ title-block-banner: images/banner_works_new.jpg
 
 ### 2025
 
+-   이상일ㆍ이소영, 2025, “TPACK-DBL 프레임워크에 기반한 지리 교사의 AIㆍ디지털 역량 강화 프로그램 – 인터랙티브 교수ㆍ학습 웹 앱의 개발과 적용 –,” 한국지리환경교육학회지, 33(4), 53-72. <https://doi.org/10.17279/jkagee.2025.33.4.53>. [{{< bi file-pdf-fill >}}](papers/2025_03_한국지리환경교육학회지_이상일_이소영.pdf)
 -   Sechang Kim and Sang-Il Lee, 2025, "An extension of migration effectiveness indices: Accounting for the impact of migration on population structure," *Population, Space and Place*, 31(5):e70049. <http://dx.doi.org/10.1002/psp.70049>. [{{< bi file-pdf-fill >}}](papers/2025_02_PSP_김세창_이상일.pdf)
 -   이상일ㆍ고보경ㆍ고준보ㆍ김세창ㆍ김우형ㆍ임철일, 2025, “사회과 예비 교원의 디지털 역량 향상을 위한 프로그래밍 기반 교육프로그램 개발,” 교육공학연구, 41(1), 80-109. <http://dx.doi.org/10.17232/KSET.41.1.79>. [{{< bi file-pdf-fill >}}](papers/2025_01_이상일_고보경_고준보_김세창_김우형_임철일.pdf)
 
