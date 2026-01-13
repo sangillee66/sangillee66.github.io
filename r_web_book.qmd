@@ -129,13 +129,13 @@ bibliography: references.bib
 
 -   Estrellado, Ryan A., Emily A. Freer, Joshua M. Rosenberg, and Isabella C. Velásquez. 2024. *Data Science in Education Using R*. 2nd ed. <https://datascienceineducation.com/>.
 
+-   김길환, 2024, [R 프로그래밍 3판](https://kilhwan.github.io/rprogramming/), 웹북
+
 -   한국 R 사용자회, [데이터 과학을 지탱하는 기본기](https://r2bit.com/book_analytics/), 웹북
 
 -   김하성, 2021, [데이터 사이언스를 위한 R 프로그래밍](https://greendaygh.github.io/Rprog2021/), 웹북
 
 -   김하성, 2022, [한국생명공학연구원 연구데이터 분석과정 R](https://greendaygh.github.io/kribbr2022/), 웹북
-
--   김길환, 2024, [R 프로그래밍(개정판)](https://kilhwan.github.io/rprogramming/), 웹북
 
 ## Data Analysis and Modeling
 
@@ -169,6 +169,8 @@ bibliography: references.bib
 
 -   Wickham, Hadley. 2016. [*ggplot2: Elegant Graphics for Data Analysis*](https://ggplot2-book.org/). 2nd edition, Switzerland: Springer.
 
+-   Rennie, Nicola, 2026, [*The Art of Data Visualization with ggplot2: The TidyTuesday Cookbook*](https://nrennie.rbind.io/art-of-viz/), Boca Raton: CRC Press.
+
 -   Kabacoff, Robert, 2024, [*Modern Data Visualization with R*](https://rkabacoff.github.io/datavis/), Boca Raton: CRC Press.
 
 -   Dougherty, Jack, and Ilya Ilyankou, 2025, [*Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code*](https://handsondataviz.org/), Boston: O’Reilly.
@@ -181,17 +183,33 @@ bibliography: references.bib
 
 -   Wilke, C., 2019, [*Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures*](https://clauswilke.com/dataviz/), Sebastopol, CA: O’Reilly.
 
+-   Dougherty, Jack, and Ilya Ilyankou, 2025, [*Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code*](https://handsondataviz.org/), Boston: O’Reilly. (김태현 옮김, 2022, [핸즈온 데이터 시각화](https://www.yes24.com/product/goods/110225484), 서울: 한빛미디어.)
+
+-   Yau, Nathan. 2024. [*Visualize This: The FlowingData Guide to Design, Visualization, and Statistics*](https://www.google.co.kr/books/edition/Visualize_This/CB9XRIv9oigC?hl=ko&gbpv=0). 2nd edition, Hoboken: Wiley. (한상택 옮김, 2025, [데이터리터러시를 높이는 데이터 시각화: 숫자를 메시지로 바꾸는 스토리텔링과 그래프 작성](https://www.yes24.com/product/goods/152302455), 서울: 인사이트.)
+
+-   Allchin, Carl. 2021. [*Communicating with Data: Making Your Case with Data*](https://www.google.co.kr/books/edition/Communicating_with_Data/4eZFEAAAQBAJ?hl=ko&gbpv=0). O’Reilly Media. (이한호 옮김, 2022, [데이터로 전문가처럼 말하기: 효율적 의사 전달을 위한 데이터 시각화와 비즈니스 스토리텔링의 기술](https://www.yes24.com/product/goods/112230753), 서울: 한빛미디어.)
+
+-   Wilke, Claus. 2019. [*Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures*](https://clauswilke.com/dataviz/). O’Reilly Media. (권혜정 옮김, 2020, [데이터 시각화 교과서: 데이터 분석의 본질을 살리는 그래프와 차트 제작의 기본 원리와 응용](https://www.yes24.com/product/goods/87631760), 안양: 책만.)
+
+-   Cairo, Alberto. 2016. [*The Truthful Art: Data, Charts, and Maps for Communication*](https://www.google.co.kr/books/edition/The_Truthful_Art/8dKKCwAAQBAJ?hl=ko&gbpv=0). New Riders. (이제원 옮김, 2019, [진실을 드러내는 데이터 시각화의 과학과 예술](https://www.yes24.com/product/goods/72254343), 서울: 인사이트.)
+
 -   한국R사용자회, 2022, [데이터 시각화](https://r2bit.com/book_viz/), 오픈전자책.
 
 ## Data Communication
 
--   Wickham, Hadley, 2021, [*Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R*](https://mastering-shiny.org/)*,* Sebastopol, CA: O’REILLY.
+-   Wickham, Hadley, 2021, [*Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R*](https://mastering-shiny.org/)*,* Sebastopol, CA: O’REILLY. (이영록 옮김, 2022, [R 사용자를 위한 Shiny 마스터 가이드](https://www.yes24.com/Product/Goods/116598818), 서울: 인사이트.)
 
 -   Granjon, David, 2022, [*Outstanding User Interfaces with Shiny*](https://unleash-shiny.rinterface.com/), Boaca Raton: CRC Press.
 
 -   Fay, Colin, Vincent Guyader, Sebastien Rochette, and Cervan Girard. 2022, [*Engineering Production-Grade Shiny Apps*](https://engineering-shiny.org/), Boca Raton: CRC Press.
 
 -   Robinson, Loan, [R Shiny Applications in Finance, Medicine Pharma and Education Industry](https://bookdown.org/loankimrobinson/rshinybook/)
+
+## Text Mining and Natural Language Processing
+
+-   한국 R 사용자회ㆍ안도현, 2022, [R 텍스트마이닝](https://r2bit.com/book_tm/), 오픈전자책.
+
+-   김영우, 2021, [쉽게 배우는 R 텍스트 마이닝](https://www.yes24.com/Product/Goods/97126355), 서울: 이지스퍼블리싱.
 
 ## Data Collection
 
