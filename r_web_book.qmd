@@ -159,12 +159,6 @@ bibliography: references.bib
 
 -   *Introduction to Bayesian Inference and Statistical Learning*. <https://bookdown.org/lehre_rdusl/BayesLearn/>
 
--   Francom, Jerid. 2024. [*An Introduction to Quantitative Text Analysis for Linguistics: Reproducible Research Using R*](https://qtalr.com/book/). Routledge.
-
--   Silge, Julia, and David Robinson. 2017. [*Text Mining with R: A Tidy Approach*](https://www.tidytextmining.com/). 1st edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
-
--   한국R사용자회ㆍ안도현, 2022, [R 텍스트마이닝](https://r2bit.com/book_tm/), 오픈전자책.
-
 ## Data Visualization
 
 -   Wickham, Hadley. 2016. [*ggplot2: Elegant Graphics for Data Analysis*](https://ggplot2-book.org/). 2nd edition, Switzerland: Springer.
@@ -207,7 +201,11 @@ bibliography: references.bib
 
 ## Text Mining and Natural Language Processing
 
--   한국 R 사용자회ㆍ안도현, 2022, [R 텍스트마이닝](https://r2bit.com/book_tm/), 오픈전자책.
+-   Francom, Jerid. 2024. [*An Introduction to Quantitative Text Analysis for Linguistics: Reproducible Research Using R*](https://qtalr.com/book/). Routledge.
+
+-   Silge, Julia, and David Robinson. 2017. [*Text Mining with R: A Tidy Approach*](https://www.tidytextmining.com/). 1st edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+
+-   한국R사용자회ㆍ안도현, 2022, [R 텍스트마이닝](https://r2bit.com/book_tm/), 오픈전자책.
 
 -   김영우, 2021, [쉽게 배우는 R 텍스트 마이닝](https://www.yes24.com/Product/Goods/97126355), 서울: 이지스퍼블리싱.
 
