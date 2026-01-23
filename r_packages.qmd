@@ -1,0 +1,131 @@
+---
+title: "R Packages"
+subtitle: "Classified Lists"
+date-modified: last-modified
+title-block-banner: images/banner_r_dev_new.jpg
+bibliography: references.bib
+---
+
+## Tidyverse
+
+### Homepage
+
+-   [Homepage](https://tidyverse.org/)
+
+-   [Tidy design principles](https://design.tidyverse.org/)
+
+-   [Tidyverse style guide](https://style.tidyverse.org/)
+
+### Core tidyverse
+
+-   [ggplot2](https://ggplot2.tidyverse.org/)
+
+-   [dplyr](https://dplyr.tidyverse.org/)
+
+-   [tidyr](https://tidyr.tidyverse.org/)
+
+-   [readr](https://readr.tidyverse.org/)
+
+-   [purrr](https://purrr.tidyverse.org/)
+
+-   [tibble](https://tibble.tidyverse.org/)
+
+-   [stringr](https://stringr.tidyverse.org/)
+
+-   [forcats](https://forcats.tidyverse.org/)
+
+-   [lubridate](https://lubridate.tidyverse.org/)
+
+### Secondary tidyverse
+
+-   Import: [readxl](https://readxl.tidyverse.org/), [googlesheets4](https://googlesheets4.tidyverse.org/), [googledrive](https://googledrive.tidyverse.org/), [rvest](https://rvest.tidyverse.org/), [httr2](https://httr2.r-lib.org/)
+
+-   Wrangle: [dbplyr](https://dbplyr.tidyverse.org/), [dtplyr](https://dtplyr.tidyverse.org/), [duckplyr](https://duckplyr.tidyverse.org/)
+
+-   Program: [glue](https://glue.tidyverse.org/)
+
+-   Model: [tidymodels](https://www.tidymodels.org/)
+
+## LLM-based Packages
+
+-   [ellmer](https://ellmer.tidyverse.org/)
+
+-   [ragnar](https://ragnar.tidyverse.org/)
+
+-   [vitals](https://vitals.tidyverse.org/)
+
+-   [mall](https://mlverse.github.io/mall/)
+
+-   [btw](https://posit-dev.github.io/btw/)
+
+-   [mcptools](https://posit-dev.github.io/mcptools/)
+
+-   [querychat](https://posit-dev.github.io/querychat/r/index.html)
+
+-   [chores](https://simonpcouch.github.io/chores/)
+
+-   [gander](https://simonpcouch.github.io/gander/)
+
+-   [ggbot2](https://github.com/tidyverse/ggbot2)
+
+## Spatial Packages
+
+### Data Manipulation
+
+-   [sf](https://r-spatial.github.io/sf/)
+
+-   [terra](https://rspatial.github.io/terra/)
+
+-   [stars](https://r-spatial.github.io/stars/)
+
+-   [stplanr](https://docs.ropensci.org/stplanr/)
+
+-   [sfnetworks](https://luukvdmeer.github.io/sfnetworks/)
+
+### Spatial Data Analysis
+
+-   [spdep](https://r-spatial.github.io/spdep/)
+
+-   [spatialreg](https://r-spatial.github.io/spatialreg/)
+
+-   [sfdep](https://sfdep.josiahparry.com/)
+
+-   [spatstat](https://spatstat.org/)
+
+-   [SpatialKDE](https://jancaha.github.io/SpatialKDE/)
+
+-   [spgwr](https://rsbivand.github.io/spgwr/)
+
+-   [gstat](https://r-spatial.github.io/gstat/)
+
+### Geospatial Visualization
+
+-   [tmap](https://r-tmap.github.io/tmap/)
+
+    -   [Spatial Data Visualization with tmap](https://tmap.geocompx.org/)
+
+-   [leaflet](https://rstudio.github.io/leaflet/)
+
+    -   [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts)
+
+    -   [leaflet.providers](https://rstudio.github.io/leaflet.providers/)
+
+-   [rayshader](https://www.rayshader.com/)
+
+    -   [rayshaderanimate](https://github.com/zappingseb/rayshaderanimate)
+
+    -   [rayvista](https://github.com/h-a-graham/rayvista)
+
+-   [mapgl](https://walker-data.com/mapgl/)
+
+### Remote Sensing
+
+-   [RStoolbox](https://bleutner.github.io/RStoolbox/)
+
+-   [lidR](https://github.com/r-lidar/lidR)
+
+    -   [The lidR package book](https://r-lidar.github.io/lidRbook/)
+
+    -   [lidRtutorial](https://tgoodbody.github.io/lidRtutorial/)
+
+-   [lasR](https://github.com/r-lidar/lasR?tab=readme-ov-file)

@@ -1720,5 +1720,33 @@
     "title": "SANG-IL LEE",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "r_packages.html",
+    "href": "r_packages.html",
+    "title": "R Packages",
+    "section": "",
+    "text": "Homepage\nTidy design principles\nTidyverse style guide\n\n\n\n\n\nggplot2\ndplyr\ntidyr\nreadr\npurrr\ntibble\nstringr\nforcats\nlubridate\n\n\n\n\n\nImport: readxl, googlesheets4, googledrive, rvest, httr2\nWrangle: dbplyr, dtplyr, duckplyr\nProgram: glue\nModel: tidymodels"
+  },
+  {
+    "objectID": "r_packages.html#tidyverse",
+    "href": "r_packages.html#tidyverse",
+    "title": "R Packages",
+    "section": "",
+    "text": "Homepage\nTidy design principles\nTidyverse style guide\n\n\n\n\n\nggplot2\ndplyr\ntidyr\nreadr\npurrr\ntibble\nstringr\nforcats\nlubridate\n\n\n\n\n\nImport: readxl, googlesheets4, googledrive, rvest, httr2\nWrangle: dbplyr, dtplyr, duckplyr\nProgram: glue\nModel: tidymodels"
+  },
+  {
+    "objectID": "r_packages.html#llm-based-packages",
+    "href": "r_packages.html#llm-based-packages",
+    "title": "R Packages",
+    "section": "LLM-based Packages",
+    "text": "LLM-based Packages\n\nellmer\nragnar\nvitals\nmall\nbtw\nmcptools\nquerychat\nchores\ngander\nggbot2"
+  },
+  {
+    "objectID": "r_packages.html#spatial-packages",
+    "href": "r_packages.html#spatial-packages",
+    "title": "R Packages",
+    "section": "Spatial Packages",
+    "text": "Spatial Packages\n\nData Manipulation\n\nsf\nterra\nstars\nstplanr\nsfnetworks\n\n\n\nSpatial Data Analysis\n\nspdep\nspatialreg\nsfdep\nspatstat\nSpatialKDE\nspgwr\ngstat\n\n\n\nGeospatial Visualization\n\ntmap\n\nSpatial Data Visualization with tmap\n\nleaflet\n\nleaflet.minicharts\nleaflet.providers\n\nrayshader\n\nrayshaderanimate\nrayvista\n\nmapgl\n\n\n\nRemote Sensing\n\nRStoolbox\nlidR\n\nThe lidR package book\nlidRtutorial\n\nlasR"
   }
 ]
