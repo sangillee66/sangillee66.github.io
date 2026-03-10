@@ -8,6 +8,14 @@ bibliography: references.bib
 
 ## R Shiny Web Applications
 
+### Transition Probability Explorer
+
+-   <https://sangillee.shinyapps.io/Transition_Probability/>
+
+### ASMEI Explorer
+
+-   <https://sangillee.shinyapps.io/ASMEI/>
+
 ### Thiessen Polygon Maker
 
 -   This application enables users to generate Thiessen polygons from their own point and boundary data, which can be uploaded as ESRI shapefiles or KML files.

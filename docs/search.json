@@ -263,7 +263,7 @@
     "href": "r_dev.html",
     "title": "R Development",
     "section": "",
-    "text": "This application enables users to generate Thiessen polygons from their own point and boundary data, which can be uploaded as ESRI shapefiles or KML files.\nUsers can download the generated Thiessen polygons in ESRI shapefile format.\nLink: https://sangillee.shinyapps.io/ThiessenPolygon/\n\n\n\n\n\nThis application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet.\nIt utilizes an R package, SpatialKDE, which is based on QGIS Heatmap tool.\nLink: https://sangillee.shinyapps.io/SpatialKernelDensityEstimation/"
+    "text": "https://sangillee.shinyapps.io/Transition_Probability/\n\n\n\n\n\nhttps://sangillee.shinyapps.io/ASMEI/\n\n\n\n\n\nThis application enables users to generate Thiessen polygons from their own point and boundary data, which can be uploaded as ESRI shapefiles or KML files.\nUsers can download the generated Thiessen polygons in ESRI shapefile format.\nLink: https://sangillee.shinyapps.io/ThiessenPolygon/\n\n\n\n\n\nThis application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet.\nIt utilizes an R package, SpatialKDE, which is based on QGIS Heatmap tool.\nLink: https://sangillee.shinyapps.io/SpatialKernelDensityEstimation/"
   },
   {
     "objectID": "r_dev.html#r-shiny-applications",
@@ -291,7 +291,7 @@
     "href": "r_dev.html#r-shiny-web-applications",
     "title": "R Development",
     "section": "",
-    "text": "This application enables users to generate Thiessen polygons from their own point and boundary data, which can be uploaded as ESRI shapefiles or KML files.\nUsers can download the generated Thiessen polygons in ESRI shapefile format.\nLink: https://sangillee.shinyapps.io/ThiessenPolygon/\n\n\n\n\n\nThis application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet.\nIt utilizes an R package, SpatialKDE, which is based on QGIS Heatmap tool.\nLink: https://sangillee.shinyapps.io/SpatialKernelDensityEstimation/"
+    "text": "https://sangillee.shinyapps.io/Transition_Probability/\n\n\n\n\n\nhttps://sangillee.shinyapps.io/ASMEI/\n\n\n\n\n\nThis application enables users to generate Thiessen polygons from their own point and boundary data, which can be uploaded as ESRI shapefiles or KML files.\nUsers can download the generated Thiessen polygons in ESRI shapefile format.\nLink: https://sangillee.shinyapps.io/ThiessenPolygon/\n\n\n\n\n\nThis application is designed to let users to create their own spatial kernel density estimation maps, sometimes called heat maps, on the internet.\nIt utilizes an R package, SpatialKDE, which is based on QGIS Heatmap tool.\nLink: https://sangillee.shinyapps.io/SpatialKernelDensityEstimation/"
   },
   {
     "objectID": "posts/2024-01-23/index.html",
