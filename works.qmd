@@ -8,6 +8,8 @@ title-block-banner: images/banner_works_new.jpg
 
 ## Books
 
+-   이상일 옮김, 2026, [공간데이터사이언스: R 프로그래밍 예제](https://www.purungil.com/books/637), 서울: 푸른길. (Pebesma, E. and Bivand, R., 2023, [*Spatial Data Science with Applications in R*](https://r-spatial.org/book/), Boca Raton: CRC Press)
+
 -   정대홍 외 20인, 2022, [인공지능 시대 교사가 만드는 미래학교](http://www.kyoyookbook.co.kr/shop/item.php?it_id=1661472925), 교육과학사, 파주.
 
 -   이상일ㆍ손일 옮김, 2021, [지도와 거짓말](http://www.purungil.co.kr/books/books_show.php?seq=617&mode=category&category_seq=_1_), 서울: 푸른길. (Monmonier, Mark S, 2018, [*How to Lie with Maps*](https://press.uchicago.edu/ucp/books/book/chicago/H/bo27400568.html)*,* Third edition, Chicago, IL: The University of Chicago Press.)
