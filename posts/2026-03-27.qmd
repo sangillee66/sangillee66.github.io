@@ -16,4 +16,4 @@ categories:
 
 그러나 나는 나의 길을 간다. 원본책([*Spatial Data Science with Applications in R*](https://r-spatial.org/book/))에 깃들여져 있는 고귀한 가치와 퍼스펙티브는 AI 할애비가 와도 없어지지 않으며, 오히려 AI의 진화를 추동하는 힘이 될 것이라 믿는다(내 생각은 역자 서문에 잘 나타나 있으니 읽어 보길 권한다). 그러한 대열에 숫가락을 올린 것에 대한 기쁨이 몹시도 크다. 나를 칭찬한다. 그래도 내일부터는 AI를 좀 더 열심히 해야겠다. 서태지의 '난 알아요'를 즐기려 노력했고 실질적으로 즐겼던 것처럼.
 
-![](images/clipboard-1449876080.jpeg)
+![](images/clipboard-4096006567.jpeg)
