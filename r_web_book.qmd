@@ -8,7 +8,7 @@ bibliography: references.bib
 
 ## Spatial Data Science
 
--   Pebesma, Edzer, and Roger Bivand. 2023. [*Spatial Data Science: With Applications in R*](https://r-spatial.org/book/). 1st edition. Boca Raton: CRC.
+-   Pebesma, Edzer, and Roger Bivand. 2023. [*Spatial Data Science: With Applications in R*](https://r-spatial.org/book/). 1st edition. Boca Raton: CRC. (이상일 옮김, 2026, [공간데이터사이언스: R 프로그래밍 예제](https://www.purungil.com/books/637), 서울, 푸른길)
 
 -   Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2025. [*Geocomputation with R*](https://r.geocompx.org/index.html). 2nd edition. Boca Raton: CRC.
 
@@ -113,7 +113,7 @@ bibliography: references.bib
 
 ## Data Science in General
 
--   Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund, 2023, [*R for Data Science: Import, Tidy, Transform, Visualize, and Model Data*](https://r4ds.hadley.nz/)*,* 2nd edition, Boston: O’Reilly.
+-   Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund, 2023, [*R for Data Science: Import, Tidy, Transform, Visualize, and Model Data*](https://r4ds.hadley.nz/)*,* 2nd edition, Boston: O’Reilly. (김영우 옮김, 2026, [R을 활용한 데이터 과학: 데이터 불러오기, 정돈하기, 변형하기, 시각화하기](https://www.insightbook.co.kr/R-2-2f6863f609e780b283c7dc868b5fdabe), 인사이트, 서울)
 
 -   Baumer, Benjamin, Daniel T. Kaplan, and Nicholas J. Horton. 2024. [*Modern Data Science with R*](https://mdsr-book.github.io/mdsr3e/), 3rd edition, Boca Raton: CRC Press.
 
@@ -169,23 +169,35 @@ bibliography: references.bib
 
 -   Dougherty, Jack, and Ilya Ilyankou, 2025, [*Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code*](https://handsondataviz.org/), Boston: O’Reilly.
 
--   Alexander, Rohan. 2023. [*Telling Stories with Data With A;;ications in R*](https://tellingstorieswithdata.com/). Boca Raton: CRC Press.
-
--   Healy, Kieran. 2019. [*Data Visualization: A Practical Introduction*](https://socviz.co/), Princeton: Princeton University Press.
+-   Alexander, Rohan. 2023. [*Telling Stories with Data With Applications in R*](https://rohanalexander.github.io/telling_stories-published/). Boca Raton: CRC Press.
 
 -   Sievert, C., 2020, [*Interactive Web-Based Data Visualization with R, plotly, and shiny*](https://plotly-r.com/), Boca Raton: CRC Press.
 
--   Wilke, C., 2019, [*Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures*](https://clauswilke.com/dataviz/), Sebastopol, CA: O’Reilly.
+-   Healy, Kieran. 2019. [*Data Visualization: A Practical Introduction*](https://socviz.co/), Princeton: Princeton University Press. (이다양 옮김, 2020, [데이터 시각화 기본기 다지기](http://acornpub.co.kr/book/data-visualization-healy), 에이콘출판사)
+
+-   Cheshire, James, and Oliver Uberti. 2025. [*Atlas of the Invisible: Maps and Graphics That Will Change How You See the World*](https://www.google.co.kr/books/edition/Atlas_of_the_Invisible/RyQN0AEACAAJ?hl=ko). Penguin Publishing Group. (송예슬 옮김, 2022, [눈에 보이지 않는 지도책: 세상을 읽는 데이터 지리학](https://willbookspub.com/books/349), 파주: 윌북)
+
+-   Cheshire, James, and Oliver Uberti. 2016. [*London: The Information Capital : 100 Maps and Graphics That Will Change How You View the City*](https://www.google.co.kr/books/edition/London/2KTIDAEACAAJ?hl=ko). Penguin Books.
 
 -   Dougherty, Jack, and Ilya Ilyankou, 2025, [*Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code*](https://handsondataviz.org/), Boston: O’Reilly. (김태현 옮김, 2022, [핸즈온 데이터 시각화](https://www.yes24.com/product/goods/110225484), 서울: 한빛미디어.)
 
 -   Yau, Nathan. 2024. [*Visualize This: The FlowingData Guide to Design, Visualization, and Statistics*](https://www.google.co.kr/books/edition/Visualize_This/CB9XRIv9oigC?hl=ko&gbpv=0). 2nd edition, Hoboken: Wiley. (한상택 옮김, 2025, [데이터리터러시를 높이는 데이터 시각화: 숫자를 메시지로 바꾸는 스토리텔링과 그래프 작성](https://www.yes24.com/product/goods/152302455), 서울: 인사이트.)
 
+-   Field, Kenneth. 2022. [*Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data*](https://www.google.co.kr/books/edition/Thematic_Mapping/9-y0zgEACAAJ?hl=ko). Esri Press.
+
 -   Allchin, Carl. 2021. [*Communicating with Data: Making Your Case with Data*](https://www.google.co.kr/books/edition/Communicating_with_Data/4eZFEAAAQBAJ?hl=ko&gbpv=0). O’Reilly Media. (이한호 옮김, 2022, [데이터로 전문가처럼 말하기: 효율적 의사 전달을 위한 데이터 시각화와 비즈니스 스토리텔링의 기술](https://www.yes24.com/product/goods/112230753), 서울: 한빛미디어.)
 
 -   Wilke, Claus. 2019. [*Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures*](https://clauswilke.com/dataviz/). O’Reilly Media. (권혜정 옮김, 2020, [데이터 시각화 교과서: 데이터 분석의 본질을 살리는 그래프와 차트 제작의 기본 원리와 응용](https://www.yes24.com/product/goods/87631760), 안양: 책만.)
 
+-   Cairo, Alberto. 2019. [*How Charts Lie: Getting Smarter about Visual Information*](https://www.google.co.kr/books/edition/How_Charts_Lie/qP2KDwAAQBAJ?hl=ko&gbpv=0). W. W. Norton & Company. (박슬라 옮김, 2020, [숫자는 거짓말을 한다: 통계와 그래프에 속지 않는 데이터 읽기의 힘](https://www.yes24.com/product/goods/93738321), 웅진지식하우스)
+
 -   Cairo, Alberto. 2016. [*The Truthful Art: Data, Charts, and Maps for Communication*](https://www.google.co.kr/books/edition/The_Truthful_Art/8dKKCwAAQBAJ?hl=ko&gbpv=0). New Riders. (이제원 옮김, 2019, [진실을 드러내는 데이터 시각화의 과학과 예술](https://www.yes24.com/product/goods/72254343), 서울: 인사이트.)
+
+-   Rosling, Hans, Ola Rosling, and Anna Rosling Rönnlund. 2018. [*Factfulness: Ten Reasons We’re Wrong About The World - And Why Things Are Better Than You Think*](https://www.google.co.kr/books/edition/Factfulness/N94sDwAAQBAJ?hl=ko&gbpv=0). Hachette UK. (이창신 옮김, 2019, [팩트풀니스: 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유](https://www.yes24.com/product/goods/69724044), 파주:김영사)
+
+-   Cairo, Alberto. 2013. [*The Functional Art: An Introduction to Information Graphics and Visualization*](https://www.google.co.kr/books/edition/The_Functional_Art/BiT1ugAACAAJ?hl=ko). New Riders. (최가영 옮김, 2013, [인포그래픽과 데이터 시각화 기법을 활용한 스토리텔링](https://wikibook.co.kr/the-functional-art/), 위키북스)
+
+-   Dorling, Daniel, Mark Newman, and Anna Barford. 2010. [*The Atlas of the Real World: Mapping The Way We Live*](https://www.google.co.kr/books/edition/The_Atlas_of_the_Real_World/1NONEAAAQBAJ?hl=ko)*,* Second Edition. WW Norton.
 
 -   한국R사용자회, 2022, [데이터 시각화](https://r2bit.com/book_viz/), 오픈전자책.
 

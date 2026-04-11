@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -334,7 +354,7 @@ background-size: cover;
       <div>
       <div class="quarto-title-meta-heading">Modified</div>
       <div class="quarto-title-meta-contents">
-        <p class="date-modified">January 23, 2026</p>
+        <p class="date-modified">April 11, 2026</p>
       </div>
     </div>
       
@@ -375,7 +395,7 @@ background-size: cover;
 <section id="spatial-data-science" class="level2">
 <h2 class="anchored" data-anchor-id="spatial-data-science">Spatial Data Science</h2>
 <ul>
-<li><p>Pebesma, Edzer, and Roger Bivand. 2023. <a href="https://r-spatial.org/book/"><em>Spatial Data Science: With Applications in R</em></a>. 1st edition. Boca Raton: CRC.</p></li>
+<li><p>Pebesma, Edzer, and Roger Bivand. 2023. <a href="https://r-spatial.org/book/"><em>Spatial Data Science: With Applications in R</em></a>. 1st edition. Boca Raton: CRC. (이상일 옮김, 2026, <a href="https://www.purungil.com/books/637">공간데이터사이언스: R 프로그래밍 예제</a>, 서울, 푸른길)</p></li>
 <li><p>Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2025. <a href="https://r.geocompx.org/index.html"><em>Geocomputation with R</em></a>. 2nd edition. Boca Raton: CRC.</p></li>
 <li><p>Dorman, Michael, Anita Graser, Jakub Nowosad, and Robin Lovelace. 2025.&nbsp;<a href="https://py.geocompx.org/"><em>Geocomputation with Python</em></a>. 1st edition. Chapman; Hall/CRC.</p></li>
 <li><p>Wimberly, Michael C. 2023. <a href="https://bookdown.org/mcwimberly/gdswr-book/"><em>Geographic Data Science with R: Visualizing and Analyzing Environmental Change</em></a>. 1st edition. Boca Raton London New York: Chapman; Hall/CRC.</p></li>
@@ -452,7 +472,7 @@ background-size: cover;
 <section id="data-science-in-general" class="level2">
 <h2 class="anchored" data-anchor-id="data-science-in-general">Data Science in General</h2>
 <ul>
-<li><p>Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund, 2023,&nbsp;<a href="https://r4ds.hadley.nz/"><em>R for Data Science: Import, Tidy, Transform, Visualize, and Model Data</em></a><em>,</em>&nbsp;2nd edition, Boston: O’Reilly.</p></li>
+<li><p>Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund, 2023,&nbsp;<a href="https://r4ds.hadley.nz/"><em>R for Data Science: Import, Tidy, Transform, Visualize, and Model Data</em></a><em>,</em>&nbsp;2nd edition, Boston: O’Reilly. (김영우 옮김, 2026, <a href="https://www.insightbook.co.kr/R-2-2f6863f609e780b283c7dc868b5fdabe">R을 활용한 데이터 과학: 데이터 불러오기, 정돈하기, 변형하기, 시각화하기</a>, 인사이트, 서울)</p></li>
 <li><p>Baumer, Benjamin, Daniel T. Kaplan, and Nicholas J. Horton. 2024. <a href="https://mdsr-book.github.io/mdsr3e/"><em>Modern Data Science with R</em></a>, 3rd edition, Boca Raton: CRC Press.</p></li>
 <li><p>Irizarry, Rafael A. 2024.&nbsp;<a href="https://rafalab.dfci.harvard.edu/dsbook-part-1/"><em>Introduction to Data Science: Data Wrangling and Visualization with R</em></a>. 2nd edition, Boca Raton: CRC Press.</p></li>
 <li><p>Bonnell, Jerry, and Mitsunori Ogihara. 2023.&nbsp;<a href="https://ds4world.cs.miami.edu/"><em>Exploring Data Science with R and the Tidyverse</em></a>. 1st edition. Chapman; Hall/CRC.</p></li>
@@ -489,16 +509,25 @@ background-size: cover;
 <li><p>Kabacoff, Robert, 2024,&nbsp;<a href="https://rkabacoff.github.io/datavis/"><em>Modern Data Visualization with R</em></a>, Boca Raton: CRC Press.</p></li>
 <li><p>Dougherty, Jack, and Ilya Ilyankou, 2025,&nbsp;<a href="https://handsondataviz.org/"><em>Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code</em></a>, Boston: O’Reilly.</p></li>
 <li><p>Alexander, Rohan. 2023. <a href="https://tellingstorieswithdata.com/"><em>Telling Stories with Data With A;;ications in R</em></a>. Boca Raton: CRC Press.</p></li>
-<li><p>Healy, Kieran. 2019. <a href="https://socviz.co/"><em>Data Visualization: A Practical Introduction</em></a>, Princeton: Princeton University Press.</p></li>
+<li><p>Healy, Kieran. 2019. <a href="https://socviz.co/"><em>Data Visualization: A Practical Introduction</em></a>, Princeton: Princeton University Press. (이다양 옮김, 2020, <a href="http://acornpub.co.kr/book/data-visualization-healy">데이터 시각화 기본기 다지기</a>, 에이콘출판사)</p></li>
 <li><p>Sievert, C., 2020,&nbsp;<a href="https://plotly-r.com/"><em>Interactive Web-Based Data Visualization with R, plotly, and shiny</em></a>, Boca Raton: CRC Press.</p></li>
 <li><p>Wilke, C., 2019,&nbsp;<a href="https://clauswilke.com/dataviz/"><em>Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures</em></a>, Sebastopol, CA: O’Reilly.</p></li>
 <li><p>Dougherty, Jack, and Ilya Ilyankou, 2025,&nbsp;<a href="https://handsondataviz.org/"><em>Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code</em></a>, Boston: O’Reilly. (김태현 옮김, 2022, <a href="https://www.yes24.com/product/goods/110225484">핸즈온 데이터 시각화</a>, 서울: 한빛미디어.)</p></li>
 <li><p>Yau, Nathan. 2024. <a href="https://www.google.co.kr/books/edition/Visualize_This/CB9XRIv9oigC?hl=ko&amp;gbpv=0"><em>Visualize This: The FlowingData Guide to Design, Visualization, and Statistics</em></a>. 2nd edition, Hoboken: Wiley. (한상택 옮김, 2025, <a href="https://www.yes24.com/product/goods/152302455">데이터리터러시를 높이는 데이터 시각화: 숫자를 메시지로 바꾸는 스토리텔링과 그래프 작성</a>, 서울: 인사이트.)</p></li>
 <li><p>Allchin, Carl. 2021. <a href="https://www.google.co.kr/books/edition/Communicating_with_Data/4eZFEAAAQBAJ?hl=ko&amp;gbpv=0"><em>Communicating with Data: Making Your Case with Data</em></a>. O’Reilly Media. (이한호 옮김, 2022, <a href="https://www.yes24.com/product/goods/112230753">데이터로 전문가처럼 말하기: 효율적 의사 전달을 위한 데이터 시각화와 비즈니스 스토리텔링의 기술</a>, 서울: 한빛미디어.)</p></li>
 <li><p>Wilke, Claus. 2019. <a href="https://clauswilke.com/dataviz/"><em>Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures</em></a>. O’Reilly Media. (권혜정 옮김, 2020, <a href="https://www.yes24.com/product/goods/87631760">데이터 시각화 교과서: 데이터 분석의 본질을 살리는 그래프와 차트 제작의 기본 원리와 응용</a>, 안양: 책만.)</p></li>
+<li><p>Cairo, Alberto. 2019.&nbsp;<a href="https://www.google.co.kr/books/edition/How_Charts_Lie/qP2KDwAAQBAJ?hl=ko&amp;gbpv=0"><em>How Charts Lie: Getting Smarter about Visual Information</em></a>. W. W. Norton &amp; Company. (박슬라 옮김, 2020, <a href="https://www.yes24.com/product/goods/93738321">숫자는 거짓말을 한다: 통계와 그래프에 속지 않는 데이터 읽기의 힘</a>, 웅진지식하우스)</p></li>
 <li><p>Cairo, Alberto. 2016. <a href="https://www.google.co.kr/books/edition/The_Truthful_Art/8dKKCwAAQBAJ?hl=ko&amp;gbpv=0"><em>The Truthful Art: Data, Charts, and Maps for Communication</em></a>. New Riders. (이제원 옮김, 2019, <a href="https://www.yes24.com/product/goods/72254343">진실을 드러내는 데이터 시각화의 과학과 예술</a>, 서울: 인사이트.)</p></li>
+<li><p>Rosling, Hans, Ola Rosling, and Anna Rosling Rönnlund. 2018.&nbsp;<a href="https://www.google.co.kr/books/edition/Factfulness/N94sDwAAQBAJ?hl=ko&amp;gbpv=0"><em>Factfulness: Ten Reasons We’re Wrong About The World - And Why Things Are Better Than You Think</em></a>. Hachette UK. (이창신 옮김, 2019, <a href="https://www.yes24.com/product/goods/69724044">팩트풀니스: 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유</a>, 파주:김영사)</p></li>
+<li><p>Cairo, Alberto. 2013.&nbsp;<a href="https://www.google.co.kr/books/edition/The_Functional_Art/BiT1ugAACAAJ?hl=ko"><em>The Functional Art: An Introduction to Information Graphics and Visualization</em></a>. New Riders. (최가영 옮김, 2013, <a href="https://wikibook.co.kr/the-functional-art/">인포그래픽과 데이터 시각화 기법을 활용한 스토리텔링</a>, 위키북스)</p></li>
 <li><p>한국R사용자회, 2022, <a href="https://r2bit.com/book_viz/">데이터 시각화</a>, 오픈전자책.</p></li>
 </ul>
+<p><span class="citation" data-cites="rosling2018">Rosling, Rosling, and Rönnlund (<a href="#ref-rosling2018" role="doc-biblioref">2018</a>)</span></p>
+<p><span class="citation" data-cites="dorling2010">Dorling, Newman, and Barford (<a href="#ref-dorling2010" role="doc-biblioref">2010</a>)</span></p>
+<p><span class="citation" data-cites="field2022">Field (<a href="#ref-field2022" role="doc-biblioref">2022</a>)</span></p>
+<p><span class="citation" data-cites="cheshire2016">Cheshire and Uberti (<a href="#ref-cheshire2016" role="doc-biblioref">2016</a>)</span></p>
+<p><span class="citation" data-cites="cheshire2025">Cheshire and Uberti (<a href="#ref-cheshire2025" role="doc-biblioref">2025</a>)</span></p>
+<p><span class="citation" data-cites="dorling2010">Dorling, Newman, and Barford (<a href="#ref-dorling2010" role="doc-biblioref">2010</a>)</span></p>
 </section>
 <section id="data-communication" class="level2">
 <h2 class="anchored" data-anchor-id="data-communication">Data Communication</h2>
@@ -525,9 +554,26 @@ background-size: cover;
 </ul>
 
 
+
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-cheshire2016" class="csl-entry" role="listitem">
+Cheshire, James, and Oliver Uberti. 2016. <em>London: The Information Capital : 100 Maps and Graphics That Will Change How You View the City</em>. Penguin Books.
+</div>
+<div id="ref-cheshire2025" class="csl-entry" role="listitem">
+———. 2025. <em>Atlas of the Invisible: Maps and Graphics That Will Change How You See the World</em>. Penguin Publishing Group.
+</div>
+<div id="ref-dorling2010" class="csl-entry" role="listitem">
+Dorling, Daniel, Mark Newman, and Anna Barford. 2010. <em>The Atlas of the Real World: Mapping The Way We Live Second Edition</em>. WW Norton.
+</div>
+<div id="ref-field2022" class="csl-entry" role="listitem">
+Field, Kenneth. 2022. <em>Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data</em>. Esri Press.
+</div>
+<div id="ref-rosling2018" class="csl-entry" role="listitem">
+Rosling, Hans, Ola Rosling, and Anna Rosling Rönnlund. 2018. <em>Factfulness: Ten Reasons We’re Wrong About The World - And Why Things Are Better Than You Think</em>. Hachette UK.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
