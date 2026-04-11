@@ -8,7 +8,7 @@ bibliography: references.bib
 
 ## Spatial Data Science
 
--   Pebesma, Edzer, and Roger Bivand. 2023. [*Spatial Data Science: With Applications in R*](https://r-spatial.org/book/). 1st edition. Boca Raton: CRC. (이상일 옮김, 2026, [공간데이터사이언스: R 프로그래밍 예제](https://www.purungil.com/books/637), 서울, 푸른길)
+-   Pebesma, Edzer, and Roger Bivand. 2023. [*Spatial Data Science: With Applications in R*](https://r-spatial.org/book/). 1st edition. Boca Raton: CRC. (이상일 옮김, 2026, [공간데이터사이언스: R 프로그래밍 예제](https://www.purungil.com/books/637), 서울, 푸른길))
 
 -   Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2025. [*Geocomputation with R*](https://r.geocompx.org/index.html). 2nd edition. Boca Raton: CRC.
 
