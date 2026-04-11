@@ -93,6 +93,7 @@ bibliography: references.bib
 ## Remote Sensing
 
 -   Camara, Gilberto, Rolf Simoes, Felipe Souza, Felipe Menino, Charlotte Pelletier, Pedro R. Andrade, Karine Ferreira, and Gilberto Queiroz. *Satellite Image Time Series Analysis on Earth Observation Data Cubes*. <https://e-sensing.github.io/sitsbook/>.
+
 -   Ghosh, Aniruddha, and Robert J. Hijmans. *Remote Sensing Image Analysis*. <https://rspatial.org/raster/rs/index.html>
 
 ## Applied Spatial Data Science
@@ -191,11 +192,11 @@ bibliography: references.bib
 
 -   Cairo, Alberto. 2019. [*How Charts Lie: Getting Smarter about Visual Information*](https://www.google.co.kr/books/edition/How_Charts_Lie/qP2KDwAAQBAJ?hl=ko&gbpv=0). W. W. Norton & Company. (박슬라 옮김, 2020, [숫자는 거짓말을 한다: 통계와 그래프에 속지 않는 데이터 읽기의 힘](https://www.yes24.com/product/goods/93738321), 웅진지식하우스)
 
--   Cairo, Alberto. 2016. [*The Truthful Art: Data, Charts, and Maps for Communication*](https://www.google.co.kr/books/edition/The_Truthful_Art/8dKKCwAAQBAJ?hl=ko&gbpv=0). New Riders. (이제원 옮김, 2019, [진실을 드러내는 데이터 시각화의 과학과 예술](https://www.yes24.com/product/goods/72254343), 서울: 인사이트.)
-
--   Rosling, Hans, Ola Rosling, and Anna Rosling Rönnlund. 2018. [*Factfulness: Ten Reasons We’re Wrong About The World - And Why Things Are Better Than You Think*](https://www.google.co.kr/books/edition/Factfulness/N94sDwAAQBAJ?hl=ko&gbpv=0). Hachette UK. (이창신 옮김, 2019, [팩트풀니스: 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유](https://www.yes24.com/product/goods/69724044), 파주:김영사)
+-   Cairo, Alberto. 2016. [*The Truthful Art: Data, Charts, and Maps for Communication*](https://www.google.co.kr/books/edition/The_Truthful_Art/8dKKCwAAQBAJ?hl=ko&gbpv=0). New Riders. (이제원 옮김, 2019, [진실을 드러내는 데이터 시각화의 과학과 예술](https://www.yes24.com/product/goods/72254343), 서울: 인사이트)
 
 -   Cairo, Alberto. 2013. [*The Functional Art: An Introduction to Information Graphics and Visualization*](https://www.google.co.kr/books/edition/The_Functional_Art/BiT1ugAACAAJ?hl=ko). New Riders. (최가영 옮김, 2013, [인포그래픽과 데이터 시각화 기법을 활용한 스토리텔링](https://wikibook.co.kr/the-functional-art/), 위키북스)
+
+-   Rosling, Hans, Ola Rosling, and Anna Rosling Rönnlund. 2018. [*Factfulness: Ten Reasons We’re Wrong About The World - And Why Things Are Better Than You Think*](https://www.google.co.kr/books/edition/Factfulness/N94sDwAAQBAJ?hl=ko&gbpv=0). Hachette UK. (이창신 옮김, 2019, [팩트풀니스: 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유](https://www.yes24.com/product/goods/69724044), 파주:김영사)
 
 -   Dorling, Daniel, Mark Newman, and Anna Barford. 2010. [*The Atlas of the Real World: Mapping The Way We Live*](https://www.google.co.kr/books/edition/The_Atlas_of_the_Real_World/1NONEAAAQBAJ?hl=ko)*,* Second Edition. WW Norton.
 
