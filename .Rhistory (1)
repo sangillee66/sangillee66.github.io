@@ -1,0 +1,170 @@
+quarto publish quarto-pub
+install.packages("usethis")
+usethis::edit_r_environ()
+Sys.setenv(MAPBOX_API_TOKEN)
+#| results: hide
+library(sf)
+seoul <- st_read("D:/My R/Korean Administrative Areas/행정구역 셰이프 파일/3 Generalization/2023_2Q/SEOUL_SIDO_2023_2Q_GEN_0030.shp", options = "ENCODING=CP949")
+seoul_gu <- st_read("D:/My R/Korean Administrative Areas/행정구역 셰이프 파일/3 Generalization/2023_2Q/SEOUL_GU_2023_2Q_GEN_0030.shp", options = "ENCODING=CP949")
+SG1 <- st_read("D:/My R/Korean Administrative Areas/행정구역 셰이프 파일/3 Generalization/2023_2Q/NOT_MOVE/SIGUN1_NM_2023_2Q_GEN_0030.shp", options = "ENCODING=CP949")
+SGG1 <- st_read("D:/My R/Korean Administrative Areas/행정구역 셰이프 파일/3 Generalization/2023_2Q/NOT_MOVE/SIGUNGU1_NM_2023_2Q_GEN_0030.shp", options = "ENCODING=CP949")
+library(tidyverse)
+library(sf)
+library(flowmapblue)
+library(htmlwidgets)
+library(readxl)
+OD.mig.SDGG.ori <- read_excel(
+"D:/My R/Korea Census Data Manipulation/9 Migration/DM_Comp_Code_Mig_2024_Sidogungu.xlsx"
+)
+OD.mig.SDGG.ori <- OD.mig.SDGG.ori |>
+filter(
+Ori_CD != 0 & Des_CD != 0
+) |>
+select(
+2:6
+) |>
+mutate(
+Ori_NM = if_else(str_detect(Ori_NM, "전특"), str_replace(Ori_NM, "전특", "전북"), Ori_NM),
+Des_NM = if_else(str_detect(Des_NM, "전특"), str_replace(Des_NM, "전특", "전북"), Des_NM)
+)
+df_SD <- OD.mig.SDGG.ori |>
+filter(
+Ori_CD < 100 & Des_CD < 100
+)
+df_SGG1 <- OD.mig.SDGG.ori |>
+filter(
+Ori_CD > 100 & Des_CD > 100
+)
+df_SG1 <- OD.mig.SDGG.ori |>
+filter(
+(Ori_CD > 30000 | Ori_CD < 30) & (Des_CD > 30000 | Des_CD < 30)
+)
+df_SGG1_Seoul <- df_SGG1 |>
+filter(
+Ori_CD < 20000 & Des_CD < 20000
+) |>
+mutate(
+Ori_NM = str_remove(Ori_NM, "서울 "),
+Des_NM = str_remove(Des_NM, "서울 ")
+)
+Sys.setenv("MAPBOX_API_TOKEN")
+#| results: hide
+library(sf)
+seoul <- st_read("D:/My R/Korean Administrative Areas/행정구역 셰이프 파일/3 Generalization/2023_2Q/SEOUL_SIDO_2023_2Q_GEN_0030.shp", options = "ENCODING=CP949")
+seoul_gu <- st_read("D:/My R/Korean Administrative Areas/행정구역 셰이프 파일/3 Generalization/2023_2Q/SEOUL_GU_2023_2Q_GEN_0030.shp", options = "ENCODING=CP949")
+SG1 <- st_read("D:/My R/Korean Administrative Areas/행정구역 셰이프 파일/3 Generalization/2023_2Q/NOT_MOVE/SIGUN1_NM_2023_2Q_GEN_0030.shp", options = "ENCODING=CP949")
+SGG1 <- st_read("D:/My R/Korean Administrative Areas/행정구역 셰이프 파일/3 Generalization/2023_2Q/NOT_MOVE/SIGUNGU1_NM_2023_2Q_GEN_0030.shp", options = "ENCODING=CP949")
+library(tidyverse)
+library(sf)
+library(flowmapblue)
+library(htmlwidgets)
+library(readxl)
+OD.mig.SDGG.ori <- read_excel(
+"D:/My R/Korea Census Data Manipulation/9 Migration/DM_Comp_Code_Mig_2024_Sidogungu.xlsx"
+)
+OD.mig.SDGG.ori <- OD.mig.SDGG.ori |>
+filter(
+Ori_CD != 0 & Des_CD != 0
+) |>
+select(
+2:6
+) |>
+mutate(
+Ori_NM = if_else(str_detect(Ori_NM, "전특"), str_replace(Ori_NM, "전특", "전북"), Ori_NM),
+Des_NM = if_else(str_detect(Des_NM, "전특"), str_replace(Des_NM, "전특", "전북"), Des_NM)
+)
+df_SD <- OD.mig.SDGG.ori |>
+filter(
+Ori_CD < 100 & Des_CD < 100
+)
+df_SGG1 <- OD.mig.SDGG.ori |>
+filter(
+Ori_CD > 100 & Des_CD > 100
+)
+df_SG1 <- OD.mig.SDGG.ori |>
+filter(
+(Ori_CD > 30000 | Ori_CD < 30) & (Des_CD > 30000 | Des_CD < 30)
+)
+df_SGG1_Seoul <- df_SGG1 |>
+filter(
+Ori_CD < 20000 & Des_CD < 20000
+) |>
+mutate(
+Ori_NM = str_remove(Ori_NM, "서울 "),
+Des_NM = str_remove(Des_NM, "서울 ")
+)
+Sys.setenv("MAPBOX_API_TOKEN")
+Sys.setenv("MAPBOX_API_TOKEN")
+library(tidyverse)
+library(sf)
+library(flowmapblue)
+library(htmlwidgets)
+library(readxl)
+OD.mig.SDGG.ori <- read_excel(
+"D:/My R/Korea Census Data Manipulation/9 Migration/DM_Comp_Code_Mig_2024_Sidogungu.xlsx"
+)
+OD.mig.SDGG.ori <- OD.mig.SDGG.ori |>
+filter(
+Ori_CD != 0 & Des_CD != 0
+) |>
+select(
+2:6
+) |>
+mutate(
+Ori_NM = if_else(str_detect(Ori_NM, "전특"), str_replace(Ori_NM, "전특", "전북"), Ori_NM),
+Des_NM = if_else(str_detect(Des_NM, "전특"), str_replace(Des_NM, "전특", "전북"), Des_NM)
+)
+df_SD <- OD.mig.SDGG.ori |>
+filter(
+Ori_CD < 100 & Des_CD < 100
+)
+df_SGG1 <- OD.mig.SDGG.ori |>
+filter(
+Ori_CD > 100 & Des_CD > 100
+)
+df_SG1 <- OD.mig.SDGG.ori |>
+filter(
+(Ori_CD > 30000 | Ori_CD < 30) & (Des_CD > 30000 | Des_CD < 30)
+)
+df_SGG1_Seoul <- df_SGG1 |>
+filter(
+Ori_CD < 20000 & Des_CD < 20000
+) |>
+mutate(
+Ori_NM = str_remove(Ori_NM, "서울 "),
+Des_NM = str_remove(Des_NM, "서울 ")
+)
+Sys.setenv(MAPBOX_API_TOKEN = "MAPBOX_API_TOKEN")
+coords <- SG1 |>
+st_transform(crs = 4326) |>
+st_centroid() |>
+st_coordinates()
+locations <- SG1 |>
+mutate(
+lon = coords[, 1],
+lat = coords[, 2],
+id = SG1_CD,
+name = SG1_NM
+) |>
+st_drop_geometry() |>
+select(
+id, name, lon, lat
+)
+flows <- df_SG1 |>
+select(
+origin = Ori_CD,
+dest = Des_CD,
+count = Total_T
+)
+flowmapblue_SG1 <- flowmapblue(
+locations = locations,
+flows = flows,
+mapboxAccessToken = Sys.getenv("MAPBOX_API_TOKEN"),
+clustering = TRUE,
+darkMode = TRUE,
+animation = FALSE
+)
+flowmapblue_SG1
+install.packages("learnr")
+library(learnr)
+install.packages("knitr")

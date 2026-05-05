@@ -9,7 +9,7 @@ title-block-banner: images/banner_event.jpg
 
 ### 프로그램 홈페이지
 
--   <https://sangillee.snu.ac.kr/2025_AI_Edu/>
+- <https://sangillee.snu.ac.kr/2025_AI_Edu/>
 
 ### 프로그램 개요
 
@@ -21,35 +21,35 @@ title-block-banner: images/banner_event.jpg
 
 ### 일시 및 장소
 
--   2025년 12월 29일(월) \~ 2026년 1월 16일(금)
+- 2025년 12월 29일(월) \~ 2026년 1월 16일(금)
 
--   서울대학교 사범대학 교육정보관 VR-LAB (10-1동 316호)
+- 서울대학교 사범대학 교육정보관 VR-LAB (10-1동 316호)
 
 ### 진행
 
--   프로그램 총괄 및 이론 강의
+- 프로그램 총괄 및 이론 강의
 
-    -   [이상일](https://sangillee.snu.ac.kr/) 교수([서울대학교 사범대학 지리교육과](https://geoedu.snu.ac.kr/))
+  - [이상일](https://sangillee.snu.ac.kr/) 교수([서울대학교 사범대학 지리교육과](https://geoedu.snu.ac.kr/))
 
--   프로그램 평가
+- 프로그램 평가
 
-    -   이소영 교수([가톨릭관동대학교 사범대학 지리교육과](https://www.cku.ac.kr/geography/index.do))
+  - 이소영 교수([가톨릭관동대학교 사범대학 지리교육과](https://www.cku.ac.kr/geography/index.do))
 
--   실습
+- 실습
 
-    -   김우형(서울대학교 지리교육과 석사과정)
+  - 김우형(서울대학교 지리교육과 석사과정)
 
-    -   박서우(서울대학교 지리교육과 석사과정)
+  - 박서우(서울대학교 지리교육과 석사과정)
 
 ### 주관
 
--   [서울대학교](https://www.snu.ac.kr/) [학습과학연구소](https://ls.snu.ac.kr/) [미래교육혁신센터](https://ls.snu.ac.kr/sub_center/center4.php)
+- [서울대학교](https://www.snu.ac.kr/) [학습과학연구소](https://ls.snu.ac.kr/) [미래교육혁신센터](https://ls.snu.ac.kr/sub_center/center4.php)
 
 ## 지리공간정보 교육 프로그램
 
 ### 프로그램 홈페이지
 
--   <http://sangillee.snu.ac.kr/2025_Geospatial_Edu/>
+- <http://sangillee.snu.ac.kr/2025_Geospatial_Edu/>
 
 ### 프로그램 개요
 
@@ -59,43 +59,43 @@ title-block-banner: images/banner_event.jpg
 
 #### 지리공간정보 교수-학습 역량 강화 연수
 
--   2025년 7월 28일(월) \~ 29일(화)
+- 2025년 7월 28일(월) \~ 29일(화)
 
--   서울대학교 10동 103호
+- 서울대학교 10동 103호
 
 #### 지리공간정보 체험 캠프
 
--   2025년 8월 1일(금)
+- 2025년 8월 1일(금)
 
--   서울대학교 10동 103호
+- 서울대학교 10동 103호
 
 ### 진행
 
--   강의
+- 강의
 
-    -   [이상일 교수](https://sangillee.snu.ac.kr/)(서울대학교 지리교육과 교수)
+  - [이상일 교수](https://sangillee.snu.ac.kr/)(서울대학교 지리교육과 교수)
 
--   실습
+- 실습
 
-    -   김세창(서울대학교 지리교육과 석사)
+  - 김세창(서울대학교 지리교육과 석사)
 
-    -   전혜민(서울대학교 지리교육과 석사과정)
+  - 전혜민(서울대학교 지리교육과 석사과정)
 
-    -   김우형(서울대학교 지리교육과 석사과정)
+  - 김우형(서울대학교 지리교육과 석사과정)
 
--   LiDAR 실습
+- LiDAR 실습
 
-    -   이하은(서울대학교 지리교육과 박사과정)
+  - 이하은(서울대학교 지리교육과 박사과정)
 
 ### 후원
 
--   [국토지리정보원](https://www.ngii.go.kr/)
+- [국토지리정보원](https://www.ngii.go.kr/)
 
 ## 사회과 예비교사를 위한 AIㆍ디지털 역량 강화 워크숍
 
 ### 프로그램 홈페이지
 
--   <https://sangillee.snu.ac.kr/2024_AIEDAP/>
+- <https://sangillee.snu.ac.kr/2024_AIEDAP/>
 
 ### 프로그램 개요
 
@@ -103,24 +103,24 @@ title-block-banner: images/banner_event.jpg
 
 ### 일시 및 장소
 
--   2024년 8월 5일(월) \~ 9일(금) 오후 2\~5시 총 5일(저녁식사 제공)
+- 2024년 8월 5일(월) \~ 9일(금) 오후 2\~5시 총 5일(저녁식사 제공)
 
--   서울대학교 10동 103호
+- 서울대학교 10동 103호
 
 ### **진행**
 
--   강의
+- 강의
 
-    -   [이상일 교수](https://sangillee.snu.ac.kr/)(서울대학교 사범대학 지리교육과 교수)
+  - [이상일 교수](https://sangillee.snu.ac.kr/)(서울대학교 사범대학 지리교육과 교수)
 
--   실습
+- 실습
 
-    -   김세창(서울대학교 지리교육과 석사)
+  - 김세창(서울대학교 지리교육과 석사)
 
-    -   김우형(서울대학교 지리교육과 석사과정)
+  - 김우형(서울대학교 지리교육과 석사과정)
 
 ### 주관
 
--   [AIEDAP](https://aiedap.or.kr/) (AI EDucation Alliance & Policy lab)
+- [AIEDAP](https://aiedap.or.kr/) (AI EDucation Alliance & Policy lab)
 
--   [서울대학교](https://www.snu.ac.kr/) [학습과학연구소](https://ls.snu.ac.kr/) [미래교육혁신센터](https://ls.snu.ac.kr/sub_center/center4.php)
+- [서울대학교](https://www.snu.ac.kr/) [학습과학연구소](https://ls.snu.ac.kr/) [미래교육혁신센터](https://ls.snu.ac.kr/sub_center/center4.php)

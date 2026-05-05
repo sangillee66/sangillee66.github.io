@@ -1,0 +1,227 @@
+---
+title: "R Web Books"
+subtitle: "A List of R Web Books by Subject"
+date-modified: last-modified
+title-block-banner: images/banner_web_books_new.jpg
+bibliography: references.bib
+---
+
+## Spatial Data Science
+
+-   Pebesma, Edzer, and Roger Bivand. 2023. [*Spatial Data Science: With Applications in R*](https://r-spatial.org/book/). 1st edition. Boca Raton: CRC. (이상일 옮김, 2026, [공간데이터사이언스: R 프로그래밍 예제](https://www.purungil.com/books/637), 서울, 푸른길)
+
+-   Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2025. [*Geocomputation with R*](https://r.geocompx.org/index.html). 2nd edition. Boca Raton: CRC.
+
+-   Dorman, Michael, Anita Graser, Jakub Nowosad, and Robin Lovelace. 2025. [*Geocomputation with Python*](https://py.geocompx.org/). 1st edition. Chapman; Hall/CRC.
+
+-   Wimberly, Michael C. 2023. [*Geographic Data Science with R: Visualizing and Analyzing Environmental Change*](https://bookdown.org/mcwimberly/gdswr-book/). 1st edition. Boca Raton London New York: Chapman; Hall/CRC.
+
+-   Anselin, Luc. 2024. [*An Introduction to Spatial Data Science with GeoDa: Volume 1: Exploring Spatial Data*](https://lanselin.github.io/introbook_vol1/). 1st edition. Boca Raton, FL: Chapman; Hall/CRC.
+
+-   Anselin, Luc. 2024. [*An Introduction to Spatial Data Science with GeoDa: Volume 2: Clustering Spatial Data*](https://lanselin.github.io/introbook_vol2/). 1st edition. Boca Raton, FL: Chapman; Hall/CRC.
+
+-   Rey, Sergio, Dani Arribas-Bel, and Levi John Wolf. 2023. [*Geographic Data Science with Python*](https://geographicdata.science/book/intro.html). 1st edition. Boca Raton: CRC.
+
+-   Anselin, Luc, Grant Morrison, Angela Li, and Karina Acosta. 2023. *Hands-on Spatial Data Science with R*. [https://spatialanalysis.github.io/handsonspatialdata/index.html](https://spatialanalysis.github.io/handsonspatialdata/).
+
+-   Sabbata, Stefano De. 2024. *R for Geographic Data Science*. <https://sdesabbata.github.io/r-for-geographic-data-science/>.
+
+-   Comber, Lex. 2024. *GeoComputation and Spatial Analysis Practicals*. <https://bookdown.org/lexcomber/GEOG3195/>.
+
+-   Comber, Lex. 2025. Big Data & Consumer Analytics - RStudio Practicals. <https://bookdown.org/lexcomber/GEOG5917/>
+
+-   Comber, Lex. 2023. Digital Geographies - RStudio Practicals. <https://bookdown.org/lexcomber/GEOG1400/>
+
+-   Davis, Jerry, and SFSU Institute for Geographic Information Science. 2024. *Introduction to Environmental Data Science*. <https://bookdown.org/igisc/EnvDataSci/>.
+
+-   Dorman, Michael. 2023. *Introduction to Spatial Data Programming with R*. <https://geobgu.xyz/r/>.
+
+-   Spatial Data Science with R. <https://rspatial.org/raster/>.
+
+-   Spatial Data Science with R and "terra". <https://rspatial.org/>.
+
+## Spatial Data Analysis and Spatial Statistics
+
+-   Paez, Antonio. 2025. *An Introduction to Spatial Data Analysis and Statistics: A Course in R*. <https://paezha.github.io/spatial-analysis-r/>.
+
+-   Moraga, Paula. 2023. [*Spatial Statistics for Data Science: Theory and Practice with R*](https://www.paulamoraga.com/book-spatial/). 1st edition. Boca Raton: CRC.
+
+-   Rowe, Francisco, and Dani Arribas-Bel. 2024. Spatial Modelling for Data Scientists. <https://gdsl-ul.github.io/san/>.
+
+-   *Geomatics for Environmental Management: An Open Textbook for Students and Practitioners*.  <https://www.opengeomatics.ca/>.
+
+-   Arribas-Bel, Francisco Rowe, Dani. 2024. *Spatial Modelling for Data Scientists*. <https://gdsl-ul.github.io/san/>.
+
+-   Brunsdon, Chris, and Lex Comber. 2022. Code for An Introduction to Spatial Analysis and Mapping in R 2nd edition. <https://study.sagepub.com/brunsdon2e>
+
+-   Lovelace, Robin, and Morgane Dumont. 2017. [*Spatial Microsimulation with R*](https://spatial-microsim-book.robinlovelace.net/index.html). 1st edition. Chapman; Hall/CRC.
+
+## Cartography and GeoVisualization
+
+-   Sievert, Carson. 2020. [*Interactive Web-Based Data Visualization with R, Plotly, and Shiny*](https://plotly-r.com/). Boca Raton: CRC.
+
+-   Tennekes, Martijn, and Jakub Nowosad. 2025. *Spatial Data Visualization with tmap: A Practical Guide to Thematic Mapping in R*. <https://tmap.geocompx.org/>
+
+-   Dorman, Michael. 2025. *Introduction to Web Mapping*. [https://geobgu.xyz/web-mapping2/index.html](https://geobgu.xyz/web-mapping2/).
+
+-   Protić, Milan Kilibarda i Dragutin. 2019. *Introduction to Geovisualization and Web Cartography*. <https://osgl.grf.bg.ac.rs/books/gvvk-en/>.
+
+-   Fidan, Emine. *Guide to Creating Interactive Maps in R*. <https://bookdown.org/eneminef/DRR_Bookdown/>.
+
+-   Hahn, Nico. 2020. *Making Maps with R*. <https://bookdown.org/nicohahn/making_maps_with_r5/docs/introduction.html>.
+
+## Geographic Information Systems (GIS)
+
+-   Slingsby, Jasper. 2025. *A Minimal Introduction to GIS (in R)*. <https://www.ecologi.st/spatial-r/>.
+
+-   Dorman, Michael. 2025. *Introduction to Spatial Data Programming with R*. <https://geobgu.xyz/r/>.
+
+-   Lovelace, Robin, Jakub Nowosad, and Jannes Muenchow. 2025. [*Geocomputation with R*](https://r.geocompx.org/index.html). 2nd edition. Boca Raton: CRC.
+
+-   Gimond, Manuel. 2025. *Intro to GIS and Spatial Analysis*. [https://mgimond.github.io/Spatial/index.html](https://mgimond.github.io/Spatial/).
+
+-   Engel, Claudia A. 2025. *Using Spatial Data with R*. <https://cengel.github.io/R-spatial/>.
+
+-   Roelandt, Nicolas and Jakub Nowosad. 2022. *Getting Started with R and R-Spatial*. <https://bakaniko.github.io/foss4g2022-getting-started-rspatial/>.
+
+-   Mieno, Taro. *R as GIS for Economists*. <https://tmieno2.github.io/R-as-GIS-for-Economists-Quarto/>.
+
+-   Branion-Calles, Michael. 2021. *A Crash Course in Geographic Information Systems (GIS) Using R*. <https://bookdown.org/michael_bcalles/gis-crash-course-in-r/>.
+
+-   *Geomatics for Environmental Management: An Open Textbook for Students and Practitioners*.  <https://www.opengeomatics.ca/>.
+
+## Remote Sensing
+
+-   Camara, Gilberto, Rolf Simoes, Felipe Souza, Felipe Menino, Charlotte Pelletier, Pedro R. Andrade, Karine Ferreira, and Gilberto Queiroz. *Satellite Image Time Series Analysis on Earth Observation Data Cubes*. <https://e-sensing.github.io/sitsbook/>.
+
+-   Ghosh, Aniruddha, and Robert J. Hijmans. *Remote Sensing Image Analysis*. <https://rspatial.org/raster/rs/index.html>
+
+## Applied Spatial Data Science
+
+-   Walker, Kyle. 2023. [*Analyzing US Census Data*](https://walker-data.com/census-r/index.html). 1st edition. Boca Raton: Chapman; Hall/CRC.
+
+-   Moraga, Paula. 2019. [*Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny*](https://www.paulamoraga.com/book-geospatial/). CRC Press.
+
+-   Solymosi, Reka, and Juanjo Medina. 2025. *Crime Mapping in R*. <https://maczokni.github.io/crime_mapping_textbook/>.
+
+-   Emily Peterson. 2024. Spatial Epidemiology Workshop. <https://bookdown.org/epeterson_2010/spatial_epidemiology_workshop/>
+
+-   Steif, Ken. 2021. [*Public Policy Analytics: Code and Context for Data Science in Government*](https://urbanspatial.github.io/PublicPolicyAnalytics/index.html#table-of-contents). 1st edition. Boca Raton London New York: CRC Press.
+
+-   Gannon, J. P. 2024. Hydroinformatics. <https://vt-hydroinformatics.github.io/Quarto_Book/>.
+
+-   Wagner, Helene, ed. 2024. *Landscape Genetic Data Analysis with R*. <https://bookdown.org/hhwagner1/LandGenCourse_book/>.
+
+## Data Science in General
+
+-   Wickham, Hadley, Mine Çetinkaya-Rundel, and Garrett Grolemund, 2023, [*R for Data Science: Import, Tidy, Transform, Visualize, and Model Data*](https://r4ds.hadley.nz/)*,* 2nd edition, Boston: O’Reilly. (김영우 옮김, 2026, [R을 활용한 데이터 과학: 데이터 불러오기, 정돈하기, 변형하기, 시각화하기](https://www.insightbook.co.kr/R-2-2f6863f609e780b283c7dc868b5fdabe), 인사이트, 서울)
+
+-   Baumer, Benjamin, Daniel T. Kaplan, and Nicholas J. Horton. 2024. [*Modern Data Science with R*](https://mdsr-book.github.io/mdsr3e/), 3rd edition, Boca Raton: CRC Press.
+
+-   Irizarry, Rafael A. 2024. [*Introduction to Data Science: Data Wrangling and Visualization with R*](https://rafalab.dfci.harvard.edu/dsbook-part-1/). 2nd edition, Boca Raton: CRC Press.
+
+-   Bonnell, Jerry, and Mitsunori Ogihara. 2023. [*Exploring Data Science with R and the Tidyverse*](https://ds4world.cs.miami.edu/). 1st edition. Chapman; Hall/CRC.
+
+-   Timbers, Tiffany, Trevor Campbell, and Melissa Lee. 2024. [*Data Science: A First Introduction*](https://datasciencebook.ca/). 1st edition. Boca Raton: Chapman; Hall/CRC.
+
+-   Hansjörg Neth. 2025. [Introduction to Data Science](https://bookdown.org/hneth/i2ds/), University of Konstanz, The Netherlands.
+
+-   Hansjörg Neth. 2025. [Data Science for Psychologists](https://bookdown.org/hneth/ds4psy/), University of Konstanz, The Netherlands.
+
+-   Estrellado, Ryan A., Emily A. Freer, Joshua M. Rosenberg, and Isabella C. Velásquez. 2024. *Data Science in Education Using R*. 2nd ed. <https://datascienceineducation.com/>.
+
+-   김길환, 2024, [R 프로그래밍 3판](https://kilhwan.github.io/rprogramming/), 웹북
+
+-   한국 R 사용자회, [데이터 과학을 지탱하는 기본기](https://r2bit.com/book_analytics/), 웹북
+
+-   김하성, 2021, [데이터 사이언스를 위한 R 프로그래밍](https://greendaygh.github.io/Rprog2021/), 웹북
+
+-   김하성, 2022, [한국생명공학연구원 연구데이터 분석과정 R](https://greendaygh.github.io/kribbr2022/), 웹북
+
+## Data Analysis and Modeling
+
+-   Ismay, Chester, Albert Y. Kim, and Arturo Valdivia. 2025. [*Statistical Inference via Data Science: A ModernDive into R and the Tidyverse*](https://moderndive.com/). 2nd edition. Boca Raton: Chapman; Hall/CRC.
+
+-   Irizarry, Rafael A. 2024. *Introduction to Data Science: Statistics and Prediction Algorithms Through Cast Studies*. <https://rafalab.dfci.harvard.edu/dsbook-part-2/>
+
+-   Bischl, Bernd, Raphael Sonabend, Lars Kotthoff, and Michel Lang. 2024. [*Applied Machine Learning Using Mlr3 in R*](https://mlr3book.mlr-org.com/). Boca Raton: CRC Press.
+
+-   Keydana, Sigrid. 2023. [*Deep Learning and Scientific Computing with R Torch*](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/). Boca Raton: CRC Press.
+
+-   Hvitfeldt, Emil. 2023. *An Introduction to Statistical Learning with Applications in R: Tidymodels Labs*. <https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/>.
+
+-   Tipton, Elizabeth, Arend M. Kuyper, and Kaitlyn G. Fitzgerald. 2022. *Introduction to Statistics and Data Science*. <https://nustat.github.io/intro-stat-ds/>.
+
+-   Kuhn, Max, and Julia Silge. 2023. [*Tidy Modeling with R: A Framework for Modeling in the Tidyverse*](https://www.tmwr.org/). 1st edition. Sebastopol, CA: O’Reilly Media.
+
+-   Boehmke, Brad, and Brandon M. Greenwell. 2019. [*Hands-on Machine Learning with R*](https://bradleyboehmke.github.io/HOML/). 1st edition. Boca Raton London New York: Chapman; Hall/CRC.
+
+-   Hvitfeldt, Emil, and Julia Sigle, 2022, [*Supervised Machine Learning for Text Analysis in R*](https://smltar.com/)*,* Boca Raton: CRC Press.
+
+-   *Introduction to Bayesian Inference and Statistical Learning*. <https://bookdown.org/lehre_rdusl/BayesLearn/>
+
+## Data Visualization
+
+-   Wickham, Hadley. 2016. [*ggplot2: Elegant Graphics for Data Analysis*](https://ggplot2-book.org/). 2nd edition, Switzerland: Springer.
+
+-   Rennie, Nicola, 2026, [*The Art of Data Visualization with ggplot2: The TidyTuesday Cookbook*](https://nrennie.rbind.io/art-of-viz/), Boca Raton: CRC Press.
+
+-   Kabacoff, Robert, 2024, [*Modern Data Visualization with R*](https://rkabacoff.github.io/datavis/), Boca Raton: CRC Press.
+
+-   Dougherty, Jack, and Ilya Ilyankou, 2025, [*Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code*](https://handsondataviz.org/), Boston: O’Reilly.
+
+-   Alexander, Rohan. 2023. [*Telling Stories with Data With Applications in R*](https://rohanalexander.github.io/telling_stories-published/). Boca Raton: CRC Press.
+
+-   Sievert, C., 2020, [*Interactive Web-Based Data Visualization with R, plotly, and shiny*](https://plotly-r.com/), Boca Raton: CRC Press.
+
+-   Healy, Kieran. 2019. [*Data Visualization: A Practical Introduction*](https://socviz.co/), Princeton: Princeton University Press. (이다양 옮김, 2020, [데이터 시각화 기본기 다지기](http://acornpub.co.kr/book/data-visualization-healy), 에이콘출판사)
+
+-   Cheshire, James, and Oliver Uberti. 2025. [*Atlas of the Invisible: Maps and Graphics That Will Change How You See the World*](https://www.google.co.kr/books/edition/Atlas_of_the_Invisible/RyQN0AEACAAJ?hl=ko). Penguin Publishing Group. (송예슬 옮김, 2022, [눈에 보이지 않는 지도책: 세상을 읽는 데이터 지리학](https://willbookspub.com/books/349), 파주: 윌북)
+
+-   Cheshire, James, and Oliver Uberti. 2016. [*London: The Information Capital : 100 Maps and Graphics That Will Change How You View the City*](https://www.google.co.kr/books/edition/London/2KTIDAEACAAJ?hl=ko). Penguin Books.
+
+-   Dougherty, Jack, and Ilya Ilyankou, 2025, [*Hands-on Data Visualization: Interactive Storytelling from Spreadsheets to Code*](https://handsondataviz.org/), Boston: O’Reilly. (김태현 옮김, 2022, [핸즈온 데이터 시각화](https://www.yes24.com/product/goods/110225484), 서울: 한빛미디어.)
+
+-   Yau, Nathan. 2024. [*Visualize This: The FlowingData Guide to Design, Visualization, and Statistics*](https://www.google.co.kr/books/edition/Visualize_This/CB9XRIv9oigC?hl=ko&gbpv=0). 2nd edition, Hoboken: Wiley. (한상택 옮김, 2025, [데이터리터러시를 높이는 데이터 시각화: 숫자를 메시지로 바꾸는 스토리텔링과 그래프 작성](https://www.yes24.com/product/goods/152302455), 서울: 인사이트.)
+
+-   Field, Kenneth. 2022. [*Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data*](https://www.google.co.kr/books/edition/Thematic_Mapping/9-y0zgEACAAJ?hl=ko). Esri Press.
+
+-   Allchin, Carl. 2021. [*Communicating with Data: Making Your Case with Data*](https://www.google.co.kr/books/edition/Communicating_with_Data/4eZFEAAAQBAJ?hl=ko&gbpv=0). O’Reilly Media. (이한호 옮김, 2022, [데이터로 전문가처럼 말하기: 효율적 의사 전달을 위한 데이터 시각화와 비즈니스 스토리텔링의 기술](https://www.yes24.com/product/goods/112230753), 서울: 한빛미디어.)
+
+-   Wilke, Claus. 2019. [*Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures*](https://clauswilke.com/dataviz/). O’Reilly Media. (권혜정 옮김, 2020, [데이터 시각화 교과서: 데이터 분석의 본질을 살리는 그래프와 차트 제작의 기본 원리와 응용](https://www.yes24.com/product/goods/87631760), 안양: 책만.)
+
+-   Cairo, Alberto. 2019. [*How Charts Lie: Getting Smarter about Visual Information*](https://www.google.co.kr/books/edition/How_Charts_Lie/qP2KDwAAQBAJ?hl=ko&gbpv=0). W. W. Norton & Company. (박슬라 옮김, 2020, [숫자는 거짓말을 한다: 통계와 그래프에 속지 않는 데이터 읽기의 힘](https://www.yes24.com/product/goods/93738321), 웅진지식하우스)
+
+-   Cairo, Alberto. 2016. [*The Truthful Art: Data, Charts, and Maps for Communication*](https://www.google.co.kr/books/edition/The_Truthful_Art/8dKKCwAAQBAJ?hl=ko&gbpv=0). New Riders. (이제원 옮김, 2019, [진실을 드러내는 데이터 시각화의 과학과 예술](https://www.yes24.com/product/goods/72254343), 서울: 인사이트)
+
+-   Cairo, Alberto. 2013. [*The Functional Art: An Introduction to Information Graphics and Visualization*](https://www.google.co.kr/books/edition/The_Functional_Art/BiT1ugAACAAJ?hl=ko). New Riders. (최가영 옮김, 2013, [인포그래픽과 데이터 시각화 기법을 활용한 스토리텔링](https://wikibook.co.kr/the-functional-art/), 위키북스)
+
+-   Rosling, Hans, Ola Rosling, and Anna Rosling Rönnlund. 2018. [*Factfulness: Ten Reasons We’re Wrong About The World - And Why Things Are Better Than You Think*](https://www.google.co.kr/books/edition/Factfulness/N94sDwAAQBAJ?hl=ko&gbpv=0). Hachette UK. (이창신 옮김, 2019, [팩트풀니스: 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유](https://www.yes24.com/product/goods/69724044), 파주:김영사)
+
+-   Dorling, Daniel, Mark Newman, and Anna Barford. 2010. [*The Atlas of the Real World: Mapping The Way We Live*](https://www.google.co.kr/books/edition/The_Atlas_of_the_Real_World/1NONEAAAQBAJ?hl=ko)*,* Second Edition. WW Norton.
+
+-   한국R사용자회, 2022, [데이터 시각화](https://r2bit.com/book_viz/), 오픈전자책.
+
+## Data Communication
+
+-   Wickham, Hadley, 2021, [*Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R*](https://mastering-shiny.org/)*,* Sebastopol, CA: O’REILLY. (이영록 옮김, 2022, [R 사용자를 위한 Shiny 마스터 가이드](https://www.yes24.com/Product/Goods/116598818), 서울: 인사이트.)
+
+-   Granjon, David, 2022, [*Outstanding User Interfaces with Shiny*](https://unleash-shiny.rinterface.com/), Boaca Raton: CRC Press.
+
+-   Fay, Colin, Vincent Guyader, Sebastien Rochette, and Cervan Girard. 2022, [*Engineering Production-Grade Shiny Apps*](https://engineering-shiny.org/), Boca Raton: CRC Press.
+
+-   Robinson, Loan, [R Shiny Applications in Finance, Medicine Pharma and Education Industry](https://bookdown.org/loankimrobinson/rshinybook/)
+
+## Text Mining and Natural Language Processing
+
+-   Francom, Jerid. 2024. [*An Introduction to Quantitative Text Analysis for Linguistics: Reproducible Research Using R*](https://qtalr.com/book/). Routledge.
+
+-   Silge, Julia, and David Robinson. 2017. [*Text Mining with R: A Tidy Approach*](https://www.tidytextmining.com/). 1st edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly Media.
+
+-   한국R사용자회ㆍ안도현, 2022, [R 텍스트마이닝](https://r2bit.com/book_tm/), 오픈전자책.
+
+-   김영우, 2021, [쉽게 배우는 R 텍스트 마이닝](https://www.yes24.com/Product/Goods/97126355), 서울: 이지스퍼블리싱.
+
+## Data Collection
+
+-   Pittard, Steve. 2022. *Web Scraping with r*. <https://steviep42.github.io/webscraping/book/>.
