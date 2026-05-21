@@ -118,6 +118,8 @@ bibliography: references.bib
 
 - [mapgl](https://walker-data.com/mapgl/)
 
+- [globe4r](https://globe4r.john-coene.com/)
+
 ### Remote Sensing
 
 - [RStoolbox](https://bleutner.github.io/RStoolbox/)

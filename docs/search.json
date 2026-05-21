@@ -410,7 +410,7 @@
     "href": "r_packages.html#spatial-packages",
     "title": "R Packages",
     "section": "Spatial Packages",
-    "text": "Spatial Packages\n\nData Manipulation\n\nsf\nterra\nstars\nstplanr\nsfnetworks\n\n\n\nSpatial Data Analysis\n\nspdep\nspatialreg\nsfdep\nspatstat\nSpatialKDE\nspgwr\ngstat\n\n\n\nGeospatial Visualization\n\ntmap\n\nSpatial Data Visualization with tmap\n\nleaflet\n\nleaflet.minicharts\nleaflet.providers\n\nrayshader\n\nrayshaderanimate\nrayvista\n\nmapgl\n\n\n\nRemote Sensing\n\nRStoolbox\nlidR\n\nThe lidR package book\nlidRtutorial\n\nlasR"
+    "text": "Spatial Packages\n\nData Manipulation\n\nsf\nterra\nstars\nstplanr\nsfnetworks\n\n\n\nSpatial Data Analysis\n\nspdep\nspatialreg\nsfdep\nspatstat\nSpatialKDE\nspgwr\ngstat\n\n\n\nGeospatial Visualization\n\ntmap\n\nSpatial Data Visualization with tmap\n\nleaflet\n\nleaflet.minicharts\nleaflet.providers\n\nrayshader\n\nrayshaderanimate\nrayvista\n\nmapgl\nglobe4r\n\n\n\nRemote Sensing\n\nRStoolbox\nlidR\n\nThe lidR package book\nlidRtutorial\n\nlasR"
   },
   {
     "objectID": "talks/talks_2024_10_26.html",
