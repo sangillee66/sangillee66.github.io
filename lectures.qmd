@@ -5,6 +5,28 @@ date-modified: last-modified
 title-block-banner: images/banner_lectures_new.jpg
 ---
 
+## Spring Semester in 2026
+
+### Cartography <br />지도학
+
+- Course code: 700.231
+- Undergraduate, offered by [Department of Geography Education](https://geoedu.snu.ac.kr/)
+- Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
+  - [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
+- TA: Seowoo Kim
+- Place: 10-102
+- Time: 11:00 - 12:15, Mondays & Wednesdays
+
+### Topics in Cartography and Cartography Education: Interactive Geospatial Visualization <br />지도학 및 지도교육 특강: 인터랙티브 지리공간 시각화
+
+- Course code: M1862.000400
+- Graduate, offered by [Department of Geography Education](https://geoedu.snu.ac.kr/)
+- Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
+  - [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
+- Place: 10-214
+- Time: 18:00 - 20:50, Thursdays
+- [Syllabus](classes/2024_1_Topics_Carto.qmd)
+
 ## Autumn Semester in 2025
 
 ### Spatial Analysis and Geography Education <br />공간분석과 지리교육
