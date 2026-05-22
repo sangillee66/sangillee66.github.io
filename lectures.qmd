@@ -146,8 +146,7 @@ title-block-banner: images/banner_lectures_new.jpg
 - Graduate, offered by [Department of Geography Education](https://geoedu.snu.ac.kr/)
 - Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
   - [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
-- TA: TBD
-- Place: TBD
+- Place: 10-214
 - Time: 18:00 - 20:50, Thursdays
 - [Syllabus](classes/2024_1_Topics_Carto.qmd)
 
