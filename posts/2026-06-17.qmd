@@ -4,10 +4,7 @@ author: "Sang-Il Lee"
 date: "06/17/2026"
 date-modified: last-modified
 categories:
-  - news
-  - data science
-  - spatial data science
-  - R
+  - life
 ---
 
 ![](images/clipboard-3921179368.jpeg)
