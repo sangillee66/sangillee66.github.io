@@ -1,5 +1,5 @@
 ---
-title: "놀라운 기부"
+title: "놀라운 기부와 지리공간 AI"
 author: "Sang-Il Lee"
 date: "08/22/2026"
 date-modified: last-modified
