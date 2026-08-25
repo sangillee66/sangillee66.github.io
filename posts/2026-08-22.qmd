@@ -5,6 +5,8 @@ date: "08/22/2026"
 date-modified: last-modified
 categories:
   - life
+  - spatial data science
+  - geography
 ---
 
 지난 6월에 있었던 일이다. 서울대학교 지리교육과에서 정년을 하신 황만익 교수님께서 모과에 '지리교육과 황만익 장학기금'의 이름으로 50만불(한화 약 7억5천만원)을 기부하셨다. 기부자 감사패 증정식이 6월 16일 총장접견실에서 열렸다.
