@@ -5,6 +5,28 @@ date-modified: last-modified
 title-block-banner: images/banner_lectures_new.jpg
 ---
 
+## Autumn Semester in 2026
+
+### Geographic Information Systems and Geography Education <br />지리정보체계와 지리교육
+
+- Course code: 714.432
+- Undergraduate, offered by [Department of Geography Education](https://geoedu.snu.ac.kr/)
+- Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
+  - [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
+- TA: Seowoo Park
+- Place: 10-102
+- Time: 10:30 - 11:45, Mondays & Wednesdays
+
+### Spatial Data Analysis and Geography Education <br />공간데이터분석과 지리교육
+
+- Spatial Interaction Data Analysis (공간적 상호작용 데이터의 분석)
+- Course code: M1862.000800
+- Graduate, offered by [Department of Geography Education](https://geoedu.snu.ac.kr/)
+- Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
+  - [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
+- Place: 10-102
+- Time: 18:00 - 21:00, Thursdays
+
 ## Spring Semester in 2026
 
 ### Cartography <br />지도학
@@ -13,7 +35,7 @@ title-block-banner: images/banner_lectures_new.jpg
 - Undergraduate, offered by [Department of Geography Education](https://geoedu.snu.ac.kr/)
 - Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
   - [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
-- TA: Seowoo Kim
+- TA: Seowoo Park
 - Place: 10-102
 - Time: 11:00 - 12:15, Mondays & Wednesdays
 
@@ -85,6 +107,7 @@ title-block-banner: images/banner_lectures_new.jpg
 
 ### Spatial Data Analysis and Geography Education <br />공간데이터분석과 지리교육
 
+- Spatial Autocorrelation and Spatial Regression (공간적 자기상관과 공간적 회귀분석)
 - Course code: 713.641A
 - Graduate, offered by [Department of Geography Education](https://geoedu.snu.ac.kr/)
 - Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
@@ -109,7 +132,7 @@ title-block-banner: images/banner_lectures_new.jpg
 
 ### Geographic Information Systems and Geography Education <br />지리정보체계와 지리교육
 
-- Course code: 700.432
+- Course code: 713.432
 - Undergraduate, offered by [Department of Geography Education](https://geoedu.snu.ac.kr/)
 - Instructor: [Sang-Il Lee](https://sangillee66.github.io/) (Professor in Seoul National University)
   - [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
