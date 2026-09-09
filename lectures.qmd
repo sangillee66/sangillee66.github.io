@@ -26,6 +26,7 @@ title-block-banner: images/banner_lectures_new.jpg
   - [si_lee\@snu.ac.kr](mailto:%20si_lee@snu.ac.kr), 02-880-9028, 10-319
 - Place: 10-102
 - Time: 18:00 - 21:00, Thursdays
+- [Class Website](classes/2026_2_SID.qmd)
 
 ## Spring Semester in 2026
 
