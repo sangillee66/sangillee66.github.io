@@ -13,3 +13,5 @@ bibliography: references.bib
 ## 공간적 상호작용 데이터의 특성
 
 ### 시각화
+
+- [서울시](html/seoul_gu_2025.html)

@@ -8,7 +8,7 @@ title-block-banner: images/banner_works_new.jpg
 
 ## Books
 
-- 이상일 옮김, 2026, [공간데이터사이언스: R 프로그래밍 예제](https://www.purungil.com/books/637), 서울: 푸른길. (Pebesma, E. and Bivand, R., 2023, [*Spatial Data Science with Applications in R*](https://r-spatial.org/book/), Boca Raton: CRC Press)
+- 이상일 옮김, 2026, [공간데이터사이언스: R 프로그래밍 예제](https://www.purungil.com/books/637), 서울: 푸른길. (Pebesma, E. and Bivand, R., 2023, [*Spatial Data Science with Applications in R*](https://r-spatial.org/book/), Boca Raton: CRC Press.)
 
 - 정대홍 외 20인, 2022, [인공지능 시대 교사가 만드는 미래학교](http://www.kyoyookbook.co.kr/shop/item.php?it_id=1661472925), 교육과학사, 파주.
 
