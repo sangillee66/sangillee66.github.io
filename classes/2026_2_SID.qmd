@@ -14,5 +14,5 @@ bibliography: references.bib
 
 ### 시각화
 
-- [서울시](html/seoul_gu.html)
+- [서울시](html/seoul_gu_2025.html)
 - [시군](html/sigun1_2025.html)
