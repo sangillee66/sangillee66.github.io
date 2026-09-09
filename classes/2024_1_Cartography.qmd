@@ -12,23 +12,23 @@ number-sections: false
 
 ### 지식 측면
 
--   지도학의 기본 개념 이해
+- 지도학의 기본 개념 이해
 
-    -   I. 지도학과 지도학적 의사소통
+  - I. 지도학과 지도학적 의사소통
 
--   지도 투영의 원리 이해
+- 지도 투영의 원리 이해
 
-    -   II\. 지도 투영
+  - II\. 지도 투영
 
--   주제도 제작의 원리 이해
+- 주제도 제작의 원리 이해
 
-    -   III\. 주제도 제작
+  - III\. 주제도 제작
 
 ### 기능 측면
 
--   GIS를 활용한 지도 제작
+- GIS를 활용한 지도 제작
 
-    -   QGIS 실습
+  - QGIS 실습
 
 <br>
 
@@ -36,29 +36,29 @@ number-sections: false
 
 ### LMS
 
--   서울대학교 eTL ([SNU eTL](http://etl.snu.ac.kr/))
+- 서울대학교 eTL ([SNU eTL](http://etl.snu.ac.kr/))
 
--   강의노트, 실습자료, 참고자료 등
+- 강의노트, 실습자료, 참고자료 등
 
 ### 교수자 홈페이지
 
--   <https://sangillee.snu.ac.kr/classes/2024_1_Cartography.html>
+- <https://sangillee.snu.ac.kr/classes/2024_1_Cartography.html>
 
--   보완적으로 활용
+- 보완적으로 활용
 
 ### 수업 진행 방식
 
-::: columns
+::::: columns
 ::: {.column width="60%"}
--   강의: 파워포인트 및 강의노트
+- 강의: 파워포인트 및 강의노트
 
--   실습: QGIS(실습 조교: 김우형)
+- 실습: QGIS(실습 조교: 김우형)
 :::
 
 ::: {.column width="40%"}
 [![](images/clipboard-1262866203.png){width="250"}](https://qgis.org/ko/site/)
 :::
-:::
+:::::
 
 <br>
 
@@ -70,11 +70,11 @@ number-sections: false
 
 ### 지도학 관련 참고도서
 
--   이건학ㆍ김감영ㆍ김영호ㆍ김영훈ㆍ신정엽ㆍ이상일 옮김, 2014, [지도학과 지리적 시각화](http://www.sigmapress.co.kr/shop/m_mall_detail.php?ps_ctid=01130000&ps_goid=1873&depth_2_display=none), 서울: 시그마프레스. (Slocum, Terry A., Robert B. McMaster, Fritz C. Kessler, and Hugh H. Howard. 2009, [*Thematic Cartography and Geovisualization*](https://www.google.co.kr/books/edition/Thematic_Cartography_and_Geovisualizatio/P_URAQAAIAAJ?hl=ko&gbpv=0&bsq=Thematic%20Cartography%20and%20Geovisualization), 3rd ed., Upper Saddle River, NJ: Pearson Prentice Hall.)
+- 이건학ㆍ김감영ㆍ김영호ㆍ김영훈ㆍ신정엽ㆍ이상일 옮김, 2014, [지도학과 지리적 시각화](http://www.sigmapress.co.kr/shop/m_mall_detail.php?ps_ctid=01130000&ps_goid=1873&depth_2_display=none), 서울: 시그마프레스. (Slocum, Terry A., Robert B. McMaster, Fritz C. Kessler, and Hugh H. Howard. 2009, [*Thematic Cartography and Geovisualization*](https://www.google.co.kr/books/edition/Thematic_Cartography_and_Geovisualizatio/P_URAQAAIAAJ?hl=ko&gbpv=0&bsq=Thematic%20Cartography%20and%20Geovisualization), 3rd ed., Upper Saddle River, NJ: Pearson Prentice Hall.)
 
--   이상일ㆍ손일 옮김, 2021, [지도와 거짓말](http://www.purungil.co.kr/books/books_show.php?seq=617&mode=category&category_seq=_1_), 서울: 푸른길. (Monmonier, Mark S, 2018, [*How to Lie with Maps*](https://press.uchicago.edu/ucp/books/book/chicago/H/bo27400568.html)*,* Third edition, Chicago, IL: The University of Chicago Press.)
+- 이상일ㆍ손일 옮김, 2021, [지도와 거짓말](http://www.purungil.co.kr/books/books_show.php?seq=617&mode=category&category_seq=_1_), 서울: 푸른길. (Monmonier, Mark S, 2018, [*How to Lie with Maps*](https://press.uchicago.edu/ucp/books/book/chicago/H/bo27400568.html)*,* Third edition, Chicago, IL: The University of Chicago Press.)
 
--   이상일 옮김, 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](http://www.purungil.co.kr/books/books_show.php?seq=259&mode=category&category_seq=), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.)
+- 이상일 옮김, 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](http://www.purungil.co.kr/books/books_show.php?seq=259&mode=category&category_seq=), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.)
 
 ::: {layout-ncol="3" layout-valign="bottom"}
 ![](images/clipboard-724924890.png){width="250"}
@@ -86,13 +86,13 @@ number-sections: false
 
 ### GIS 실습 관련 참고 도서
 
--   윤동근ㆍ구교준ㆍ추미진ㆍ안승연ㆍ이희철, 2023, [QGIS를 활용한 공간분석 입문](https://www.yes24.com/Product/Goods/123860043), 고려대학교출판부.
+- 윤동근ㆍ구교준ㆍ추미진ㆍ안승연ㆍ이희철, 2023, [QGIS를 활용한 공간분석 입문](https://www.yes24.com/Product/Goods/123860043), 고려대학교출판부.
 
--   이준호ㆍ유병혁ㆍ김태훈, 2023, [QGIS Cookbook with 3.x](https://product.kyobobook.co.kr/detail/S000201210155), 구미서관.
+- 이준호ㆍ유병혁ㆍ김태훈, 2023, [QGIS Cookbook with 3.x](https://product.kyobobook.co.kr/detail/S000201210155), 구미서관.
 
--   문승주, 2022, [스마트한 QGIS 활용서](https://www.yes24.com/Product/Goods/109652274), 예문사.
+- 문승주, 2022, [스마트한 QGIS 활용서](https://www.yes24.com/Product/Goods/109652274), 예문사.
 
--   염윤호ㆍ최재훈, 2022, [사회과학을 위한 QGIS 활용과 지리공간분석](https://www.yes24.com/Product/Goods/107663212), 윤성사.
+- 염윤호ㆍ최재훈, 2022, [사회과학을 위한 QGIS 활용과 지리공간분석](https://www.yes24.com/Product/Goods/107663212), 윤성사.
 
 <br>
 
@@ -100,7 +100,7 @@ number-sections: false
 
 ### 출석(15%)
 
--   벌점: 결석 1회당 -1.5점/ 지각 1회당 -0.3점
+- 벌점: 결석 1회당 -1.5점/ 지각 1회당 -0.3점
 
 ::: callout-warning
 벌점 총점이 10점을 초과하는 경우 전체 학점 F
@@ -108,9 +108,9 @@ number-sections: false
 
 ### 시험(85%)
 
--   중간 시험(40%): 4월 22일(월)
+- 중간 시험(40%): 4월 22일(월)
 
--   기말 시험(45%): 6월 17일(월)
+- 기말 시험(45%): 6월 17일(월)
 
 ::: callout-warning
 두 시험 중 하나라도 미응시인 경우 전체 학점 F

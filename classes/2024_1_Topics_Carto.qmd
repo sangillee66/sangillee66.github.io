@@ -11,13 +11,13 @@ bibliography: references.bib
 
 ## Main Focus
 
--   Lighting up the development of cartography from the perspective of the history of human civilization
+- Lighting up the development of cartography from the perspective of the history of human civilization
 
--   Exploring the ten selected world maps
+- Exploring the ten selected world maps
 
-    -   Eratosthenes' World Map, Ptolemaios' World Map, Hereford Mappa Mundi, Fra Mauro Map, al-Idirisi's World Map, Kangnido of Korea, Waldseemüller's World Map, Mercator's World Map, John Colomb's British Empire Map, and Peters' World Map.
+  - Eratosthenes' World Map, Ptolemaios' World Map, Hereford Mappa Mundi, Fra Mauro Map, al-Idirisi's World Map, Kangnido of Korea, Waldseemüller's World Map, Mercator's World Map, John Colomb's British Empire Map, and Peters' World Map.
 
--   Derivation of implications in education, geography education, and map education of the history of cartography
+- Derivation of implications in education, geography education, and map education of the history of cartography
 
 <br>
 
@@ -25,17 +25,17 @@ bibliography: references.bib
 
 ### LMS (Learning Management System)
 
--   eTL at Seoul National University ([SNU eTL](http://etl.snu.ac.kr/))
+- eTL at Seoul National University ([SNU eTL](http://etl.snu.ac.kr/))
 
-    -   Lecture notes, materials, references, and etc.
+  - Lecture notes, materials, references, and etc.
 
--   Class homepage: <https://sangillee.snu.ac.kr/classes/2024_1_Topics_Carto.html>
+- Class homepage: <https://sangillee.snu.ac.kr/classes/2024_1_Topics_Carto.html>
 
 ### Class Design
 
--   Classes are conducted in a combination of seminar and lecture.
+- Classes are conducted in a combination of seminar and lecture.
 
--   Every class, two students present and two students have a designated discussion. Other students also actively participate in the discussion. After that, the instructor's lecture will be followed to wrap up the subject of the week.
+- Every class, two students present and two students have a designated discussion. Other students also actively participate in the discussion. After that, the instructor's lecture will be followed to wrap up the subject of the week.
 
 <br>
 
@@ -43,13 +43,13 @@ bibliography: references.bib
 
 ### Presentation and Discussion
 
--   Each student should participate as a presenter at least twice and as a discussant at least four times throughout the course.
+- Each student should participate as a presenter at least twice and as a discussant at least four times throughout the course.
 
--   The student's presentation may be a presentation on a specific article or a rough explanation of a specific map. The presenter should give a presentation on the relevant content within 30 minutes, and the debaters should discuss the presentation (complementation, opinion, question, etc.).
+- The student's presentation may be a presentation on a specific article or a rough explanation of a specific map. The presenter should give a presentation on the relevant content within 30 minutes, and the debaters should discuss the presentation (complementation, opinion, question, etc.).
 
 ### Term Paper
 
--   Each student should submit a term paper at the end of the semester.
+- Each student should submit a term paper at the end of the semester.
 
 <br>
 
@@ -57,16 +57,16 @@ bibliography: references.bib
 
 ### Attendance (15%)
 
--   Penalty will be given for each absence/lateness.
+- Penalty will be given for each absence/lateness.
 
 ### Presentation and Discussion (20%)
 
--   Overall performance will be evaluated.
+- Overall performance will be evaluated.
 
 ### Term Paper (65%)
 
--   A journal-article-type document should be submitted.
--   Due date: 6/20/2024 (Thursday)
+- A journal-article-type document should be submitted.
+- Due date: 6/20/2024 (Thursday)
 
 <br>
 
@@ -74,41 +74,41 @@ bibliography: references.bib
 
 ### Books Translated into Korean
 
--   이상일 옮김, 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.)
+- 이상일 옮김, 2014, [지구 끝까지: 세상을 바꾼 100장의 지도](https://www.yes24.com/Product/Goods/11772692), 서울: 푸른길. (Harwood, Jeremy, 2011, [*To the Ends of the Earth: 100 Maps that Changed the World*](https://www.amazon.com/Ends-Earth-Maps-Changed-World/dp/0785828982), New York, N.Y.: Chartwell Books.)
 
--   이창신 옮김, 2014, [욕망하는 지도: 12개의 지도로 읽는 세계사](https://www.yes24.com/Product/goods/12192777), 서울: 알에이치코리아. (Brotton, Jerry, 2012, [*A History of the World in 12 Maps*](https://www.amazon.com/History-World-12-Maps/dp/0143126024/ref=sr_1_1?crid=9UJLJ246IYSS&dib=eyJ2IjoiMSJ9.FY-MmIMOaa_OhpIKA0R7CHSpbeqP3wOtOFs1sSfDjxeQ8INh1JiJ-KQljiGWcA25hxz874-gObNXP3X5ux2xio52rPEJBPyZ7ZvLFDY0DDy8yLVU9scI67gu_NYK-0eK0EXvGAmeM6n4j8Vlbb5scmVYm88eBN25OVoCVQ_OnJwXaIQhrTFJBx88eP5I5jEQC0fdviI7qwn7JuLEicvdF9YVmfvRWbYyWu7okUNlW0A._mvJs7KogkSTGtuBdXenODFkqSV87AzIcwZwWisz9to&dib_tag=se&keywords=A+History+of+the+World+in+12+Maps&qid=1705823939&s=books&sprefix=a+history+of+the+world+in+12+maps%2Cstripbooks-intl-ship%2C217&sr=1-1), New York: Viking.)
+- 이창신 옮김, 2014, [욕망하는 지도: 12개의 지도로 읽는 세계사](https://www.yes24.com/Product/goods/12192777), 서울: 알에이치코리아. (Brotton, Jerry, 2012, [*A History of the World in 12 Maps*](https://www.amazon.com/History-World-12-Maps/dp/0143126024/ref=sr_1_1?crid=9UJLJ246IYSS&dib=eyJ2IjoiMSJ9.FY-MmIMOaa_OhpIKA0R7CHSpbeqP3wOtOFs1sSfDjxeQ8INh1JiJ-KQljiGWcA25hxz874-gObNXP3X5ux2xio52rPEJBPyZ7ZvLFDY0DDy8yLVU9scI67gu_NYK-0eK0EXvGAmeM6n4j8Vlbb5scmVYm88eBN25OVoCVQ_OnJwXaIQhrTFJBx88eP5I5jEQC0fdviI7qwn7JuLEicvdF9YVmfvRWbYyWu7okUNlW0A._mvJs7KogkSTGtuBdXenODFkqSV87AzIcwZwWisz9to&dib_tag=se&keywords=A+History+of+the+World+in+12+Maps&qid=1705823939&s=books&sprefix=a+history+of+the+world+in+12+maps%2Cstripbooks-intl-ship%2C217&sr=1-1), New York: Viking.)
 
--   김명남 옮김, 2015, [지도 위의 인문학](https://www.yes24.com/Product/Goods/23544580): 지도 위에 그려진 인류 문명의 유쾌한 탐험, 파주: 다산북스. (Garfield, Simon. 2013. [*On the Map: A Mind-expanding Exploration of the Way the World Looks*](https://www.amazon.com/Map-Mind-Expanding-Exploration-Notable-Adults/dp/1592407803/ref=sr_1_1?crid=3BJW1GMAX4YZ5&dib=eyJ2IjoiMSJ9.lQGK5iKst9YJ8yMba6Ck0TRUHjQNFMzmbWXLYoV6jo4Jk4J7_nKqqf7F2C6id3nHQltlEDYPQ39oLfK4oLqViqP1LTrmA66wA6jVbBRQOuQGWWx0Oxc72aDNdtS3WoQYNFIXZ-uyCrWncYV83Q2QjQ.FdwJlG7VbG8FpX75S9mLb0ynmr8fBli71VRD27DKD9U&dib_tag=se&keywords=On+the+Map%3A+A+Mind-expanding&qid=1705823976&s=books&sprefix=on+the+map+a+mind-expanding%2Cstripbooks-intl-ship%2C227&sr=1-1), New York, N.Y.: Gotham Books.)
+- 김명남 옮김, 2015, [지도 위의 인문학](https://www.yes24.com/Product/Goods/23544580): 지도 위에 그려진 인류 문명의 유쾌한 탐험, 파주: 다산북스. (Garfield, Simon. 2013. [*On the Map: A Mind-expanding Exploration of the Way the World Looks*](https://www.amazon.com/Map-Mind-Expanding-Exploration-Notable-Adults/dp/1592407803/ref=sr_1_1?crid=3BJW1GMAX4YZ5&dib=eyJ2IjoiMSJ9.lQGK5iKst9YJ8yMba6Ck0TRUHjQNFMzmbWXLYoV6jo4Jk4J7_nKqqf7F2C6id3nHQltlEDYPQ39oLfK4oLqViqP1LTrmA66wA6jVbBRQOuQGWWx0Oxc72aDNdtS3WoQYNFIXZ-uyCrWncYV83Q2QjQ.FdwJlG7VbG8FpX75S9mLb0ynmr8fBli71VRD27DKD9U&dib_tag=se&keywords=On+the+Map%3A+A+Mind-expanding&qid=1705823976&s=books&sprefix=on+the+map+a+mind-expanding%2Cstripbooks-intl-ship%2C227&sr=1-1), New York, N.Y.: Gotham Books.)
 
--   유나영 옮김, 2021, [지도의 역사: 지도로 그려진 최초의 발자취부터 인공지능까지](https://www.yes24.com/Product/Goods/104227876), 서울: 소소의책. (Swanston, Malcolm, and Alexander Swanston, 2019, [*How to Draw a Map*](https://www.amazon.com/How-to-Draw-a-Map/dp/0008275793/ref=sr_1_2?crid=215Q9RNBMV48J&dib=eyJ2IjoiMSJ9.DnuLacSDTLpZaYAPmIRSfz7vy-o7UERC3fTszoV0jhEEr8FXT1cDbT--r7xxnZmYB4jZ9jM5FXcvOnYk7dr27Vdwek5pU12DGGcykFuM2X_j6nAY4mw-MTRjhnWhUhlFmwwhI1_wYiFLxTOKjNPgDir8_GI4bKClkI3i1X1VB7zrj-noPbUOtGDMQ6feMKFvkoQ__K7T43W7D6vm6qU_rIVRdw96W-Gf0G09zFuMPk0.Lev427xXvPEXInx4RTCdzXCKrE_a4wiR7-ffvepb5xA&dib_tag=se&keywords=How+to+Draw+a+Map&qid=1705824019&s=books&sprefix=how+to+draw+a+map%2Cstripbooks-intl-ship%2C223&sr=1-2), London: HarperCollinsPublishers.)
+- 유나영 옮김, 2021, [지도의 역사: 지도로 그려진 최초의 발자취부터 인공지능까지](https://www.yes24.com/Product/Goods/104227876), 서울: 소소의책. (Swanston, Malcolm, and Alexander Swanston, 2019, [*How to Draw a Map*](https://www.amazon.com/How-to-Draw-a-Map/dp/0008275793/ref=sr_1_2?crid=215Q9RNBMV48J&dib=eyJ2IjoiMSJ9.DnuLacSDTLpZaYAPmIRSfz7vy-o7UERC3fTszoV0jhEEr8FXT1cDbT--r7xxnZmYB4jZ9jM5FXcvOnYk7dr27Vdwek5pU12DGGcykFuM2X_j6nAY4mw-MTRjhnWhUhlFmwwhI1_wYiFLxTOKjNPgDir8_GI4bKClkI3i1X1VB7zrj-noPbUOtGDMQ6feMKFvkoQ__K7T43W7D6vm6qU_rIVRdw96W-Gf0G09zFuMPk0.Lev427xXvPEXInx4RTCdzXCKrE_a4wiR7-ffvepb5xA&dib_tag=se&keywords=How+to+Draw+a+Map&qid=1705824019&s=books&sprefix=how+to+draw+a+map%2Cstripbooks-intl-ship%2C223&sr=1-2), London: HarperCollinsPublishers.)
 
--   김요한 옮김, 2006, [세계 지도의 역사](https://www.yes24.com/Product/Goods/1953218), 서울: 지식의숲. (Black, Jeremy, ed. 2005. *Visions of the World: A History of Maps*. London: Mitchell Beazley.)
+- 김요한 옮김, 2006, [세계 지도의 역사](https://www.yes24.com/Product/Goods/1953218), 서울: 지식의숲. (Black, Jeremy, ed. 2005. *Visions of the World: A History of Maps*. London: Mitchell Beazley.)
 
--   김성은 옮김, 2007, [지도박물관: 역사상 가장 주목할 만한 지도 100가지](https://www.yes24.com/Product/Goods/2664217), 서울: 웅진씽크빅.(Clark, John Owen Edward, and Jeremy Black, eds. 2005. [*Remarkable Maps: 100 Examples of How Cartography Defined, Changed and Stole the World*](https://www.amazon.com/Remarkable-Maps-Examples-Cartography-Throughout/dp/1844860272/ref=sr_1_1?crid=3JY8TK5RZQYPM&keywords=Remarkable+maps&qid=1706772087&s=books&sprefix=remarkable+maps+100+examples+of+how+cartography%2Cstripbooks-intl-ship%2C262&sr=1-1). London: Conway Maritime Press.)
+- 김성은 옮김, 2007, [지도박물관: 역사상 가장 주목할 만한 지도 100가지](https://www.yes24.com/Product/Goods/2664217), 서울: 웅진씽크빅.(Clark, John Owen Edward, and Jeremy Black, eds. 2005. [*Remarkable Maps: 100 Examples of How Cartography Defined, Changed and Stole the World*](https://www.amazon.com/Remarkable-Maps-Examples-Cartography-Throughout/dp/1844860272/ref=sr_1_1?crid=3JY8TK5RZQYPM&keywords=Remarkable+maps&qid=1706772087&s=books&sprefix=remarkable+maps+100+examples+of+how+cartography%2Cstripbooks-intl-ship%2C262&sr=1-1). London: Conway Maritime Press.)
 
--   박홍경 옮김, 2016, [세상의 모든 지도](https://www.yes24.com/Product/Goods/23991719) the MAP, 고양: 생각의집(Rooney, Anne. 2015. [*The Story of Maps: Putting the World in Perspective*](https://www.amazon.com/Story-Maps-Anne-Rooney/dp/1784048267/ref=sr_1_1?crid=1LVHN6W4NTHK6&keywords=The+Story+of+Maps%3A+Putting+the+World+in+Perspective&qid=1706782533&s=books&sprefix=the+story+of+maps+putting+the+world+in+perspective%2Cstripbooks-intl-ship%2C521&sr=1-1). London: Arcturus.)
+- 박홍경 옮김, 2016, [세상의 모든 지도](https://www.yes24.com/Product/Goods/23991719) the MAP, 고양: 생각의집(Rooney, Anne. 2015. [*The Story of Maps: Putting the World in Perspective*](https://www.amazon.com/Story-Maps-Anne-Rooney/dp/1784048267/ref=sr_1_1?crid=1LVHN6W4NTHK6&keywords=The+Story+of+Maps%3A+Putting+the+World+in+Perspective&qid=1706782533&s=books&sprefix=the+story+of+maps+putting+the+world+in+perspective%2Cstripbooks-intl-ship%2C521&sr=1-1). London: Arcturus.)
 
--   송태욱 옮김, 2010, [세계 지도의 탄생](https://www.yes24.com/Product/Goods/3969693), 파주: 알마(応地利明, 2007, [「世界地圖」の誕生](https://www.amazon.com/Sekai-chizu-tanjo%C3%8C-kataru/dp/4532165830), 東京: 日本経済新聞出版社).
+- 송태욱 옮김, 2010, [세계 지도의 탄생](https://www.yes24.com/Product/Goods/3969693), 파주: 알마(応地利明, 2007, [「世界地圖」の誕生](https://www.amazon.com/Sekai-chizu-tanjo%C3%8C-kataru/dp/4532165830), 東京: 日本経済新聞出版社).
 
 ### Books in English
 
--   Brotton, Jerry. 2014. [*Great Maps: The World’s Masterpieces Explored and Explained*](https://www.google.co.kr/books/edition/Great_Maps/0HkRBAAAQBAJ?hl=ko&gbpv=0). New York: Publishing.
+- Brotton, Jerry. 2014. [*Great Maps: The World’s Masterpieces Explored and Explained*](https://www.google.co.kr/books/edition/Great_Maps/0HkRBAAAQBAJ?hl=ko&gbpv=0). New York: Publishing.
 
--   Parker, Philip. 2023. [*To the Ends of the Earth: How the Greatest Maps Were Made*](https://www.google.co.kr/books/edition/To_the_Ends_of_the_Earth/qwCqEAAAQBAJ?hl=ko&gbpv=0). London: Ivy Press.
+- Parker, Philip. 2023. [*To the Ends of the Earth: How the Greatest Maps Were Made*](https://www.google.co.kr/books/edition/To_the_Ends_of_the_Earth/qwCqEAAAQBAJ?hl=ko&gbpv=0). London: Ivy Press.
 
--   Thrower, Norman J. W. 2008. [*Maps and Civilization: Cartography in Culture and Society*](https://www.google.co.kr/books/edition/Maps_and_Civilization/cGeCNa_vookC?hl=ko&gbpv=0)*, Third Edition*. University of Chicago Press.
+- Thrower, Norman J. W. 2008. [*Maps and Civilization: Cartography in Culture and Society*](https://www.google.co.kr/books/edition/Maps_and_Civilization/cGeCNa_vookC?hl=ko&gbpv=0)*, Third Edition*. University of Chicago Press.
 
--   Edney, Matthew H. 2019. [*Cartography: The Ideal and Its History*](https://www.google.co.kr/books/edition/Cartography/fd-NDwAAQBAJ?hl=ko&gbpv=0). University of Chicago Press.
+- Edney, Matthew H. 2019. [*Cartography: The Ideal and Its History*](https://www.google.co.kr/books/edition/Cartography/fd-NDwAAQBAJ?hl=ko&gbpv=0). University of Chicago Press.
 
--   Berg, Thomas Reinertsen. 2018. [*Theater of the World: The Maps That Made History*](https://www.google.co.kr/books/edition/Theater_of_the_World/qwVVDwAAQBAJ?hl=ko&gbpv=0). Little Brown.
+- Berg, Thomas Reinertsen. 2018. [*Theater of the World: The Maps That Made History*](https://www.google.co.kr/books/edition/Theater_of_the_World/qwVVDwAAQBAJ?hl=ko&gbpv=0). Little Brown.
 
--   Riffenburgh, Beau. 2014. [*Mapping the World: The Story of Cartography*](https://www.google.co.kr/books/edition/Mapping_the_World/Gt2toAEACAAJ?hl=ko). Carlton Books.
+- Riffenburgh, Beau. 2014. [*Mapping the World: The Story of Cartography*](https://www.google.co.kr/books/edition/Mapping_the_World/Gt2toAEACAAJ?hl=ko). Carlton Books.
 
--   Riffenburgh, Beau. 2011. [*The Men Who Mapped the World: The Treasures of Cartography*](https://www.google.co.kr/books/edition/The_Men_who_Mapped_the_World/ECiGZwEACAAJ?hl=ko). London: Carlton Books.
+- Riffenburgh, Beau. 2011. [*The Men Who Mapped the World: The Treasures of Cartography*](https://www.google.co.kr/books/edition/The_Men_who_Mapped_the_World/ECiGZwEACAAJ?hl=ko). London: Carlton Books.
 
--   Whitfield, Peter. 2010. [*The Image of the World: 20 Centuries of the World Maps*](https://www.amazon.com/Image-World-20-Centuries-Maps/dp/0764903640/ref=sr_1_1?crid=3HUCOAHKF1IWH&keywords=The+Image+of+the+World%3A+20+Centuries+of+the+World+Maps&qid=1706967832&s=books&sprefix=maps+and+civilization+cartography+in+culture+and+society%2Cstripbooks-intl-ship%2C693&sr=1-1). Updated ed. London: British Library.
+- Whitfield, Peter. 2010. [*The Image of the World: 20 Centuries of the World Maps*](https://www.amazon.com/Image-World-20-Centuries-Maps/dp/0764903640/ref=sr_1_1?crid=3HUCOAHKF1IWH&keywords=The+Image+of+the+World%3A+20+Centuries+of+the+World+Maps&qid=1706967832&s=books&sprefix=maps+and+civilization+cartography+in+culture+and+society%2Cstripbooks-intl-ship%2C693&sr=1-1). Updated ed. London: British Library.
 
--   Ehrenberg, Ralph E. 2006. [*Mapping the World: An Illustrated History of Cartography*](https://www.amazon.com/Mapping-World-Illustrated-History-Cartography/dp/0792265254/ref=sr_1_1?crid=M7M77840D8EW&keywords=Mapping+the+World%3A+An+Illustrated+History+of+Cartography&qid=1706967978&s=books&sprefix=mapping+the+world+an+illustrated+history+of+cartography%2Cstripbooks-intl-ship%2C240&sr=1-1). Washington, DC: National Geographic Society.
+- Ehrenberg, Ralph E. 2006. [*Mapping the World: An Illustrated History of Cartography*](https://www.amazon.com/Mapping-World-Illustrated-History-Cartography/dp/0792265254/ref=sr_1_1?crid=M7M77840D8EW&keywords=Mapping+the+World%3A+An+Illustrated+History+of+Cartography&qid=1706967978&s=books&sprefix=mapping+the+world+an+illustrated+history+of+cartography%2Cstripbooks-intl-ship%2C240&sr=1-1). Washington, DC: National Geographic Society.
 
 ::: {layout-ncol="3" layout-valign="bottom"}
 ![](images/clipboard-1073289357.png){width="250"}
@@ -122,23 +122,23 @@ bibliography: references.bib
 
 ## Web Resources
 
--   The History of Cartography Project
+- The History of Cartography Project
 
-    -   All the volumes from the History of Cartography project are available in pdf format for free in the courtesy of the University of Chicago Press.
+  - All the volumes from the History of Cartography project are available in pdf format for free in the courtesy of the University of Chicago Press.
 
-    -   The first outcome of this massive project came out in 1987 and its final mission is coming to an end.
+  - The first outcome of this massive project came out in 1987 and its final mission is coming to an end.
 
-    -   Link: <https://press.uchicago.edu/books/HOC/index.html>
+  - Link: <https://press.uchicago.edu/books/HOC/index.html>
 
--   My Old Maps
+- My Old Maps
 
-    -   Great works being done by a person who loves maps so much are freely available.
+  - Great works being done by a person who loves maps so much are freely available.
 
-    -   The person divides the history of cartography into four distinct eras: Antiquity (6,200 BCE - 600 CE), Early Medieval (400-1300), Late Medieval (1300-1490), and Renaissance (1490-1800).
+  - The person divides the history of cartography into four distinct eras: Antiquity (6,200 BCE - 600 CE), Early Medieval (400-1300), Late Medieval (1300-1490), and Renaissance (1490-1800).
 
-    -   In the website, there are more than 370 monographs for cartographic masterpieces and wonders which amount to almost 10,000 pages and constitute a collection of 14 books.
+  - In the website, there are more than 370 monographs for cartographic masterpieces and wonders which amount to almost 10,000 pages and constitute a collection of 14 books.
 
-    -   Link: <https://www.myoldmaps.com/>
+  - Link: <https://www.myoldmaps.com/>
 
 <br>
 
@@ -146,40 +146,40 @@ bibliography: references.bib
 
 ### Maps: Power, Plunder and Possession
 
--   2010, BBC FOUR
+- 2010, BBC FOUR
 
--   Jerry Brotton, Robin Knox-Johnston, Ian Stewart
+- Jerry Brotton, Robin Knox-Johnston, Ian Stewart
 
--   Links
+- Links
 
-    -   Episode 1: [Windows on the World](https://www.dailymotion.com/video/x823fqh)
+  - Episode 1: [Windows on the World](https://www.dailymotion.com/video/x823fqh)
 
-    -   Episode 2: [Spirit of the Age](https://www.dailymotion.com/video/x826f5y)
+  - Episode 2: [Spirit of the Age](https://www.dailymotion.com/video/x826f5y)
 
-    -   Episode 3: [Mapping the World](https://www.dailymotion.com/video/x826gac)
+  - Episode 3: [Mapping the World](https://www.dailymotion.com/video/x826gac)
 
 ### 문명의 기억, 지도
 
--   2012, 공사창립특집 KBS대기획
+- 2012, 공사창립특집 KBS대기획
 
--   Links
+- Links
 
-    -   [전체](https://www.youtube.com/watch?v=lcobSQ_fopo)
+  - [전체](https://www.youtube.com/watch?v=lcobSQ_fopo)
 
-    -   1부: [달의 산](https://www.youtube.com/watch?v=Q9S0A4wyp80)
+  - 1부: [달의 산](https://www.youtube.com/watch?v=Q9S0A4wyp80)
 
-    -   2부: [프톨레마이오스](https://www.youtube.com/watch?v=JK18xpR1w8Q)
+  - 2부: [프톨레마이오스](https://www.youtube.com/watch?v=JK18xpR1w8Q)
 
-    -   3부: [프레스터 존](https://www.youtube.com/watch?v=MC-nMdw-zBU)
+  - 3부: [프레스터 존](https://www.youtube.com/watch?v=MC-nMdw-zBU)
 
-    -   4부: [지도 전쟁](https://www.youtube.com/watch?v=EneGCdNUHio)
+  - 4부: [지도 전쟁](https://www.youtube.com/watch?v=EneGCdNUHio)
 
 <br>
 
 ## Calendar
 
 | Week | Date | Content | Readings |
-|:------------:|:------------:|-------------------------------|--------------|
+|:-------------:|:-------------:|---------------------------|---------------|
 | 1 | 3/7 | Orientation |  |
 | 2 | 3/14 | Maps and Civilization: Prologue | 지구 끝까지 |
 | 3 | 3/21 | Eratosthenes' World Map | Irby (2012) |
@@ -198,8 +198,8 @@ bibliography: references.bib
 
 ## Articles for Presentation
 
--   Irby, Georgia L. 2012. “[Mapping the World: Greek Initiatives from Homer to Eratosthenes](papers/Irby_2012.pdf).” in Talbert, J. A. ed. *Ancient Perspectives: Maps and Their Place in Mesopotamia, Egypt, Greece, and Rome.* Chicago: The University of Chicago Press: 81–107. 
+- Irby, Georgia L. 2012. “[Mapping the World: Greek Initiatives from Homer to Eratosthenes](papers/Irby_2012.pdf).” in Talbert, J. A. ed. *Ancient Perspectives: Maps and Their Place in Mesopotamia, Egypt, Greece, and Rome.* Chicago: The University of Chicago Press: 81–107. 
 
--   Edson, Evelyn. 2007. *The World Map, 1300-1492: The Persistence of Tradition and Transformation*. Baltimore: Johns Hopkins University Press. [Chapter 6 Fra Mauro: The Debate on the Map](papers/Edson_2007.pdf): 141-164.
+- Edson, Evelyn. 2007. *The World Map, 1300-1492: The Persistence of Tradition and Transformation*. Baltimore: Johns Hopkins University Press. [Chapter 6 Fra Mauro: The Debate on the Map](papers/Edson_2007.pdf): 141-164.
 
--   Biltcliffe, Pippa. 2005. “[Walter Crane and the Imperial Federation Map Showing the Extent of the British Empire (1886)](papers/Biltcliffe_2005.pdf).” *Imago Mundi* 57 (1): 63–69.
+- Biltcliffe, Pippa. 2005. “[Walter Crane and the Imperial Federation Map Showing the Extent of the British Empire (1886)](papers/Biltcliffe_2005.pdf).” *Imago Mundi* 57 (1): 63–69.
